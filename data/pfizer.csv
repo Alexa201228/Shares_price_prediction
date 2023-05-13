@@ -1,1339 +1,1339 @@
-,Дата,Время,Цена до,Цена после,Разница в долларах,Дельта в процентах,Текст новости
-0,2022-09-29,12:24:05,44.055000 ,44.355000 , 0.2, 0.6,"Biohaven's ALS Drug Fails To Meet Study Endpoint, Second Therapy To Fail Trials In Recent Months
+;Дата;Время;Цена до;Цена после;Разница в долларах;Дельта в процентах;Текст новости
+0;2022-09-29;12:24:05;44.055000 ;44.355000 ; 0.2; 0.6;"Biohaven's ALS Drug Fails To Meet Study Endpoint, Second Therapy To Fail Trials In Recent Months
 "
-1,2022-09-23,12:02:47,43.880001 ,43.654999 ,-0.2,-0.5,"Pfizer Resumes Dosing In Phase 3 Hemophilia Gene Therapy Trial Six Months After FDA Lifts Clinical Hold
+1;2022-09-23;12:02:47;43.880001 ;43.654999 ;-0.2;-0.5;"Pfizer Resumes Dosing In Phase 3 Hemophilia Gene Therapy Trial Six Months After FDA Lifts Clinical Hold
 "
-2,2022-09-23,10:41:07,44.110001 ,43.880001 ,-0.2,-0.5,"Elon Musk, Jeff Bezos & Richard Branson: Which Billionaire Will Bring The Space Race Ethos To The Cannabis Industry?
+2;2022-09-23;10:41:07;44.110001 ;43.880001 ;-0.2;-0.5;"Elon Musk, Jeff Bezos & Richard Branson: Which Billionaire Will Bring The Space Race Ethos To The Cannabis Industry?
 "
-3,2022-09-22,13:42:15,44.869999 ,44.680000 ,-0.1,-0.4,"10 Health Care Stocks With Whale Alerts In Today's Session
+3;2022-09-22;13:42:15;44.869999 ;44.680000 ;-0.1;-0.4;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-4,2022-09-22,10:37:42,44.540001 ,44.689999 , 0.1, 0.3,"Pfizer To Supply 6M COVID-19 Therapy Courses To Low Income Countries
+4;2022-09-22;10:37:42;44.540001 ;44.689999 ; 0.1; 0.3;"Pfizer To Supply 6M COVID-19 Therapy Courses To Low Income Countries
 "
-5,2022-09-20,14:45:01,44.549999 ,44.709999 , 0.1, 0.3,"Analysts Put Alnylam On Upside Catalyst Watch Ahead Of Upcoming Data From Lead Program
+5;2022-09-20;14:45:01;44.549999 ;44.709999 ; 0.1; 0.3;"Analysts Put Alnylam On Upside Catalyst Watch Ahead Of Upcoming Data From Lead Program
 "
-6,2022-09-20,12:04:31,44.810001 ,44.810001 , 0.0, 0.0,"Stocks That Hit 52-Week Lows On Tuesday
+6;2022-09-20;12:04:31;44.810001 ;44.810001 ; 0.0; 0.0;"Stocks That Hit 52-Week Lows On Tuesday
 "
-7,2022-09-19,14:25:54,45.165001 ,45.165001 , 0.0, 0.0,"Pfizer Shares Are Falling: What's Going On?
+7;2022-09-19;14:25:54;45.165001 ;45.165001 ; 0.0; 0.0;"Pfizer Shares Are Falling: What's Going On?
 "
-8,2022-09-19,12:30:35,45.060001 ,45.165001 , 0.1, 0.2,"Stocks That Hit 52-Week Lows On Monday
+8;2022-09-19;12:30:35;45.060001 ;45.165001 ; 0.1; 0.2;"Stocks That Hit 52-Week Lows On Monday
 "
-9,2022-09-19,11:46:24,45.264999 ,45.060001 ,-0.2,-0.4,"After US Study, Pfizer's 20-Valent Pneumococcal Jab Aces European Infant Study
+9;2022-09-19;11:46:24;45.264999 ;45.060001 ;-0.2;-0.4;"After US Study, Pfizer's 20-Valent Pneumococcal Jab Aces European Infant Study
 "
-10,2022-09-16,13:55:57,45.869999 ,46.060001 , 0.1, 0.4,"Top US Drugmakers Exploit US Patent System To Keep Generic Competition At Bay: Report
+10;2022-09-16;13:55:57;45.869999 ;46.060001 ; 0.1; 0.4;"Top US Drugmakers Exploit US Patent System To Keep Generic Competition At Bay: Report
 "
-11,2022-09-14,14:07:41,46.070000 ,46.090000 , 0.0, 0.0,"US Department Of Health, Defense To Inject $1B To Boost Domestic Biomanufacturing
+11;2022-09-14;14:07:41;46.070000 ;46.090000 ; 0.0; 0.0;"US Department Of Health, Defense To Inject $1B To Boost Domestic Biomanufacturing
 "
-12,2022-09-13,14:36:10,46.665001 ,46.294998 ,-0.3,-0.7,"Biden Administration Pushes 'Cancer Moonshot' Initiative: Report
+12;2022-09-13;14:36:10;46.665001 ;46.294998 ;-0.3;-0.7;"Biden Administration Pushes 'Cancer Moonshot' Initiative: Report
 "
-13,2022-09-07,13:58:34,45.866501 ,45.990002 , 0.1, 0.2,"10 Health Care Stocks With Whale Alerts In Today's Session
+13;2022-09-07;13:58:34;45.866501 ;45.990002 ; 0.1; 0.2;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-14,2022-09-07,13:53:33,45.866501 ,45.990002 , 0.1, 0.2,"Pfizer Whale Trades For September 07
+14;2022-09-07;13:53:33;45.866501 ;45.990002 ; 0.1; 0.2;"Pfizer Whale Trades For September 07
 "
-15,2022-09-06,12:09:41,46.169998 ,45.869999 ,-0.2,-0.6,"Sanofi-GSK COVID-19 Vaccine May See European Approval Soon: Report
+15;2022-09-06;12:09:41;46.169998 ;45.869999 ;-0.2;-0.6;"Sanofi-GSK COVID-19 Vaccine May See European Approval Soon: Report
 "
-16,2022-09-02,13:50:04,45.959999 ,45.985001 , 0.0, 0.0,"White House May Ask For $25B Emergency Funding For COVID-19, Monkeypox
+16;2022-09-02;13:50:04;45.959999 ;45.985001 ; 0.0; 0.0;"White House May Ask For $25B Emergency Funding For COVID-19, Monkeypox
 "
-17,2022-09-02,11:49:59,46.644100 ,46.465000 ,-0.1,-0.3,"Is Cannabis Legalization The End For Pharma Stocks? New Study Predicts Billions In Losses
+17;2022-09-02;11:49:59;46.644100 ;46.465000 ;-0.1;-0.3;"Is Cannabis Legalization The End For Pharma Stocks? New Study Predicts Billions In Losses
 "
-18,2022-09-01,13:29:55,46.205002 ,46.470001 , 0.2, 0.5,"Europe Backs Approval Of Omicron-Adapted COVID-19 Vaccines
+18;2022-09-01;13:29:55;46.205002 ;46.470001 ; 0.2; 0.5;"Europe Backs Approval Of Omicron-Adapted COVID-19 Vaccines
 "
-19,2022-08-31,13:51:57,45.340000 ,45.230099 ,-0.1,-0.2,"Why Novavax Shares Are Getting Hammered After Moderna, Pfizer And BioNTech News
+19;2022-08-31;13:51:57;45.340000 ;45.230099 ;-0.1;-0.2;"Why Novavax Shares Are Getting Hammered After Moderna, Pfizer And BioNTech News
 "
-20,2022-08-30,14:32:17,45.955002 ,45.974998 , 0.0, 0.0,"What Are Whales Doing With Pfizer
+20;2022-08-30;14:32:17;45.955002 ;45.974998 ; 0.0; 0.0;"What Are Whales Doing With Pfizer
 "
-21,2022-08-26,13:36:48,47.250000 ,47.090000 ,-0.1,-0.3,"10 Health Care Stocks Whale Activity In Today's Session
+21;2022-08-26;13:36:48;47.250000 ;47.090000 ;-0.1;-0.3;"10 Health Care Stocks Whale Activity In Today's Session
 "
-22,2022-08-26,12:41:05,47.270000 ,47.250000 ,-0.0,-0.0,"Pfizer/BioNTech Complete European Submission For Omicron Subvariant Adapted Vaccine
+22;2022-08-26;12:41:05;47.270000 ;47.250000 ;-0.0;-0.0;"Pfizer/BioNTech Complete European Submission For Omicron Subvariant Adapted Vaccine
 "
-23,2022-08-25,12:29:57,47.474998 ,47.433800 ,-0.0,-0.0,"Pfizer's COVID-19 Pill Benefited Only Older Adults, New Israel-Based Study Shows
+23;2022-08-25;12:29:57;47.474998 ;47.433800 ;-0.0;-0.0;"Pfizer's COVID-19 Pill Benefited Only Older Adults, New Israel-Based Study Shows
 "
-24,2022-08-23,10:40:48,48.221901 ,48.209999 ,-0.0,-0.0,"What Are Whales Doing With Pfizer
+24;2022-08-23;10:40:48;48.221901 ;48.209999 ;-0.0;-0.0;"What Are Whales Doing With Pfizer
 "
-25,2022-08-22,11:36:35,49.020000 ,49.189999 , 0.1, 0.3,"Boosters Are Coming For Dangerous Omicron COVID-19 Variant. Here's Who May Be Rolling Them Out
+25;2022-08-22;11:36:35;49.020000 ;49.189999 ; 0.1; 0.3;"Boosters Are Coming For Dangerous Omicron COVID-19 Variant. Here's Who May Be Rolling Them Out
 "
-26,2022-08-22,11:30:03,49.020000 ,49.189999 , 0.1, 0.3,"Dr. Anthony Fauci, Face Of US COVID-19 Response, To Retire In December
+26;2022-08-22;11:30:03;49.020000 ;49.189999 ; 0.1; 0.3;"Dr. Anthony Fauci, Face Of US COVID-19 Response, To Retire In December
 "
-27,2022-08-19,14:01:43,49.345001 ,49.255001 ,-0.0,-0.1,"10 Health Care Stocks With Whale Alerts In Today's Session
+27;2022-08-19;14:01:43;49.345001 ;49.255001 ;-0.0;-0.1;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-28,2022-08-19,12:21:30,49.000000 ,49.145000 , 0.1, 0.2,"Unrivaled Brands & Other Cannabis Operators Just Made Some Key Executive Changes You Should Know About
+28;2022-08-19;12:21:30;49.000000 ;49.145000 ; 0.1; 0.2;"Unrivaled Brands & Other Cannabis Operators Just Made Some Key Executive Changes You Should Know About
 "
-29,2022-08-17,14:52:59,49.615002 ,49.415001 ,-0.2,-0.4,"Biden Administration To Stop Purchasing COVID-19 Solutions By End Of 2022
+29;2022-08-17;14:52:59;49.615002 ;49.415001 ;-0.2;-0.4;"Biden Administration To Stop Purchasing COVID-19 Solutions By End Of 2022
 "
-30,2022-08-17,14:28:22,49.747398 ,49.615002 ,-0.1,-0.2,"Sanofi Earns Price Target Cut After Stopping Breast Cancer Drug Trial
+30;2022-08-17;14:28:22;49.747398 ;49.615002 ;-0.1;-0.2;"Sanofi Earns Price Target Cut After Stopping Breast Cancer Drug Trial
 "
-31,2022-08-17,13:23:18,49.599998 ,49.747398 , 0.1, 0.2,"Hypocrisy All Around: Pfizer, NFL Are Hidden Sponsors Of Anti-Drug Group Fighting Against Cannabis Legalization
+31;2022-08-17;13:23:18;49.599998 ;49.747398 ; 0.1; 0.2;"Hypocrisy All Around: Pfizer, NFL Are Hidden Sponsors Of Anti-Drug Group Fighting Against Cannabis Legalization
 "
-32,2022-08-17,11:00:59,49.450001 ,49.525002 , 0.0, 0.1,"Icannex Taps Ex Pfizer, FDA & Regulatory Affairs Expert
+32;2022-08-17;11:00:59;49.450001 ;49.525002 ; 0.0; 0.1;"Icannex Taps Ex Pfizer, FDA & Regulatory Affairs Expert
 "
-33,2022-08-15,14:25:06,49.450001 ,49.685001 , 0.2, 0.4,"10 Health Care Stocks With Whale Alerts In Today's Session
+33;2022-08-15;14:25:06;49.450001 ;49.685001 ; 0.2; 0.4;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-34,2022-08-11,11:40:21,48.715000 ,48.169998 ,-0.5,-1.1,"Recalled Heartburn Pill Zantac Sets Fire To Glaxo and Sanofi Shares As Billions In Market Value Goes Up In Smoke
+34;2022-08-11;11:40:21;48.715000 ;48.169998 ;-0.5;-1.1;"Recalled Heartburn Pill Zantac Sets Fire To Glaxo and Sanofi Shares As Billions In Market Value Goes Up In Smoke
 "
-35,2022-08-09,15:26:34,49.665001 ,49.930000 , 0.2, 0.5,"Analysts See Softened Timelines For CRISPR Therapeutics' Sickle Cell Candidate In US
+35;2022-08-09;15:26:34;49.665001 ;49.930000 ; 0.2; 0.5;"Analysts See Softened Timelines For CRISPR Therapeutics' Sickle Cell Candidate In US
 "
-36,2022-08-09,13:38:06,49.880001 ,49.665001 ,-0.2,-0.4,"10 Health Care Stocks With Whale Alerts In Today's Session
+36;2022-08-09;13:38:06;49.880001 ;49.665001 ;-0.2;-0.4;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-37,2022-08-09,11:03:53,49.660000 ,49.750000 , 0.0, 0.1,"Super Bullish Or Bearish On Tesla Or Apple? These New ETFs Are For You
+37;2022-08-09;11:03:53;49.660000 ;49.750000 ; 0.0; 0.1;"Super Bullish Or Bearish On Tesla Or Apple? These New ETFs Are For You
 "
-38,2022-08-08,14:50:28,49.165001 ,49.430000 , 0.2, 0.5,"Why These Pfizer Analysts Like The Global Blood Therapeutics Deal
+38;2022-08-08;14:50:28;49.165001 ;49.430000 ; 0.2; 0.5;"Why These Pfizer Analysts Like The Global Blood Therapeutics Deal
 "
-39,2022-08-08,13:56:10,49.019901 ,49.165001 , 0.1, 0.2,"Lyme Disease And Climate Change Reinvigorates Valneva's Vaccine Efforts After COVID Shot Disappointment
+39;2022-08-08;13:56:10;49.019901 ;49.165001 ; 0.1; 0.2;"Lyme Disease And Climate Change Reinvigorates Valneva's Vaccine Efforts After COVID Shot Disappointment
 "
-40,2022-08-08,13:18:10,49.154999 ,49.019901 ,-0.1,-0.2,"Equity Index Futures Slightly Higher As U.S. Dollar Retreats
+40;2022-08-08;13:18:10;49.154999 ;49.019901 ;-0.1;-0.2;"Equity Index Futures Slightly Higher As U.S. Dollar Retreats
 "
-41,2022-08-05,12:20:48,49.889999 ,49.419998 ,-0.4,-0.9,"Pfizer, Global Blood Therapeutics In Advanced Talks For $5B Buyout Deal: Report
+41;2022-08-05;12:20:48;49.889999 ;49.419998 ;-0.4;-0.9;"Pfizer, Global Blood Therapeutics In Advanced Talks For $5B Buyout Deal: Report
 "
-42,2022-08-05,11:35:25,49.889999 ,49.419998 ,-0.4,-0.9,"Biotech Daily: Thumbs Down For Acadia's Antipsychotic Drug, Akebia Fails COVID-19 Study, Kazia's Encouraging Data In Brain Metastases
+42;2022-08-05;11:35:25;49.889999 ;49.419998 ;-0.4;-0.9;"Biotech Daily: Thumbs Down For Acadia's Antipsychotic Drug, Akebia Fails COVID-19 Study, Kazia's Encouraging Data In Brain Metastases
 "
-43,2022-08-05,11:13:49,49.494999 ,49.889999 , 0.3, 0.7,"Voyager Therapeutics Prioritizes Pipeline With Cash Runway Into 2024
+43;2022-08-05;11:13:49;49.494999 ;49.889999 ; 0.3; 0.7;"Voyager Therapeutics Prioritizes Pipeline With Cash Runway Into 2024
 "
-44,2022-08-04,14:00:48,49.865002 ,50.005901 , 0.1, 0.2,"10 Health Care Stocks With Whale Alerts In Today's Session
+44;2022-08-04;14:00:48;49.865002 ;50.005901 ; 0.1; 0.2;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-45,2022-08-04,13:47:13,49.865002 ,50.005901 , 0.1, 0.2,"Pfizer Cuts Late-Stage Asset For Rare Cardiovascular Acquired Via $11.4B Array acquisition
+45;2022-08-04;13:47:13;49.865002 ;50.005901 ; 0.1; 0.2;"Pfizer Cuts Late-Stage Asset For Rare Cardiovascular Acquired Via $11.4B Array acquisition
 "
-46,2022-08-04,10:58:53,49.294998 ,49.672100 , 0.3, 0.7,"Death Cross Looms Over Pfizer Investors
+46;2022-08-04;10:58:53;49.294998 ;49.672100 ; 0.3; 0.7;"Death Cross Looms Over Pfizer Investors
 "
-47,2022-07-29,11:36:31,50.240002 ,50.505001 , 0.2, 0.5,"Expert Ratings for Pfizer
+47;2022-07-29;11:36:31;50.240002 ;50.505001 ; 0.2; 0.5;"Expert Ratings for Pfizer
 "
-48,2022-07-28,10:39:22,50.380001 ,51.014999 , 0.6, 1.2,"Meta and Qualcomm MissвЂ” Will Tech Investors Shrug Off These Reports Too2022-07-28 10:37:48 50.380001  51.014999   0.6  1.2 Daily Biotech Pulse: GSK's Kidney Disease Drug Approved For Children, Tonix Pharma To Launch Monkeypox Vaccine Study In Kenya, Positive Effect Of Cyclerion's Schizophrenia Candidate
+48;2022-07-28;10:39:22;50.380001 ;51.014999 ; 0.6; 1.2;"Meta and Qualcomm MissвЂ” Will Tech Investors Shrug Off These Reports Too2022-07-28 10:37:48 50.380001  51.014999   0.6  1.2 Daily Biotech Pulse: GSK's Kidney Disease Drug Approved For Children, Tonix Pharma To Launch Monkeypox Vaccine Study In Kenya, Positive Effect Of Cyclerion's Schizophrenia Candidate
 "
-49,2022-07-27,13:48:38,51.650002 ,51.625000 ,-0.0,-0.0,"Pfizer/BioNTech Start Phase 2 Trial For COVID-19 Vaccine Against Omicron Subvariant
+49;2022-07-27;13:48:38;51.650002 ;51.625000 ;-0.0;-0.0;"Pfizer/BioNTech Start Phase 2 Trial For COVID-19 Vaccine Against Omicron Subvariant
 "
-50,2022-07-27,12:09:47,51.705002 ,51.630299 ,-0.0,-0.1,"Check Out What Whales Are Doing With PFE
+50;2022-07-27;12:09:47;51.705002 ;51.630299 ;-0.0;-0.1;"Check Out What Whales Are Doing With PFE
 "
-51,2022-07-21,12:13:22,50.785000 ,51.049999 , 0.2, 0.5,"U.S. President Joe Biden Tests Positive For COVID-19; Tabula Rasa HealthCare Shares Spike Higher
+51;2022-07-21;12:13:22;50.785000 ;51.049999 ; 0.2; 0.5;"U.S. President Joe Biden Tests Positive For COVID-19; Tabula Rasa HealthCare Shares Spike Higher
 "
-52,2022-07-21,11:06:08,50.599998 ,50.785000 , 0.1, 0.3,"Joe Biden Tests Positive For COVID-19: Here's The Drug He's Taking To Fight Symptoms
+52;2022-07-21;11:06:08;50.599998 ;50.785000 ; 0.1; 0.3;"Joe Biden Tests Positive For COVID-19: Here's The Drug He's Taking To Fight Symptoms
 "
-53,2022-07-20,11:44:19,50.845001 ,50.952499 , 0.1, 0.2,"Pfizer (PFE), BioNTech Seek EU Nod For Omicron-Based COVID Jab
+53;2022-07-20;11:44:19;50.845001 ;50.952499 ; 0.1; 0.2;"Pfizer (PFE), BioNTech Seek EU Nod For Omicron-Based COVID Jab
 "
-54,2022-07-18,12:38:26,51.355000 ,51.264999 ,-0.0,-0.1,"WHO, UNICEF Sound Alarm As Pandemic Leads Largest Fall In Kids Vaccinations In 30 Years
+54;2022-07-18;12:38:26;51.355000 ;51.264999 ;-0.0;-0.1;"WHO, UNICEF Sound Alarm As Pandemic Leads Largest Fall In Kids Vaccinations In 30 Years
 "
-55,2022-07-15,12:14:52,51.654999 ,51.724998 , 0.0, 0.1,"Novavax (NVAX) Down As EU Adds Side Effects To COVID Jab Label
+55;2022-07-15;12:14:52;51.654999 ;51.724998 ; 0.0; 0.1;"Novavax (NVAX) Down As EU Adds Side Effects To COVID Jab Label
 "
-56,2022-07-15,11:05:24,51.230000 ,51.654999 , 0.4, 0.8,"Pfizer's Cancer Drug Partner Mulls Sale: Report
+56;2022-07-15;11:05:24;51.230000 ;51.654999 ; 0.4; 0.8;"Pfizer's Cancer Drug Partner Mulls Sale: Report
 "
-57,2022-07-15,10:44:43,51.230000 ,51.654999 , 0.4, 0.8,"Alnylam Hits Moderna With Another Patent Infringement Suit-Related To COVID-19 Vaccine
+57;2022-07-15;10:44:43;51.230000 ;51.654999 ; 0.4; 0.8;"Alnylam Hits Moderna With Another Patent Infringement Suit-Related To COVID-19 Vaccine
 "
-58,2022-07-14,13:50:44,51.273899 ,51.355000 , 0.0, 0.1,"10 Health Care Stocks Whale Activity In Today's Session
+58;2022-07-14;13:50:44;51.273899 ;51.355000 ; 0.0; 0.1;"10 Health Care Stocks Whale Activity In Today's Session
 "
-59,2022-07-14,10:43:09,51.090000 ,51.174999 , 0.0, 0.1,"What Are Whales Doing With Pfizer
+59;2022-07-14;10:43:09;51.090000 ;51.174999 ; 0.0; 0.1;"What Are Whales Doing With Pfizer
 "
-60,2022-07-08,10:48:44,53.855000 ,53.439999 ,-0.4,-0.7,"Why Jim Cramer Says Applied Materials Is 'Too Good A Company'
+60;2022-07-08;10:48:44;53.855000 ;53.439999 ;-0.4;-0.7;"Why Jim Cramer Says Applied Materials Is 'Too Good A Company'
 "
-61,2022-07-07,13:55:18,53.270000 ,53.540001 , 0.2, 0.5,"10 Health Care Stocks Whale Activity In Today's Session
+61;2022-07-07;13:55:18;53.270000 ;53.540001 ; 0.2; 0.5;"10 Health Care Stocks Whale Activity In Today's Session
 "
-62,2022-07-06,15:12:53,52.244999 ,52.875000 , 0.6, 1.2,"Drugmakers, Health Authorities Discarding Several Million COVID-19 Vaccine Doses: Report
+62;2022-07-06;15:12:53;52.244999 ;52.875000 ; 0.6; 1.2;"Drugmakers, Health Authorities Discarding Several Million COVID-19 Vaccine Doses: Report
 "
-63,2022-07-06,15:08:07,52.244999 ,52.875000 , 0.6, 1.2,"Touchlight Inks Patent License Agreement With Pfizer
+63;2022-07-06;15:08:07;52.244999 ;52.875000 ; 0.6; 1.2;"Touchlight Inks Patent License Agreement With Pfizer
 "
-64,2022-07-05,12:08:31,50.639999 ,50.540001 ,-0.0,-0.1,"What Are Whales Doing With Pfizer
+64;2022-07-05;12:08:31;50.639999 ;50.540001 ;-0.0;-0.1;"What Are Whales Doing With Pfizer
 "
-65,2022-07-01,13:12:23,51.737202 ,51.590000 ,-0.1,-0.2,"European Inflation Jumps While China PMI Improves
+65;2022-07-01;13:12:23;51.737202 ;51.590000 ;-0.1;-0.2;"European Inflation Jumps While China PMI Improves
 "
-66,2022-06-30,14:45:49,52.715000 ,52.555000 ,-0.1,-0.3,"Why BioNTech Stock Is Surging
+66;2022-06-30;14:45:49;52.715000 ;52.555000 ;-0.1;-0.3;"Why BioNTech Stock Is Surging
 "
-67,2022-06-30,14:45:13,52.715000 ,52.555000 ,-0.1,-0.3,"Why Pfizer Stock Is Rising Today
+67;2022-06-30;14:45:13;52.715000 ;52.555000 ;-0.1;-0.3;"Why Pfizer Stock Is Rising Today
 "
-68,2022-06-30,14:24:21,52.639999 ,52.715000 , 0.0, 0.1,"This Analyst Says US Government Buying More COVID-19 Vaccines At Higher Prices
+68;2022-06-30;14:24:21;52.639999 ;52.715000 ; 0.0; 0.1;"This Analyst Says US Government Buying More COVID-19 Vaccines At Higher Prices
 "
-69,2022-06-30,12:49:00,52.250000 ,52.639999 , 0.3, 0.7,"Pfizer Seeks Complete Approval For Paxlovid For High Risk COVID-19 Patients
+69;2022-06-30;12:49:00;52.250000 ;52.639999 ; 0.3; 0.7;"Pfizer Seeks Complete Approval For Paxlovid For High Risk COVID-19 Patients
 "
-70,2022-06-30,12:44:33,52.250000 ,52.639999 , 0.3, 0.7,"Will Palantir, Pfizer And Oracle Stocks Continue Higher In This Trend?
+70;2022-06-30;12:44:33;52.250000 ;52.639999 ; 0.3; 0.7;"Will Palantir, Pfizer And Oracle Stocks Continue Higher In This Trend?
 "
-71,2022-06-29,13:51:21,51.060001 ,51.255001 , 0.1, 0.3,"Efficacy Of Pfizer's Paxlovid COVID Drug Crashes, According To New NIH-Funded Study
+71;2022-06-29;13:51:21;51.060001 ;51.255001 ; 0.1; 0.3;"Efficacy Of Pfizer's Paxlovid COVID Drug Crashes, According To New NIH-Funded Study
 "
-72,2022-06-29,13:32:33,51.060001 ,51.255001 , 0.1, 0.3,"Pfizer, Moderna Analysts Respond To FDA COVID Booster Ruling: 'Revenues Will Decline'
+72;2022-06-29;13:32:33;51.060001 ;51.255001 ; 0.1; 0.3;"Pfizer, Moderna Analysts Respond To FDA COVID Booster Ruling: 'Revenues Will Decline'
 "
-73,2022-06-28,15:27:09,50.500000 ,50.599998 , 0.0, 0.1,"FDA Eyes New Vaccine Composition In Response To COVID Mutations: Here's What You Need To Know
+73;2022-06-28;15:27:09;50.500000 ;50.599998 ; 0.0; 0.1;"FDA Eyes New Vaccine Composition In Response To COVID Mutations: Here's What You Need To Know
 "
-74,2022-06-27,13:52:37,52.040001 ,51.959999 ,-0.0,-0.1,"Why Pfizer Partner BioNTech Shares Are Rising Today
+74;2022-06-27;13:52:37;52.040001 ;51.959999 ;-0.0;-0.1;"Why Pfizer Partner BioNTech Shares Are Rising Today
 "
-75,2022-06-27,10:50:53,51.970001 ,51.950001 ,-0.0,-0.0,"The Daily Biotech Pulse: CHMP Backs AstraZeneca's Breast Cancer Therapies, Ipsen Buys Epizyme, FDA Holds For Nuvation Bio, Astellas Studies
+75;2022-06-27;10:50:53;51.970001 ;51.950001 ;-0.0;-0.0;"The Daily Biotech Pulse: CHMP Backs AstraZeneca's Breast Cancer Therapies, Ipsen Buys Epizyme, FDA Holds For Nuvation Bio, Astellas Studies
 "
-76,2022-06-24,14:31:23,51.185001 ,51.330002 , 0.1, 0.2,"With Zero Revenue, Laekna Plays Chicken-And-Egg Game With Investors
+76;2022-06-24;14:31:23;51.185001 ;51.330002 ; 0.1; 0.2;"With Zero Revenue, Laekna Plays Chicken-And-Egg Game With Investors
 "
-77,2022-06-17,11:18:38,47.060001 ,46.730000 ,-0.3,-0.7,"Pfizer-BioNTech COVID-19 Vaccine Receives FDA Emergency Use Nod For Kids As Young As Six Months
+77;2022-06-17;11:18:38;47.060001 ;46.730000 ;-0.3;-0.7;"Pfizer-BioNTech COVID-19 Vaccine Receives FDA Emergency Use Nod For Kids As Young As Six Months
 "
-78,2022-06-16,12:53:39,47.720001 ,47.709999 ,-0.0,-0.0,"Bavarian Nordic Launches COVID-19 Booster Study To Compare Against Pfizer/BioNTech Shot
+78;2022-06-16;12:53:39;47.720001 ;47.709999 ;-0.0;-0.0;"Bavarian Nordic Launches COVID-19 Booster Study To Compare Against Pfizer/BioNTech Shot
 "
-79,2022-06-14,13:28:32,47.699902 ,47.779999 , 0.0, 0.1,"EU Urges Pfizer To Further Delay COVID-19 Vaccine Deliveries: Reuters
+79;2022-06-14;13:28:32;47.699902 ;47.779999 ; 0.0; 0.1;"EU Urges Pfizer To Further Delay COVID-19 Vaccine Deliveries: Reuters
 "
-80,2022-06-14,13:11:59,47.699902 ,47.779999 , 0.0, 0.1,"Moderna's COVID-19 Shot Likely Related To Higher Heart Inflammation Risk Than Pfizer's: Reuters
+80;2022-06-14;13:11:59;47.699902 ;47.779999 ; 0.0; 0.1;"Moderna's COVID-19 Shot Likely Related To Higher Heart Inflammation Risk Than Pfizer's: Reuters
 "
-81,2022-06-13,12:29:35,48.480000 ,48.480000 , 0.0, 0.0,"Pfizer Whale Trades Spotted
+81;2022-06-13;12:29:35;48.480000 ;48.480000 ; 0.0; 0.0;"Pfizer Whale Trades Spotted
 "
-82,2022-06-08,14:57:00,53.490002 ,53.570000 , 0.0, 0.1,"HC Wainwright Says Non-mRNA COVID-19 Option Underappreciated
+82;2022-06-08;14:57:00;53.490002 ;53.570000 ; 0.0; 0.1;"HC Wainwright Says Non-mRNA COVID-19 Option Underappreciated
 "
-83,2022-06-03,13:48:17,53.259998 ,53.314999 , 0.0, 0.1,"10 Health Care Stocks With Whale Alerts In Today's Session
+83;2022-06-03;13:48:17;53.259998 ;53.314999 ; 0.0; 0.1;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-84,2022-05-26,14:05:53,54.090000 ,54.200001 , 0.1, 0.2,"CanSino's Covid Vaccine Gets WHO Nod. But Is It Too Little, Too Late?
+84;2022-05-26;14:05:53;54.090000 ;54.200001 ; 0.1; 0.2;"CanSino's Covid Vaccine Gets WHO Nod. But Is It Too Little, Too Late?
 "
-85,2022-05-26,11:56:23,54.525002 ,54.000000 ,-0.5,-0.9,"Sunshine Biopharma Prepares For IND Study Of Novel Cancer Drug That It Expects Could Beat Multidrug-Resistant Cancer
+85;2022-05-26;11:56:23;54.525002 ;54.000000 ;-0.5;-0.9;"Sunshine Biopharma Prepares For IND Study Of Novel Cancer Drug That It Expects Could Beat Multidrug-Resistant Cancer
 "
-86,2022-05-25,13:14:54,53.169998 ,53.279999 , 0.1, 0.2,"NanoViricides Patents Its Antiviral Nanotechnology for COVID-19, Continuing Its Development of Potentially Broad-Spectrum Drugs That Are Expected To Be Effective Even Against Emerging Variants
+86;2022-05-25;13:14:54;53.169998 ;53.279999 ; 0.1; 0.2;"NanoViricides Patents Its Antiviral Nanotechnology for COVID-19, Continuing Its Development of Potentially Broad-Spectrum Drugs That Are Expected To Be Effective Even Against Emerging Variants
 "
-87,2022-05-24,13:59:46,53.099998 ,53.410000 , 0.3, 0.5,"Which Companies Have Great Reputations With Americans? Hint: Disney Isn't One Of Them!
+87;2022-05-24;13:59:46;53.099998 ;53.410000 ; 0.3; 0.5;"Which Companies Have Great Reputations With Americans? Hint: Disney Isn't One Of Them!
 "
-88,2022-05-23,14:44:08,53.105000 ,52.814999 ,-0.2,-0.5,"The Analyst Says 'Impressive Phase 3 Data Highlight Best-In-Class Opportunity' For Concert Pharma
+88;2022-05-23;14:44:08;53.105000 ;52.814999 ;-0.2;-0.5;"The Analyst Says 'Impressive Phase 3 Data Highlight Best-In-Class Opportunity' For Concert Pharma
 "
-89,2022-05-23,12:31:20,53.130001 ,52.990002 ,-0.1,-0.2,"Amid Monkeypox Outbreak, This 3X Leveraged ETF Provides Exposure To Health Sector: What To Watch
+89;2022-05-23;12:31:20;53.130001 ;52.990002 ;-0.1;-0.2;"Amid Monkeypox Outbreak, This 3X Leveraged ETF Provides Exposure To Health Sector: What To Watch
 "
-90,2022-05-20,12:58:08,51.855000 ,51.240002 ,-0.6,-1.1,"This Is What Whales Are Betting On Pfizer
+90;2022-05-20;12:58:08;51.855000 ;51.240002 ;-0.6;-1.1;"This Is What Whales Are Betting On Pfizer
 "
-91,2022-05-19,11:49:02,49.830002 ,50.299999 , 0.4, 0.9,"Upcoming U.S. FDA Decision A Potentially Major De-Risk Event For Revive Therapeutics
+91;2022-05-19;11:49:02;49.830002 ;50.299999 ; 0.4; 0.9;"Upcoming U.S. FDA Decision A Potentially Major De-Risk Event For Revive Therapeutics
 "
-92,2022-05-19,11:32:07,49.830002 ,50.299999 , 0.4, 0.9,"Looking At Pfizer's Recent Whale Trades
+92;2022-05-19;11:32:07;49.830002 ;50.299999 ; 0.4; 0.9;"Looking At Pfizer's Recent Whale Trades
 "
-93,2022-05-16,10:38:06,50.605000 ,50.500000 ,-0.1,-0.2,"Insider Buying Remains Elevated For A Second Week $SBUX $UBER $RILY
+93;2022-05-16;10:38:06;50.605000 ;50.500000 ;-0.1;-0.2;"Insider Buying Remains Elevated For A Second Week $SBUX $UBER $RILY
 "
-94,2022-05-13,14:08:47,49.950001 ,49.900002 ,-0.0,-0.1,"Biden Says US Ready To Share COVID-19 Vaccine Related Technology
+94;2022-05-13;14:08:47;49.950001 ;49.900002 ;-0.0;-0.1;"Biden Says US Ready To Share COVID-19 Vaccine Related Technology
 "
-95,2022-05-13,12:20:27,49.962898 ,49.830002 ,-0.1,-0.2,"White House Says Currently No Plans To Share COVID-19 Shots With North Korea Battling Outbreak
+95;2022-05-13;12:20:27;49.962898 ;49.830002 ;-0.1;-0.2;"White House Says Currently No Plans To Share COVID-19 Shots With North Korea Battling Outbreak
 "
-96,2022-05-10,14:56:32,48.860001 ,49.375000 , 0.5, 1.0,"Mid-Afternoon Market Update: Nasdaq Jumps Over 200 Points; Crude Oil Down 3%
+96;2022-05-10;14:56:32;48.860001 ;49.375000 ; 0.5; 1.0;"Mid-Afternoon Market Update: Nasdaq Jumps Over 200 Points; Crude Oil Down 3%
 "
-97,2022-05-10,12:04:02,49.200001 ,48.820000 ,-0.3,-0.7,"Mid-Day Market Update: U.S. Stocks Turn Lower; Biohaven Pharmaceutical Shares Jump
+97;2022-05-10;12:04:02;49.200001 ;48.820000 ;-0.3;-0.7;"Mid-Day Market Update: U.S. Stocks Turn Lower; Biohaven Pharmaceutical Shares Jump
 "
-98,2022-05-10,12:00:29,49.200001 ,48.820000 ,-0.3,-0.7,"77 Stocks Moving In Tuesday's Mid-Day Session
+98;2022-05-10;12:00:29;49.200001 ;48.820000 ;-0.3;-0.7;"77 Stocks Moving In Tuesday's Mid-Day Session
 "
-99,2022-05-09,10:52:18,48.919998 ,48.480000 ,-0.4,-0.8,"Pfizer's Ex-Dividend Date Is Thursday, Here's What You Need To Know
+99;2022-05-09;10:52:18;48.919998 ;48.480000 ;-0.4;-0.8;"Pfizer's Ex-Dividend Date Is Thursday, Here's What You Need To Know
 "
-100,2022-05-06,15:27:15,48.665001 ,48.790001 , 0.1, 0.2,"Researchers Want Pfizer's Therapy Studied As Evidence Suggests Benefit for Long COVID Patients: Reuters
+100;2022-05-06;15:27:15;48.665001 ;48.790001 ; 0.1; 0.2;"Researchers Want Pfizer's Therapy Studied As Evidence Suggests Benefit for Long COVID Patients: Reuters
 "
-101,2022-05-05,13:48:15,48.299999 ,48.180000 ,-0.1,-0.2,"10 Health Care Stocks With Whale Alerts In Today's Session
+101;2022-05-05;13:48:15;48.299999 ;48.180000 ;-0.1;-0.2;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-102,2022-05-05,12:05:13,48.110001 ,48.070000 ,-0.0,-0.0,"Arcturus Reports Three-Month Durability Results From ARCT-154 COVID-19 Booster Trial
+102;2022-05-05;12:05:13;48.110001 ;48.070000 ;-0.0;-0.0;"Arcturus Reports Three-Month Durability Results From ARCT-154 COVID-19 Booster Trial
 "
-103,2022-05-04,11:04:06,48.415001 ,48.900002 , 0.4, 1.0,"4 Analysts Have This to Say About Pfizer
+103;2022-05-04;11:04:06;48.415001 ;48.900002 ; 0.4; 1.0;"4 Analysts Have This to Say About Pfizer
 "
-104,2022-05-03,14:54:26,48.845001 ,49.439999 , 0.5, 1.2,"Mid-Afternoon Market Update: Kymera Therapeutics Drops After Q1 Results; Belite Bio Shares Spike Higher
+104;2022-05-03;14:54:26;48.845001 ;49.439999 ; 0.5; 1.2;"Mid-Afternoon Market Update: Kymera Therapeutics Drops After Q1 Results; Belite Bio Shares Spike Higher
 "
-105,2022-05-03,12:18:34,49.730000 ,49.131001 ,-0.5,-1.2,"Mid-Day Market Update: Dow Jumps 100 Points; Spero Therapeutics Shares Plunge
+105;2022-05-03;12:18:34;49.730000 ;49.131001 ;-0.5;-1.2;"Mid-Day Market Update: Dow Jumps 100 Points; Spero Therapeutics Shares Plunge
 "
-106,2022-05-03,12:15:05,49.730000 ,49.131001 ,-0.5,-1.2,"Pfizer Stock Flies Higher Following Q1 Earnings Print: Here's What To Watch For Next
+106;2022-05-03;12:15:05;49.730000 ;49.131001 ;-0.5;-1.2;"Pfizer Stock Flies Higher Following Q1 Earnings Print: Here's What To Watch For Next
 "
-107,2022-05-03,10:46:33,49.293701 ,49.730000 , 0.4, 0.8,"Bulls Try To Build On Yesterday's Gains But Looming Fed Decision Could Curb Trading
+107;2022-05-03;10:46:33;49.293701 ;49.730000 ; 0.4; 0.8;"Bulls Try To Build On Yesterday's Gains But Looming Fed Decision Could Curb Trading
 "
-108,2022-05-03,10:30:18,49.293701 ,49.730000 , 0.4, 0.8,"Mid-Morning Market Update: Markets Mixed; Dow Drops 50 Points
+108;2022-05-03;10:30:18;49.293701 ;49.730000 ; 0.4; 0.8;"Mid-Morning Market Update: Markets Mixed; Dow Drops 50 Points
 "
-109,2022-05-02,13:47:21,47.880001 ,47.779999 ,-0.1,-0.2,"10 Health Care Stocks With Whale Alerts In Today's Session
+109;2022-05-02;13:47:21;47.880001 ;47.779999 ;-0.1;-0.2;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-110,2022-05-02,13:40:28,47.880001 ,47.779999 ,-0.1,-0.2,"Check Out What Whales Are Doing With PFE
+110;2022-05-02;13:40:28;47.880001 ;47.779999 ;-0.1;-0.2;"Check Out What Whales Are Doing With PFE
 "
-111,2022-05-02,13:22:00,48.145000 ,47.880001 ,-0.2,-0.5,"Moderna Bullish On COVID-19 Vaccine For Younger Kids To Be Ready Next Month: Reuters
+111;2022-05-02;13:22:00;48.145000 ;47.880001 ;-0.2;-0.5;"Moderna Bullish On COVID-19 Vaccine For Younger Kids To Be Ready Next Month: Reuters
 "
-112,2022-05-02,12:07:25,48.430000 ,48.145000 ,-0.2,-0.5,"Monday's Market Minute: Three Things To Know About The Week Ahead
+112;2022-05-02;12:07:25;48.430000 ;48.145000 ;-0.2;-0.5;"Monday's Market Minute: Three Things To Know About The Week Ahead
 "
-113,2022-05-02,12:01:09,48.430000 ,48.145000 ,-0.2,-0.5,"April's Sell-Off Continues Into May As Futures Point To A Lower Open
+113;2022-05-02;12:01:09;48.430000 ;48.145000 ;-0.2;-0.5;"April's Sell-Off Continues Into May As Futures Point To A Lower Open
 "
-114,2022-04-29,15:09:52,49.340000 ,49.154999 ,-0.1,-0.3,"This Is What Whales Are Betting On Pfizer
+114;2022-04-29;15:09:52;49.340000 ;49.154999 ;-0.1;-0.3;"This Is What Whales Are Betting On Pfizer
 "
-115,2022-04-29,15:08:55,49.340000 ,49.154999 ,-0.1,-0.3,"FDA Sets Review Dates For Pfizer, Moderna COVID-19 Shot For Kids, Plus Novavax EUA
+115;2022-04-29;15:08:55;49.340000 ;49.154999 ;-0.1;-0.3;"FDA Sets Review Dates For Pfizer, Moderna COVID-19 Shot For Kids, Plus Novavax EUA
 "
-116,2022-04-29,11:57:41,49.520000 ,49.320000 ,-0.2,-0.4,"From Big Tech To Big Energy: A Wild Week Of Earnings Ends With Mixed Results
+116;2022-04-29;11:57:41;49.520000 ;49.320000 ;-0.2;-0.4;"From Big Tech To Big Energy: A Wild Week Of Earnings Ends With Mixed Results
 "
-117,2022-04-28,14:47:26,50.430000 ,50.569901 , 0.1, 0.2,"FDA Gives Green Signal To Pfizer's Duchenne Gene Therapy Trial
+117;2022-04-28;14:47:26;50.430000 ;50.569901 ; 0.1; 0.2;"FDA Gives Green Signal To Pfizer's Duchenne Gene Therapy Trial
 "
-118,2022-04-28,12:16:25,49.695000 ,50.169998 , 0.4, 0.9,"Surprise Negative GDP Report Could Hurt Premarket Rally
+118;2022-04-28;12:16:25;49.695000 ;50.169998 ; 0.4; 0.9;"Surprise Negative GDP Report Could Hurt Premarket Rally
 "
-119,2022-04-28,12:08:37,49.695000 ,50.169998 , 0.4, 0.9,"Are These Global Companies On The Right Side Of History?
+119;2022-04-28;12:08:37;49.695000 ;50.169998 ; 0.4; 0.9;"Are These Global Companies On The Right Side Of History?
 "
-120,2022-04-27,11:24:40,48.820000 ,49.150002 , 0.3, 0.6,"The S&P 500 And Nasdaq Testing Major Support Levels
+120;2022-04-27;11:24:40;48.820000 ;49.150002 ; 0.3; 0.6;"The S&P 500 And Nasdaq Testing Major Support Levels
 "
-121,2022-04-26,13:03:04,49.500000 ,49.119999 ,-0.3,-0.7,"Crude Oil Rises To $100 Per Barrel
+121;2022-04-26;13:03:04;49.500000 ;49.119999 ;-0.3;-0.7;"Crude Oil Rises To $100 Per Barrel
 "
-122,2022-04-26,11:37:34,49.470001 ,49.500000 , 0.0, 0.0,"Valneva - Pfizer Post Encouraging Data From Lyme Disease Vaccine Candidate
+122;2022-04-26;11:37:34;49.470001 ;49.500000 ; 0.0; 0.0;"Valneva - Pfizer Post Encouraging Data From Lyme Disease Vaccine Candidate
 "
-123,2022-04-22,13:05:07,48.174999 ,48.169998 ,-0.0,-0.0,"If You Invested $1,000 In BioNTech Stock At Its Pandemic Low, Here's How Much You'd Have Now
+123;2022-04-22;13:05:07;48.174999 ;48.169998 ;-0.0;-0.0;"If You Invested $1,000 In BioNTech Stock At Its Pandemic Low, Here's How Much You'd Have Now
 "
-124,2022-04-22,11:43:45,48.365002 ,48.174999 ,-0.1,-0.3,"What Are Whales Doing With Pfizer
+124;2022-04-22;11:43:45;48.365002 ;48.174999 ;-0.1;-0.3;"What Are Whales Doing With Pfizer
 "
-125,2022-04-21,14:15:10,49.320099 ,49.509998 , 0.1, 0.3,"If You Invested $1,000 In Pfizer Stock At Its Pandemic Low, Here's How Much You'd Have Now
+125;2022-04-21;14:15:10;49.320099 ;49.509998 ; 0.1; 0.3;"If You Invested $1,000 In Pfizer Stock At Its Pandemic Low, Here's How Much You'd Have Now
 "
-126,2022-04-20,15:10:25,49.549999 ,49.595001 , 0.0, 0.0,"Pfizer Whale Trades For April 20
+126;2022-04-20;15:10:25;49.549999 ;49.595001 ; 0.0; 0.0;"Pfizer Whale Trades For April 20
 "
-127,2022-04-18,12:17:19,51.952702 ,51.916100 ,-0.0,-0.0,"Pfizer/BioNTech Fourth COVID-19 Vaccine Dose Protects Against Omicron For At Least One Month
+127;2022-04-18;12:17:19;51.952702 ;51.916100 ;-0.0;-0.0;"Pfizer/BioNTech Fourth COVID-19 Vaccine Dose Protects Against Omicron For At Least One Month
 "
-128,2022-04-18,11:29:42,52.170101 ,51.952702 ,-0.2,-0.4,"AIM Puts mRNA Covid Vaccine in Investor Crosshairs With New IPO Attempt
+128;2022-04-18;11:29:42;52.170101 ;51.952702 ;-0.2;-0.4;"AIM Puts mRNA Covid Vaccine in Investor Crosshairs With New IPO Attempt
 "
-129,2022-04-18,10:48:27,52.170101 ,51.952702 ,-0.2,-0.4,"Two long COVID Patients Recover After Pfizer's Therapy; Side Effects, Safety Needs To Be Assessed: Reuters
+129;2022-04-18;10:48:27;52.170101 ;51.952702 ;-0.2;-0.4;"Two long COVID Patients Recover After Pfizer's Therapy; Side Effects, Safety Needs To Be Assessed: Reuters
 "
-130,2022-04-18,10:40:33,52.170101 ,51.952702 ,-0.2,-0.4,"Japan's Health Ministry Panel OKs Approval Of Novavax's COVID-19 Vaccine: Report
+130;2022-04-18;10:40:33;52.170101 ;51.952702 ;-0.2;-0.4;"Japan's Health Ministry Panel OKs Approval Of Novavax's COVID-19 Vaccine: Report
 "
-131,2022-04-11,12:53:51,54.137699 ,53.970001 ,-0.1,-0.3,"BioNTech And Matinas BioPharma Announce Exclusive Research Collaboration To Evaluate Novel Delivery Technology For mRNA-based Vaccines
+131;2022-04-11;12:53:51;54.137699 ;53.970001 ;-0.1;-0.3;"BioNTech And Matinas BioPharma Announce Exclusive Research Collaboration To Evaluate Novel Delivery Technology For mRNA-based Vaccines
 "
-132,2022-04-07,14:40:47,55.310001 ,55.264999 ,-0.0,-0.0,"Europe Holds Second COVID-19 Booster Dose For People Aged Under 80 Years
+132;2022-04-07;14:40:47;55.310001 ;55.264999 ;-0.0;-0.0;"Europe Holds Second COVID-19 Booster Dose For People Aged Under 80 Years
 "
-133,2022-04-07,13:57:16,54.990002 ,55.310001 , 0.3, 0.5,"10 Health Care Stocks With Whale Alerts In Today's Session
+133;2022-04-07;13:57:16;54.990002 ;55.310001 ; 0.3; 0.5;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-134,2022-04-07,11:30:03,54.180000 ,54.505001 , 0.3, 0.5,"What Is RSV, And Why Is Pfizer Paying Up To $525M For Treatment Candidates?
+134;2022-04-07;11:30:03;54.180000 ;54.505001 ; 0.3; 0.5;"What Is RSV, And Why Is Pfizer Paying Up To $525M For Treatment Candidates?
 "
-135,2022-04-07,10:46:37,54.189999 ,54.180000 ,-0.0,-0.0,"Pfizer Beefs Up Its RSV Antiviral Portfolio With $525M ReViral Acquisition
+135;2022-04-07;10:46:37;54.189999 ;54.180000 ;-0.0;-0.0;"Pfizer Beefs Up Its RSV Antiviral Portfolio With $525M ReViral Acquisition
 "
-136,2022-04-06,14:23:02,52.415001 ,52.410000 ,-0.0,-0.0,"Pfizer/BioNTech's Second COVID-19 Vaccine Booster Provides Short-Lived Protection In Elderly, Israel Study Shows
+136;2022-04-06;14:23:02;52.415001 ;52.410000 ;-0.0;-0.0;"Pfizer/BioNTech's Second COVID-19 Vaccine Booster Provides Short-Lived Protection In Elderly, Israel Study Shows
 "
-137,2022-04-04,15:05:04,50.900002 ,50.799999 ,-0.1,-0.1,"CDC Says Heart Inflammation Risk Higher After COVID-19 Infection Than mRNA Vaccines: CNBC
+137;2022-04-04;15:05:04;50.900002 ;50.799999 ;-0.1;-0.1;"CDC Says Heart Inflammation Risk Higher After COVID-19 Infection Than mRNA Vaccines: CNBC
 "
-138,2022-04-04,11:52:15,50.915001 ,50.887100 ,-0.0,-0.0,"Looking At Pfizer's Recent Whale Trades
+138;2022-04-04;11:52:15;50.915001 ;50.887100 ;-0.0;-0.0;"Looking At Pfizer's Recent Whale Trades
 "
-139,2022-04-01,14:23:44,51.244999 ,51.490002 , 0.2, 0.4,"Mitt Romney Says Senators Reached Tentative $10B Deal In Additional COVID-19 Relief Funding: CNBC
+139;2022-04-01;14:23:44;51.244999 ;51.490002 ; 0.2; 0.4;"Mitt Romney Says Senators Reached Tentative $10B Deal In Additional COVID-19 Relief Funding: CNBC
 "
-140,2022-03-29,14:16:47,52.869999 ,52.805000 ,-0.0,-0.1,"FDA Approves ViiV Healthcare's Cabenuva For Virologically Suppressed Adolescents With HIV
+140;2022-03-29;14:16:47;52.869999 ;52.805000 ;-0.0;-0.1;"FDA Approves ViiV Healthcare's Cabenuva For Virologically Suppressed Adolescents With HIV
 "
-141,2022-03-29,13:30:06,52.869999 ,52.805000 ,-0.0,-0.1,"Can Antiretroviral Treatment With Protease Inhibitor In HIV Patients Lower COVID-19 Risk?
+141;2022-03-29;13:30:06;52.869999 ;52.805000 ;-0.0;-0.1;"Can Antiretroviral Treatment With Protease Inhibitor In HIV Patients Lower COVID-19 Risk?
 "
-142,2022-03-29,13:12:45,53.029999 ,52.869999 ,-0.1,-0.3,"FDA Authorizes Fourth Dose Of Moderna, Pfizer/BioNTech COVID-19 Vaccines For Older People
+142;2022-03-29;13:12:45;53.029999 ;52.869999 ;-0.1;-0.3;"FDA Authorizes Fourth Dose Of Moderna, Pfizer/BioNTech COVID-19 Vaccines For Older People
 "
-143,2022-03-29,13:09:11,53.029999 ,52.869999 ,-0.1,-0.3,"Biden Administration Proposes $82B In Spending For Future Pandemics Preparedness
+143;2022-03-29;13:09:11;53.029999 ;52.869999 ;-0.1;-0.3;"Biden Administration Proposes $82B In Spending For Future Pandemics Preparedness
 "
-144,2022-03-28,15:19:28,53.150002 ,53.205002 , 0.0, 0.1,"Pfizer's COVID-19 Oral Therapy To Be Tested In Hospitalized COVID-19 Patients In UK: Reuters
+144;2022-03-28;15:19:28;53.150002 ;53.205002 ; 0.0; 0.1;"Pfizer's COVID-19 Oral Therapy To Be Tested In Hospitalized COVID-19 Patients In UK: Reuters
 "
-145,2022-03-28,15:05:05,53.150002 ,53.205002 , 0.0, 0.1,"Check Out What Whales Are Doing With PFE
+145;2022-03-28;15:05:05;53.150002 ;53.205002 ; 0.0; 0.1;"Check Out What Whales Are Doing With PFE
 "
-146,2022-03-28,11:58:48,52.974998 ,53.349998 , 0.3, 0.7,"Fosun Pharma Hopes Covid Vaccine Can Cure Its Ailing Margins
+146;2022-03-28;11:58:48;52.974998 ;53.349998 ; 0.3; 0.7;"Fosun Pharma Hopes Covid Vaccine Can Cure Its Ailing Margins
 "
-147,2022-03-28,10:39:01,53.384998 ,52.974998 ,-0.4,-0.7,"FDA Says Current Dose Of GSK-Vir's COVID-19 Therapy Unlikely To Work Against Omicron Subvariant
+147;2022-03-28;10:39:01;53.384998 ;52.974998 ;-0.4;-0.7;"FDA Says Current Dose Of GSK-Vir's COVID-19 Therapy Unlikely To Work Against Omicron Subvariant
 "
-148,2022-03-25,15:17:07,52.770000 ,52.645000 ,-0.1,-0.2,"Drug makers, Scientists Working For Long COVID Treatments: Reuters
+148;2022-03-25;15:17:07;52.770000 ;52.645000 ;-0.1;-0.2;"Drug makers, Scientists Working For Long COVID Treatments: Reuters
 "
-149,2022-03-22,15:00:56,53.005001 ,53.080002 , 0.0, 0.1,"Pfizer Recalls Some Lots Of Hypertension Med Due To Potential Cancer-Causing Impurity
+149;2022-03-22;15:00:56;53.005001 ;53.080002 ; 0.0; 0.1;"Pfizer Recalls Some Lots Of Hypertension Med Due To Potential Cancer-Causing Impurity
 "
-150,2022-03-21,12:58:45,54.380001 ,53.959999 ,-0.4,-0.7,"FDA To Hold Advisory Committee Meeting To Discuss COVID-19 Vaccine Future Boosters
+150;2022-03-21;12:58:45;54.380001 ;53.959999 ;-0.4;-0.7;"FDA To Hold Advisory Committee Meeting To Discuss COVID-19 Vaccine Future Boosters
 "
-151,2022-03-21,11:29:10,54.615002 ,54.305000 ,-0.3,-0.5,"Ahead Of Moderna's Midstage mRNA Flu Vaccine Readout, Analyst Says Drugmaker Likely To Be First To Market
+151;2022-03-21;11:29:10;54.615002 ;54.305000 ;-0.3;-0.5;"Ahead Of Moderna's Midstage mRNA Flu Vaccine Readout, Analyst Says Drugmaker Likely To Be First To Market
 "
-152,2022-03-18,14:29:11,54.060001 ,54.150002 , 0.0, 0.1,"Maker Of Pfizer's COVID-19 Vaccine mRNA-Delivery Tech Sues Arbutus Biopharma: Reuters
+152;2022-03-18;14:29:11;54.060001 ;54.150002 ; 0.0; 0.1;"Maker Of Pfizer's COVID-19 Vaccine mRNA-Delivery Tech Sues Arbutus Biopharma: Reuters
 "
-153,2022-03-17,14:19:36,53.939999 ,53.955002 , 0.0, 0.0,"35 Generic Drugmakers Sign To Manufacture Low-Cost Version Of Pfizer's COVID Pill
+153;2022-03-17;14:19:36;53.939999 ;53.955002 ; 0.0; 0.0;"35 Generic Drugmakers Sign To Manufacture Low-Cost Version Of Pfizer's COVID Pill
 "
-154,2022-03-17,11:13:50,53.895000 ,53.941002 , 0.0, 0.0,"Alnylam Hits Pfizer, Moderna With Patent Infringement Suits
+154;2022-03-17;11:13:50;53.895000 ;53.941002 ; 0.0; 0.0;"Alnylam Hits Pfizer, Moderna With Patent Infringement Suits
 "
-155,2022-03-17,11:05:41,53.895000 ,53.941002 , 0.0, 0.0,"Benzinga Launches March Madness Stock Competition: What Companies Are The No. 1 Seeds And The Top Matchups?
+155;2022-03-17;11:05:41;53.895000 ;53.941002 ; 0.0; 0.0;"Benzinga Launches March Madness Stock Competition: What Companies Are The No. 1 Seeds And The Top Matchups?
 "
-156,2022-03-16,12:38:34,52.845001 ,52.865002 , 0.0, 0.0,"What Are Whales Doing With Pfizer
+156;2022-03-16;12:38:34;52.845001 ;52.865002 ; 0.0; 0.0;"What Are Whales Doing With Pfizer
 "
-157,2022-03-14,12:54:20,52.180000 ,52.080002 ,-0.0,-0.1,"Pfizer To Stop New Clinical Trials In Russia: Reuters
+157;2022-03-14;12:54:20;52.180000 ;52.080002 ;-0.0;-0.1;"Pfizer To Stop New Clinical Trials In Russia: Reuters
 "
-158,2022-03-14,12:43:39,52.180000 ,52.080002 ,-0.0,-0.1,"GeoVax Labs Retains CATO SMS To Manage Its Mid-Stage COVID-19 Vaccine Trials
+158;2022-03-14;12:43:39;52.180000 ;52.080002 ;-0.0;-0.1;"GeoVax Labs Retains CATO SMS To Manage Its Mid-Stage COVID-19 Vaccine Trials
 "
-159,2022-03-14,11:18:16,52.514999 ,52.584999 , 0.0, 0.1,"Here's Why Pfizer And Novavax Shares Are Rising On Monday
+159;2022-03-14;11:18:16;52.514999 ;52.584999 ; 0.0; 0.1;"Here's Why Pfizer And Novavax Shares Are Rising On Monday
 "
-160,2022-03-09,13:10:01,48.919998 ,48.865002 ,-0.0,-0.1,"Pfizer's Paxlovid Becomes First Oral COVID-19 Therapy To Be Evaluated In Pediatric Clinical Study
+160;2022-03-09;13:10:01;48.919998 ;48.865002 ;-0.0;-0.1;"Pfizer's Paxlovid Becomes First Oral COVID-19 Therapy To Be Evaluated In Pediatric Clinical Study
 "
-161,2022-03-07,14:07:26,47.933399 ,47.895000 ,-0.0,-0.0,"Lung-Disease Focused AN2 Therapeutics Files Plans For NASDAQ Debut
+161;2022-03-07;14:07:26;47.933399 ;47.895000 ;-0.0;-0.0;"Lung-Disease Focused AN2 Therapeutics Files Plans For NASDAQ Debut
 "
-162,2022-03-04,14:02:43,48.396999 ,48.525002 , 0.1, 0.2,"Looking At Pfizer's Recent Whale Trades
+162;2022-03-04;14:02:43;48.396999 ;48.525002 ; 0.1; 0.2;"Looking At Pfizer's Recent Whale Trades
 "
-163,2022-03-03,11:03:35,48.130001 ,47.650002 ,-0.4,-0.9,"Pfizer Commits 10M Courses Of COVID-19 Oral Antiviral To Developing Countries: Reuters
+163;2022-03-03;11:03:35;48.130001 ;47.650002 ;-0.4;-0.9;"Pfizer Commits 10M Courses Of COVID-19 Oral Antiviral To Developing Countries: Reuters
 "
-164,2022-03-03,10:54:27,48.130001 ,47.650002 ,-0.4,-0.9,"Johnson & Johnson's COVID-19 Vaccine Less Effective Against Hospitalization, French Study Shows
+164;2022-03-03;10:54:27;48.130001 ;47.650002 ;-0.4;-0.9;"Johnson & Johnson's COVID-19 Vaccine Less Effective Against Hospitalization, French Study Shows
 "
-165,2022-03-01,13:45:16,45.814999 ,45.849998 , 0.0, 0.0,"Pfizer/BioNTech's COVID-19 Vaccine Mere 12% Effective In Kids 5-11 Years, New York Study Shows
+165;2022-03-01;13:45:16;45.814999 ;45.849998 ; 0.0; 0.0;"Pfizer/BioNTech's COVID-19 Vaccine Mere 12% Effective In Kids 5-11 Years, New York Study Shows
 "
-166,2022-03-01,12:23:09,46.360001 ,46.029999 ,-0.3,-0.7,"Pfizer's Clostridioides Difficile Vaccine Fails To Prevent C. Difficile Infection
+166;2022-03-01;12:23:09;46.360001 ;46.029999 ;-0.3;-0.7;"Pfizer's Clostridioides Difficile Vaccine Fails To Prevent C. Difficile Infection
 "
-167,2022-02-28,14:25:11,46.869999 ,46.700001 ,-0.1,-0.3,"Viatris To Pay $264M As EpiPen Antitrust Litigation Settlement: Reuters
+167;2022-02-28;14:25:11;46.869999 ;46.700001 ;-0.1;-0.3;"Viatris To Pay $264M As EpiPen Antitrust Litigation Settlement: Reuters
 "
-168,2022-02-28,13:31:15,46.869999 ,46.700001 ,-0.1,-0.3,"What Are Whales Doing With Pfizer
+168;2022-02-28;13:31:15;46.869999 ;46.700001 ;-0.1;-0.3;"What Are Whales Doing With Pfizer
 "
-169,2022-02-25,12:03:27,47.630001 ,47.849998 , 0.2, 0.4,"Longer Waiting Period Between mRNA COVID-19 Doses May Cut Heart Inflammation Risk, CDC Suggests
+169;2022-02-25;12:03:27;47.630001 ;47.849998 ; 0.2; 0.4;"Longer Waiting Period Between mRNA COVID-19 Doses May Cut Heart Inflammation Risk, CDC Suggests
 "
-170,2022-02-24,13:33:33,45.580002 ,45.639999 , 0.0, 0.1,"Pfizer Whale Trades Spotted
+170;2022-02-24;13:33:33;45.580002 ;45.639999 ; 0.0; 0.1;"Pfizer Whale Trades Spotted
 "
-171,2022-02-24,10:34:14,46.099998 ,45.865002 ,-0.2,-0.5,"Pfizer's Cannabinoid-Related Biotech Company Arena's Q4 Net Loss Grows 27% YoY
+171;2022-02-24;10:34:14;46.099998 ;45.865002 ;-0.2;-0.5;"Pfizer's Cannabinoid-Related Biotech Company Arena's Q4 Net Loss Grows 27% YoY
 "
-172,2022-02-23,14:06:23,47.301102 ,47.099998 ,-0.2,-0.4,"Blood Clot Risk After First AstraZeneca COVID-19 Shot Very Small - UK Study Shows
+172;2022-02-23;14:06:23;47.301102 ;47.099998 ;-0.2;-0.4;"Blood Clot Risk After First AstraZeneca COVID-19 Shot Very Small - UK Study Shows
 "
-173,2022-02-18,13:50:31,48.424999 ,48.700001 , 0.2, 0.5,"Moderna Adds Three New mRNA-Based Development Programs To Its Pipeline
+173;2022-02-18;13:50:31;48.424999 ;48.700001 ; 0.2; 0.5;"Moderna Adds Three New mRNA-Based Development Programs To Its Pipeline
 "
-174,2022-02-18,13:36:03,48.424999 ,48.700001 , 0.2, 0.5,"10 Health Care Stocks With Whale Alerts In Today's Session
+174;2022-02-18;13:36:03;48.424999 ;48.700001 ; 0.2; 0.5;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-175,2022-02-17,12:11:20,49.279999 ,49.474998 , 0.1, 0.3,"'As Great As It Gets': Jim Cramer Weighs In On Nvidia Following Q4 Earnings
+175;2022-02-17;12:11:20;49.279999 ;49.474998 ; 0.1; 0.3;"'As Great As It Gets': Jim Cramer Weighs In On Nvidia Following Q4 Earnings
 "
-176,2022-02-17,14:40:02,49.215000 ,49.009998 ,-0.2,-0.4,"South Africa Authorizes Merck's COVID-19 Antiviral Pill, But Government Not Buying: Reuters
+176;2022-02-17;14:40:02;49.215000 ;49.009998 ;-0.2;-0.4;"South Africa Authorizes Merck's COVID-19 Antiviral Pill, But Government Not Buying: Reuters
 "
-177,2022-02-17,13:36:29,49.474998 ,49.215000 ,-0.2,-0.5,"10 Health Care Stocks With Whale Alerts In Today's Session
+177;2022-02-17;13:36:29;49.474998 ;49.215000 ;-0.2;-0.5;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-178,2022-02-17,11:07:07,49.095001 ,49.279999 , 0.1, 0.3,"This Reopening Stock Has A Better 1-Year Return Than Moderna, Pfizer, BioNTech, Novavax And Vaxart
+178;2022-02-17;11:07:07;49.095001 ;49.279999 ; 0.1; 0.3;"This Reopening Stock Has A Better 1-Year Return Than Moderna, Pfizer, BioNTech, Novavax And Vaxart
 "
-179,2022-02-14,15:13:59,49.450001 ,49.544998 , 0.0, 0.1,"Pfizer, Moderna COVID-19 Boosters Effectiveness Wanes After Four Months: CDC Study
+179;2022-02-14;15:13:59;49.450001 ;49.544998 ; 0.0; 0.1;"Pfizer, Moderna COVID-19 Boosters Effectiveness Wanes After Four Months: CDC Study
 "
-180,2022-02-14,13:07:59,49.345001 ,49.605000 , 0.2, 0.5,"Why Pfizer Shares Are Trading Lower Today
+180;2022-02-14;13:07:59;49.345001 ;49.605000 ; 0.2; 0.5;"Why Pfizer Shares Are Trading Lower Today
 "
-181,2022-02-14,11:25:20,48.955002 ,48.910000 ,-0.0,-0.0,"Why BioNTech Shares Are Falling Today
+181;2022-02-14;11:25:20;48.955002 ;48.910000 ;-0.0;-0.0;"Why BioNTech Shares Are Falling Today
 "
-182,2022-02-14,11:20:58,48.955002 ,48.910000 ,-0.0,-0.0,"CStone's Commercialization Capacity Put to Test With Latest Drug Approval
+182;2022-02-14;11:20:58;48.955002 ;48.910000 ;-0.0;-0.0;"CStone's Commercialization Capacity Put to Test With Latest Drug Approval
 "
-183,2022-02-09,14:25:00,51.389999 ,51.634998 , 0.2, 0.4,"ARWR: New Pulmonary Programs AnnouncedвЂ2022-02-11 12:35:57 50.660000  50.625000  -0.0 -0.0 Menstrual Irregularities Cases After mRNA COVID-19 Vaccine - EMA Reviews Cases
+183;2022-02-09;14:25:00;51.389999 ;51.634998 ; 0.2; 0.4;"ARWR: New Pulmonary Programs AnnouncedвЂ2022-02-11 12:35:57 50.660000  50.625000  -0.0 -0.0 Menstrual Irregularities Cases After mRNA COVID-19 Vaccine - EMA Reviews Cases
 "
-184,2022-02-10,12:02:48,51.071499 ,51.195000 , 0.1, 0.2,"Expert Ratings For Pfizer
+184;2022-02-10;12:02:48;51.071499 ;51.195000 ; 0.1; 0.2;"Expert Ratings For Pfizer
 "
-185,2022-02-10,11:08:54,51.125000 ,51.071499 ,-0.0,-0.1,"Where Pfizer Stands With Analysts
+185;2022-02-10;11:08:54;51.125000 ;51.071499 ;-0.0;-0.1;"Where Pfizer Stands With Analysts
 "
-186,2022-02-09,15:28:22,51.634998 ,51.485001 ,-0.1,-0.2,"Why Are Aptevo Therapeutics Shares Trading Higher Today?
+186;2022-02-09;15:28:22;51.634998 ;51.485001 ;-0.1;-0.2;"Why Are Aptevo Therapeutics Shares Trading Higher Today?
 "
-187,2022-02-08,13:38:12,51.320000 ,51.294998 ,-0.0,-0.0,"Novavax Tumbles On Reports Of Underdelivering COVID-19 Vaccine Commitments
+187;2022-02-08;13:38:12;51.320000 ;51.294998 ;-0.0;-0.0;"Novavax Tumbles On Reports Of Underdelivering COVID-19 Vaccine Commitments
 "
-188,2022-02-08,13:23:48,51.654999 ,51.320000 ,-0.3,-0.6,"Mid-Day Market Update: Pfizer Sales Miss Expectations; Teradata Shares Spike Higher
+188;2022-02-08;13:23:48;51.654999 ;51.320000 ;-0.3;-0.6;"Mid-Day Market Update: Pfizer Sales Miss Expectations; Teradata Shares Spike Higher
 "
-189,2022-02-08,13:00:24,51.654999 ,51.320000 ,-0.3,-0.6,"35 Stocks Moving In Tuesday's Mid-Day Session
+189;2022-02-08;13:00:24;51.654999 ;51.320000 ;-0.3;-0.6;"35 Stocks Moving In Tuesday's Mid-Day Session
 "
-190,2022-02-08,11:01:12,49.921001 ,50.845001 , 0.9, 1.8,"Mid-Morning Market Update: Markets Mostly Higher; Dow Rises 100 Points
+190;2022-02-08;11:01:12;49.921001 ;50.845001 ; 0.9; 1.8;"Mid-Morning Market Update: Markets Mostly Higher; Dow Rises 100 Points
 "
-191,2022-02-07,11:07:21,52.970001 ,53.235001 , 0.2, 0.5,"A Preview Of Pfizer's Earnings
+191;2022-02-07;11:07:21;52.970001 ;53.235001 ; 0.2; 0.5;"A Preview Of Pfizer's Earnings
 "
-192,2022-02-04,15:17:52,53.174999 ,53.273399 , 0.0, 0.1,"A Look Into Pfizer's Price Over Earnings
+192;2022-02-04;15:17:52;53.174999 ;53.273399 ; 0.0; 0.1;"A Look Into Pfizer's Price Over Earnings
 "
-193,2022-02-02,13:31:10,53.474998 ,53.650002 , 0.1, 0.3,"GSK To Get $1.25B As Settlement For HIV Treatment Drug Patent Row With Gilead
+193;2022-02-02;13:31:10;53.474998 ;53.650002 ; 0.1; 0.3;"GSK To Get $1.25B As Settlement For HIV Treatment Drug Patent Row With Gilead
 "
-194,2022-02-01,14:45:34,52.685001 ,52.895000 , 0.2, 0.3,"FDA Approves First Injectable For HIV Pre-Exposure Prevention - GSK, Pfizer Backed Treatment
+194;2022-02-01;14:45:34;52.685001 ;52.895000 ; 0.2; 0.3;"FDA Approves First Injectable For HIV Pre-Exposure Prevention - GSK, Pfizer Backed Treatment
 "
-195,2022-02-01,13:46:40,52.549999 ,52.685001 , 0.1, 0.2,"10 Health Care Stocks Whale Activity In Today's Session
+195;2022-02-01;13:46:40;52.549999 ;52.685001 ; 0.1; 0.2;"10 Health Care Stocks Whale Activity In Today's Session
 "
-196,2022-01-31,13:36:23,52.674999 ,52.799999 , 0.1, 0.2,"10 Health Care Stocks Whale Activity In Today's Session
+196;2022-01-31;13:36:23;52.674999 ;52.799999 ; 0.1; 0.2;"10 Health Care Stocks Whale Activity In Today's Session
 "
-197,2022-01-31,12:41:17,52.575001 ,52.674999 , 0.0, 0.1,"Veru's Cancer Candidate Sabizabulin Gets FDA Fast Track Tag For COVID-19
+197;2022-01-31;12:41:17;52.575001 ;52.674999 ; 0.0; 0.1;"Veru's Cancer Candidate Sabizabulin Gets FDA Fast Track Tag For COVID-19
 "
-198,2022-01-28,13:57:03,54.230000 ,53.869999 ,-0.3,-0.6,"This Clinical Respiratory Company Has Been Easing the Burden on the Healthcare System During the Pandemic вЂ” It's Looking to Continue to Do So Beyon2022-01-28 13:28:07 54.485001  54.230000  -0.2 -0.4 Pfizer's Lorlatinib Scores European Approval In ALK-Positive Lung Cancer
+198;2022-01-28;13:57:03;54.230000 ;53.869999 ;-0.3;-0.6;"This Clinical Respiratory Company Has Been Easing the Burden on the Healthcare System During the Pandemic вЂ” It's Looking to Continue to Do So Beyon2022-01-28 13:28:07 54.485001  54.230000  -0.2 -0.4 Pfizer's Lorlatinib Scores European Approval In ALK-Positive Lung Cancer
 "
-199,2022-01-28,13:03:50,54.485001 ,54.230000 ,-0.2,-0.4,"Pfizer Whale Trades For January 28
+199;2022-01-28;13:03:50;54.485001 ;54.230000 ;-0.2;-0.4;"Pfizer Whale Trades For January 28
 "
-200,2022-01-28,12:31:41,54.485001 ,54.230000 ,-0.2,-0.4,"Sorrento's COVID-19 Main Protease Inhibitor Neutralizes Omicron
+200;2022-01-28;12:31:41;54.485001 ;54.230000 ;-0.2;-0.4;"Sorrento's COVID-19 Main Protease Inhibitor Neutralizes Omicron
 "
-201,2022-01-27,14:01:27,53.424999 ,53.456200 , 0.0, 0.0,"10 Health Care Stocks With Whale Alerts In Today's Session
+201;2022-01-27;14:01:27;53.424999 ;53.456200 ; 0.0; 0.0;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-202,2022-01-27,13:27:59,54.125000 ,53.424999 ,-0.7,-1.2,"CHMP Recommends Pfizer's Paxlovid For Use In Adults With COVID-19
+202;2022-01-27;13:27:59;54.125000 ;53.424999 ;-0.7;-1.2;"CHMP Recommends Pfizer's Paxlovid For Use In Adults With COVID-19
 "
-203,2022-01-24,15:16:55,50.264999 ,50.599998 , 0.3, 0.6,"Analysis: Why Is It So Difficult To Obtain COVID-19 Monoclonal Antibody Treatments?
+203;2022-01-24;15:16:55;50.264999 ;50.599998 ; 0.3; 0.6;"Analysis: Why Is It So Difficult To Obtain COVID-19 Monoclonal Antibody Treatments?
 "
-204,2022-01-24,13:44:05,50.560001 ,50.264999 ,-0.2,-0.5,"Pfizer, AstraZeneca or J&J COVID-19 Shots Boost Sinovac Regime, Brazilian Study Shows
+204;2022-01-24;13:44:05;50.560001 ;50.264999 ;-0.2;-0.5;"Pfizer, AstraZeneca or J&J COVID-19 Shots Boost Sinovac Regime, Brazilian Study Shows
 "
-205,2022-01-20,14:39:20,54.154999 ,54.270000 , 0.1, 0.2,"Everest Boosts Covid Bet With New Licensing Deal Despite Crowded Field
+205;2022-01-20;14:39:20;54.154999 ;54.270000 ; 0.1; 0.2;"Everest Boosts Covid Bet With New Licensing Deal Despite Crowded Field
 "
-206,2022-01-20,14:19:16,53.865002 ,54.154999 , 0.2, 0.5,"10 Health Care Stocks Whale Activity In Today's Session
+206;2022-01-20;14:19:16;53.865002 ;54.154999 ; 0.2; 0.5;"10 Health Care Stocks Whale Activity In Today's Session
 "
-207,2022-01-20,12:34:17,53.928299 ,53.865002 ,-0.0,-0.1,"Sputnik V Associated With Higher Antibody Levels Against Omicron Than Pfizer, Study Shows: Reuters
+207;2022-01-20;12:34:17;53.928299 ;53.865002 ;-0.0;-0.1;"Sputnik V Associated With Higher Antibody Levels Against Omicron Than Pfizer, Study Shows: Reuters
 "
-208,2022-01-18,12:17:59,53.849998 ,53.705002 ,-0.1,-0.2,"Why Moderna, Pfizer, BioNTech And Novavax Shares Are Falling Today
+208;2022-01-18;12:17:59;53.849998 ;53.705002 ;-0.1;-0.2;"Why Moderna, Pfizer, BioNTech And Novavax Shares Are Falling Today
 "
-209,2022-01-18,11:33:46,53.849998 ,53.705002 ,-0.1,-0.2,"Todos Medical Releases Videos of Recent CEO Interviews with Fox Business, NewsMax and Black News Channel on COVID Testing & Treatment Strategies
+209;2022-01-18;11:33:46;53.849998 ;53.705002 ;-0.1;-0.2;"Todos Medical Releases Videos of Recent CEO Interviews with Fox Business, NewsMax and Black News Channel on COVID Testing & Treatment Strategies
 "
-210,2022-01-18,10:39:29,53.974998 ,53.849998 ,-0.1,-0.2,"Sema4 Strengthens AI-Driven Genomic, Clinical Data Platform With $623M GeneDx Acquisition
+210;2022-01-18;10:39:29;53.974998 ;53.849998 ;-0.1;-0.2;"Sema4 Strengthens AI-Driven Genomic, Clinical Data Platform With $623M GeneDx Acquisition
 "
-211,2022-01-14,14:25:05,54.840000 ,54.889999 , 0.0, 0.0,"Federal Health Officials Say Omicron-Targeted Shots May Not Be Necessary: WSJ
+211;2022-01-14;14:25:05;54.840000 ;54.889999 ; 0.0; 0.0;"Federal Health Officials Say Omicron-Targeted Shots May Not Be Necessary: WSJ
 "
-212,2022-01-14,11:17:03,55.061600 ,54.689999 ,-0.3,-0.6,"Why Moderna, Novavax And Other Vaccine Stocks Are Extending Losses Today
+212;2022-01-14;11:17:03;55.061600 ;54.689999 ;-0.3;-0.6;"Why Moderna, Novavax And Other Vaccine Stocks Are Extending Losses Today
 "
-213,2022-01-13,13:01:58,55.480000 ,55.860001 , 0.3, 0.6,"This Biotech Is Working With Pfizer, Merck KGaA, Roche, and Other Leaders To Develop a Better Standard of Care for Breast Cancer
+213;2022-01-13;13:01:58;55.480000 ;55.860001 ; 0.3; 0.6;"This Biotech Is Working With Pfizer, Merck KGaA, Roche, and Other Leaders To Develop a Better Standard of Care for Breast Cancer
 "
-214,2022-01-13,13:55:34,55.860001 ,55.654999 ,-0.2,-0.3,"Connect Biopharma's Latest Dermatitis Drug Update Fails to Pump Up Shares
+214;2022-01-13;13:55:34;55.860001 ;55.654999 ;-0.2;-0.3;"Connect Biopharma's Latest Dermatitis Drug Update Fails to Pump Up Shares
 "
-215,2022-01-13,13:24:40,55.480000 ,55.860001 , 0.3, 0.6,"Is The Launch Of A New Fund A Sell Signal For An Asset? Examples From Health Care, Commodities, And Now Bitcoin.
+215;2022-01-13;13:24:40;55.480000 ;55.860001 ; 0.3; 0.6;"Is The Launch Of A New Fund A Sell Signal For An Asset? Examples From Health Care, Commodities, And Now Bitcoin.
 "
-216,2022-01-12,14:02:11,56.680000 ,56.552101 ,-0.1,-0.2,"WHO's Technical Body Says Updated COVID-19 Vaccines Needed To Combat Omicron: Reuters
+216;2022-01-12;14:02:11;56.680000 ;56.552101 ;-0.1;-0.2;"WHO's Technical Body Says Updated COVID-19 Vaccines Needed To Combat Omicron: Reuters
 "
-217,2022-01-12,13:07:37,56.650002 ,56.680000 , 0.0, 0.0,"FDA Adds Rare Bleeding Risk To Johnson & Johnson's COVID-19 Vaccine Fact Sheet
+217;2022-01-12;13:07:37;56.650002 ;56.680000 ; 0.0; 0.0;"FDA Adds Rare Bleeding Risk To Johnson & Johnson's COVID-19 Vaccine Fact Sheet
 "
-218,2022-01-12,11:42:16,56.666100 ,56.650002 ,-0.0,-0.0,"New Data Supports Co-Administration Of Pfizer's Pneumococcal, COVID-19 Vaccine
+218;2022-01-12;11:42:16;56.666100 ;56.650002 ;-0.0;-0.0;"New Data Supports Co-Administration Of Pfizer's Pneumococcal, COVID-19 Vaccine
 "
-219,2022-01-11,14:49:49,56.429699 ,56.580002 , 0.1, 0.2,"Moderna COVID-19 Shot Lowers Risk Of Infection, Hospitalization Compared To Pfizer's, VA Real-World Data Shows
+219;2022-01-11;14:49:49;56.429699 ;56.580002 ; 0.1; 0.2;"Moderna COVID-19 Shot Lowers Risk Of Infection, Hospitalization Compared To Pfizer's, VA Real-World Data Shows
 "
-220,2022-01-10,13:50:48,55.790001 ,56.107101 , 0.3, 0.5,"Pfizer's Omicron-Targeted Vaccine Expected To Be Ready In March: CEO Says On CNBC
+220;2022-01-10;13:50:48;55.790001 ;56.107101 ; 0.3; 0.5;"Pfizer's Omicron-Targeted Vaccine Expected To Be Ready In March: CEO Says On CNBC
 "
-221,2022-01-06,13:37:05,55.584999 ,55.303699 ,-0.2,-0.5,"10 Health Care Stocks With Whale Alerts In Today's Session
+221;2022-01-06;13:37:05;55.584999 ;55.303699 ;-0.2;-0.5;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-222,2022-01-06,11:32:28,55.485001 ,55.369999 ,-0.1,-0.2,"Pfizer Whale Trades Spotted
+222;2022-01-06;11:32:28;55.485001 ;55.369999 ;-0.1;-0.2;"Pfizer Whale Trades Spotted
 "
-223,2021-12-15,13:54:03,58.005001 ,58.008400 , 0.0, 0.0,"Pfizer Inc. Climbs to Annual-High Share Price
+223;2021-12-15;13:54:03;58.005001 ;58.008400 ; 0.0; 0.0;"Pfizer Inc. Climbs to Annual-High Share Price
 "
-224,2021-12-20,14:53:52,61.230000 ,60.904999 ,-0.3,-0.5,"Watch for Continued Gains in Shares of Pfizer Inc.
+224;2021-12-20;14:53:52;61.230000 ;60.904999 ;-0.3;-0.5;"Watch for Continued Gains in Shares of Pfizer Inc.
 "
-225,2021-11-29,14:39:37,53.349998 ,52.865002 ,-0.4,-0.9,"Pfizer Inc.: The Winning Streak Continues
+225;2021-11-29;14:39:37;53.349998 ;52.865002 ;-0.4;-0.9;"Pfizer Inc.: The Winning Streak Continues
 "
-226,2021-11-30,10:31:04,53.534000 ,53.369999 ,-0.1,-0.3,"Tuesday's Market Minute: Investors Attempt to Grapple With Severity of Omicron
+226;2021-11-30;10:31:04;53.534000 ;53.369999 ;-0.1;-0.3;"Tuesday's Market Minute: Investors Attempt to Grapple With Severity of Omicron
 "
-227,2022-01-05,10:55:27,55.779999 ,55.759998 ,-0.0,-0.0,"What Does the Selling of Bonds Tell Us About Investor Sentiment?
+227;2022-01-05;10:55:27;55.779999 ;55.759998 ;-0.0;-0.0;"What Does the Selling of Bonds Tell Us About Investor Sentiment?
 "
-228,2021-12-17,11:13:30,59.689999 ,58.919998 ,-0.7,-1.2,"Investors Dump Tech Stocks in Favor of Value Stocks
+228;2021-12-17;11:13:30;59.689999 ;58.919998 ;-0.7;-1.2;"Investors Dump Tech Stocks in Favor of Value Stocks
 "
-229,2021-12-13,10:54:13,55.110001 ,55.555000 , 0.4, 0.8,"Investors Appear to Get Defensive as the Consumer Staples Sector Breakout on Friday
+229;2021-12-13;10:54:13;55.110001 ;55.555000 ; 0.4; 0.8;"Investors Appear to Get Defensive as the Consumer Staples Sector Breakout on Friday
 "
-230,2021-12-07,11:04:41,52.395000 ,51.950001 ,-0.4,-0.8,"Investors Do A Little Holiday Value Shopping On Monday
+230;2021-12-07;11:04:41;52.395000 ;51.950001 ;-0.4;-0.8;"Investors Do A Little Holiday Value Shopping On Monday
 "
-231,2022-01-05,15:02:56,56.171200 ,55.669998 ,-0.5,-0.8,"Analyst Ratings For Pfizer
+231;2022-01-05;15:02:56;56.171200 ;55.669998 ;-0.5;-0.8;"Analyst Ratings For Pfizer
 "
-232,2022-01-05,13:37:13,55.729900 ,56.171200 , 0.4, 0.7,"10 Health Care Stocks Whale Activity In Today's Session
+232;2022-01-05;13:37:13;55.729900 ;56.171200 ; 0.4; 0.7;"10 Health Care Stocks Whale Activity In Today's Session
 "
-233,2022-01-05,13:18:28,55.740002 ,55.729900 ,-0.0,-0.0,"Why This Pfizer, Regeneron Analyst Has Contrasting Recommendations For The COVID Stock Plays
+233;2022-01-05;13:18:28;55.740002 ;55.729900 ;-0.0;-0.0;"Why This Pfizer, Regeneron Analyst Has Contrasting Recommendations For The COVID Stock Plays
 "
-234,2022-01-05,11:08:47,55.779999 ,55.759998 ,-0.0,-0.0,"Benzinga's Top Ratings Upgrades, Downgrades For January 5, 2022
+234;2022-01-05;11:08:47;55.779999 ;55.759998 ;-0.0;-0.0;"Benzinga's Top Ratings Upgrades, Downgrades For January 5, 2022
 "
-235,2022-01-04,13:43:42,54.724998 ,55.000000 , 0.2, 0.5,"Pfizer To Provide US Additional 10M Courses Of COVID-19 Oral Therapy
+235;2022-01-04;13:43:42;54.724998 ;55.000000 ; 0.2; 0.5;"Pfizer To Provide US Additional 10M Courses Of COVID-19 Oral Therapy
 "
-236,2022-01-03,13:36:33,56.870602 ,56.895000 , 0.0, 0.0,"10 Health Care Stocks Whale Activity In Today's Session
+236;2022-01-03;13:36:33;56.870602 ;56.895000 ; 0.0; 0.0;"10 Health Care Stocks Whale Activity In Today's Session
 "
-237,2022-01-03,12:19:34,57.035000 ,57.240002 , 0.2, 0.3,"Ten Biggest Weed Stories Of 2021: Big Pharma, Delta-8, Tech, Silicon Valley, MSOs, Politics And More
+237;2022-01-03;12:19:34;57.035000 ;57.240002 ; 0.2; 0.3;"Ten Biggest Weed Stories Of 2021: Big Pharma, Delta-8, Tech, Silicon Valley, MSOs, Politics And More
 "
-238,2022-01-03,11:23:47,57.375000 ,57.035000 ,-0.3,-0.5,"FDA Approves Pfizer's COVID-19 Booster For Age 12 To 15
+238;2022-01-03;11:23:47;57.375000 ;57.035000 ;-0.3;-0.5;"FDA Approves Pfizer's COVID-19 Booster For Age 12 To 15
 "
-239,2021-12-23,10:41:18,58.980000 ,58.724998 ,-0.2,-0.4,"FDA Approves Another COVID-19 Antiviral Pill, This Time From Merck
+239;2021-12-23;10:41:18;58.980000 ;58.724998 ;-0.2;-0.4;"FDA Approves Another COVID-19 Antiviral Pill, This Time From Merck
 "
-240,2021-12-31,15:03:06,59.310001 ,59.235001 ,-0.0,-0.1,"Mid-Afternoon Market Update: Dow Rises 50 Points; Nutriband Shares Spike Higher
+240;2021-12-31;15:03:06;59.310001 ;59.235001 ;-0.0;-0.1;"Mid-Afternoon Market Update: Dow Rises 50 Points; Nutriband Shares Spike Higher
 "
-241,2021-12-31,13:07:33,59.541698 ,59.279999 ,-0.2,-0.4,"Mid-Day Market Update: Crude Oil Down 1%; Xeris Biopharma Shares Jump
+241;2021-12-31;13:07:33;59.541698 ;59.279999 ;-0.2;-0.4;"Mid-Day Market Update: Crude Oil Down 1%; Xeris Biopharma Shares Jump
 "
-242,2021-12-31,11:01:34,59.224998 ,59.389999 , 0.1, 0.2,"Mid-Morning Market Update: Markets Edge Lower; UK Approves Pfizer's Oral COVID-19 Antiviral Treatment
+242;2021-12-31;11:01:34;59.224998 ;59.389999 ; 0.1; 0.2;"Mid-Morning Market Update: Markets Edge Lower; UK Approves Pfizer's Oral COVID-19 Antiviral Treatment
 "
-243,2021-12-30,14:11:38,58.084999 ,58.220001 , 0.1, 0.2,"Jazz Pharmaceuticals Begins Enrollment For Clinical Trial To Evaluate JZP150 For Adults With PTSD
+243;2021-12-30;14:11:38;58.084999 ;58.220001 ; 0.1; 0.2;"Jazz Pharmaceuticals Begins Enrollment For Clinical Trial To Evaluate JZP150 For Adults With PTSD
 "
-244,2021-12-30,11:17:45,58.275002 ,57.935001 ,-0.3,-0.5,"This Industry Grew During Covid, Against All Odds: Here's Why You Should Consider Investing
+244;2021-12-30;11:17:45;58.275002 ;57.935001 ;-0.3;-0.5;"This Industry Grew During Covid, Against All Odds: Here's Why You Should Consider Investing
 "
-245,2021-12-29,11:15:32,57.560001 ,57.639999 , 0.0, 0.1,"Pfizer Whale Trades For December 29
+245;2021-12-29;11:15:32;57.560001 ;57.639999 ; 0.0; 0.1;"Pfizer Whale Trades For December 29
 "
-246,2021-12-27,15:11:29,59.185001 ,59.057400 ,-0.1,-0.2,"If You Invested $1,000 In Inovio Stock One Year Ago, Here's How Much You'd Have Now
+246;2021-12-27;15:11:29;59.185001 ;59.057400 ;-0.1;-0.2;"If You Invested $1,000 In Inovio Stock One Year Ago, Here's How Much You'd Have Now
 "
-247,2021-12-23,14:59:16,58.744999 ,58.799999 , 0.0, 0.0,"Pfizer-BioNTech Reveals Updated Longer-Term Data On COVID-19 Shot In Adolescents
+247;2021-12-23;14:59:16;58.744999 ;58.799999 ; 0.0; 0.0;"Pfizer-BioNTech Reveals Updated Longer-Term Data On COVID-19 Shot In Adolescents
 "
-248,2021-12-23,14:19:56,58.333599 ,58.744999 , 0.4, 0.7,"9 Health Care Stocks Whale Activity In Today's Session
+248;2021-12-23;14:19:56;58.333599 ;58.744999 ; 0.4; 0.7;"9 Health Care Stocks Whale Activity In Today's Session
 "
-249,2021-12-23,13:18:55,58.520000 ,58.333599 ,-0.1,-0.3,"Oxford Lab Study Suggests AstraZeneca's COVID-19 Booster Works Against Omicron
+249;2021-12-23;13:18:55;58.520000 ;58.333599 ;-0.1;-0.3;"Oxford Lab Study Suggests AstraZeneca's COVID-19 Booster Works Against Omicron
 "
-250,2021-12-23,13:02:13,58.520000 ,58.333599 ,-0.1,-0.3,"Todos Medical CEO to Appear on Yahoo Finance Live! at 12:10PM EST with Akiko Fujita to Talk Pfizer's Paxlovid Approval, Tollovirв„ў Phase 2 & COVID Testin2021-12-22 14:30:58 59.750000  59.240002  -0.5 -0.8 Why Pete Najarian Thinks Pfizer Has 'A Lot More Room To The Upside'
+250;2021-12-23;13:02:13;58.520000 ;58.333599 ;-0.1;-0.3;"Todos Medical CEO to Appear on Yahoo Finance Live! at 12:10PM EST with Akiko Fujita to Talk Pfizer's Paxlovid Approval, Tollovirв„ў Phase 2 & COVID Testin2021-12-22 14:30:58 59.750000  59.240002  -0.5 -0.8 Why Pete Najarian Thinks Pfizer Has 'A Lot More Room To The Upside'
 "
-251,2021-12-22,14:07:06,60.150002 ,59.750000 ,-0.4,-0.6,"10 Health Care Stocks Whale Activity In Today's Session
+251;2021-12-22;14:07:06;60.150002 ;59.750000 ;-0.4;-0.6;"10 Health Care Stocks Whale Activity In Today's Session
 "
-252,2021-12-22,13:41:08,60.150002 ,59.750000 ,-0.4,-0.6,"Pfizer's Paxlovid Scores FDA Approval, First Oral Antiviral For COVID-19 In US
+252;2021-12-22;13:41:08;60.150002 ;59.750000 ;-0.4;-0.6;"Pfizer's Paxlovid Scores FDA Approval, First Oral Antiviral For COVID-19 In US
 "
-253,2021-12-21,13:47:30,58.715000 ,58.805000 , 0.0, 0.1,"Five-Year Follow-Up Data Show Pfizer's Tafamidis Cuts Risk of Mortality by 41% In Cardiomyopathy Patients
+253;2021-12-21;13:47:30;58.715000 ;58.805000 ; 0.0; 0.1;"Five-Year Follow-Up Data Show Pfizer's Tafamidis Cuts Risk of Mortality by 41% In Cardiomyopathy Patients
 "
-254,2021-12-21,12:06:28,58.310001 ,58.630001 , 0.3, 0.5,"What Are Whales Doing With Pfizer
+254;2021-12-21;12:06:28;58.310001 ;58.630001 ; 0.3; 0.5;"What Are Whales Doing With Pfizer
 "
-255,2021-12-17,14:53:22,60.035000 ,59.724998 ,-0.3,-0.5,"Pfizer Plans To Evaluate Third Shot For Its COVID-19 Vaccine In Kids Below 5 Years
+255;2021-12-17;14:53:22;60.035000 ;59.724998 ;-0.3;-0.5;"Pfizer Plans To Evaluate Third Shot For Its COVID-19 Vaccine In Kids Below 5 Years
 "
-256,2021-12-17,13:37:30,59.794998 ,60.035000 , 0.2, 0.4,"Pfizer Whale Trades For December 17
+256;2021-12-17;13:37:30;59.794998 ;60.035000 ; 0.2; 0.4;"Pfizer Whale Trades For December 17
 "
-257,2021-12-17,11:17:56,59.689999 ,58.919998 ,-0.7,-1.2,"Benzinga's Top Ratings Upgrades, Downgrades For December 17, 2021
+257;2021-12-17;11:17:56;59.689999 ;58.919998 ;-0.7;-1.2;"Benzinga's Top Ratings Upgrades, Downgrades For December 17, 2021
 "
-258,2021-12-17,10:36:42,59.689999 ,58.919998 ,-0.7,-1.2,"Analyst Ratings For Pfizer
+258;2021-12-17;10:36:42;59.689999 ;58.919998 ;-0.7;-1.2;"Analyst Ratings For Pfizer
 "
-259,2021-12-16,14:23:58,61.070000 ,60.695000 ,-0.3,-0.6,"EMA Offers Early Access To Pfizer's COVID-19 Pill Paxlovid
+259;2021-12-16;14:23:58;61.070000 ;60.695000 ;-0.3;-0.6;"EMA Offers Early Access To Pfizer's COVID-19 Pill Paxlovid
 "
-260,2021-12-16,14:08:28,61.070000 ,60.695000 ,-0.3,-0.6,"Arcturus Shares Shoot Higher After Additional Data From COVID-19 Vaccine Programs
+260;2021-12-16;14:08:28;61.070000 ;60.695000 ;-0.3;-0.6;"Arcturus Shares Shoot Higher After Additional Data From COVID-19 Vaccine Programs
 "
-261,2021-12-15,13:52:44,58.005001 ,58.008400 , 0.0, 0.0,"Chart Wars: Will Pfizer Soar Higher Than Moderna As Omicron Variant Takes Hold?
+261;2021-12-15;13:52:44;58.005001 ;58.008400 ; 0.0; 0.0;"Chart Wars: Will Pfizer Soar Higher Than Moderna As Omicron Variant Takes Hold?
 "
-262,2021-12-15,12:31:04,57.889999 ,58.005001 , 0.1, 0.1,"FDA Approves AbbVie's JAK Inhibitor Application For Active Psoriatic Arthritis
+262;2021-12-15;12:31:04;57.889999 ;58.005001 ; 0.1; 0.1;"FDA Approves AbbVie's JAK Inhibitor Application For Active Psoriatic Arthritis
 "
-263,2021-12-15,12:15:23,57.629002 ,57.889999 , 0.2, 0.4,"European Medicines Committee Backs Johnson & Johnson's COVID-19 Booster Dose
+263;2021-12-15;12:15:23;57.629002 ;57.889999 ; 0.2; 0.4;"European Medicines Committee Backs Johnson & Johnson's COVID-19 Booster Dose
 "
-264,2021-12-15,12:12:57,57.629002 ,57.889999 , 0.2, 0.4,"Sanofi, Glaxo's COVID-19 Vaccine Candidate Works As Booster, But Data Readout Pushed Back
+264;2021-12-15;12:12:57;57.629002 ;57.889999 ; 0.2; 0.4;"Sanofi, Glaxo's COVID-19 Vaccine Candidate Works As Booster, But Data Readout Pushed Back
 "
-265,2021-12-14,11:52:04,55.400002 ,55.852600 , 0.4, 0.8,"Investing in an Alternative Asset Like an NFT? This Company Says It May Have Better Options
+265;2021-12-14;11:52:04;55.400002 ;55.852600 ; 0.4; 0.8;"Investing in an Alternative Asset Like an NFT? This Company Says It May Have Better Options
 "
-266,2021-12-14,13:43:22,55.587898 ,55.595001 , 0.0, 0.0,"South African Study Shows Omicron Variant Could Escape Pfizer/BioNTech COVID-19 Vaccine Protection
+266;2021-12-14;13:43:22;55.587898 ;55.595001 ; 0.0; 0.0;"South African Study Shows Omicron Variant Could Escape Pfizer/BioNTech COVID-19 Vaccine Protection
 "
-267,2021-12-13,15:23:09,54.884998 ,54.900002 , 0.0, 0.0,"Check Out What Whales Are Doing With PFE
+267;2021-12-13;15:23:09;54.884998 ;54.900002 ; 0.0; 0.0;"Check Out What Whales Are Doing With PFE
 "
-268,2021-12-13,14:15:56,55.330002 ,54.884998 ,-0.4,-0.8,"10 Health Care Stocks Whale Activity In Today's Session
+268;2021-12-13;14:15:56;55.330002 ;54.884998 ;-0.4;-0.8;"10 Health Care Stocks Whale Activity In Today's Session
 "
-269,2021-12-13,14:08:32,55.330002 ,54.884998 ,-0.4,-0.8,"Foghorn Therapeutics Shares Surge
+269;2021-12-13;14:08:32;55.330002 ;54.884998 ;-0.4;-0.8;"Foghorn Therapeutics Shares Surge
 "
-270,2021-12-13,12:44:30,55.558899 ,55.330002 ,-0.2,-0.4,"How Pfizer Is Getting Into Cannabis With $6.7B Arena Pharma Deal
+270;2021-12-13;12:44:30;55.558899 ;55.330002 ;-0.2;-0.4;"How Pfizer Is Getting Into Cannabis With $6.7B Arena Pharma Deal
 "
-271,2021-12-13,12:24:27,55.555000 ,55.558899 , 0.0, 0.0,"UK Reports First Omicron Death, PM Johnson Encourages Boosters
+271;2021-12-13;12:24:27;55.555000 ;55.558899 ; 0.0; 0.0;"UK Reports First Omicron Death, PM Johnson Encourages Boosters
 "
-272,2021-12-13,11:53:10,55.555000 ,55.558899 , 0.0, 0.0,"Why Pfizer Shares Are Trading Higher Today
+272;2021-12-13;11:53:10;55.555000 ;55.558899 ; 0.0; 0.0;"Why Pfizer Shares Are Trading Higher Today
 "
-273,2021-12-13,11:48:27,55.555000 ,55.558899 , 0.0, 0.0,"Benzinga's Top Ratings Upgrades, Downgrades For December 13, 2021
+273;2021-12-13;11:48:27;55.555000 ;55.558899 ; 0.0; 0.0;"Benzinga's Top Ratings Upgrades, Downgrades For December 13, 2021
 "
-274,2021-12-13,11:18:46,55.110001 ,55.555000 , 0.4, 0.8,"Why Arena Pharmaceuticals Stock Is Soaring Today
+274;2021-12-13;11:18:46;55.110001 ;55.555000 ; 0.4; 0.8;"Why Arena Pharmaceuticals Stock Is Soaring Today
 "
-275,2021-12-13,11:02:54,55.110001 ,55.555000 , 0.4, 0.8,"Mid-Morning Market Update: Markets Open Lower; Pfizer To Acquire Arena Pharmaceuticals
+275;2021-12-13;11:02:54;55.110001 ;55.555000 ; 0.4; 0.8;"Mid-Morning Market Update: Markets Open Lower; Pfizer To Acquire Arena Pharmaceuticals
 "
-276,2021-12-10,11:40:39,52.345001 ,52.375000 , 0.0, 0.0,"Arvinas, Pfizer's ARV-471 Shows Clinical Benefit Rate Of 40% In Pretreated Breast Cancer Patients
+276;2021-12-10;11:40:39;52.345001 ;52.375000 ; 0.0; 0.0;"Arvinas, Pfizer's ARV-471 Shows Clinical Benefit Rate Of 40% In Pretreated Breast Cancer Patients
 "
-277,2021-12-09,14:16:16,52.490002 ,52.355000 ,-0.1,-0.2,"FDA Expands Emergency Use Of Pfizer/BioNTech's COVID-19 Booster To 16 Years & Older
+277;2021-12-09;14:16:16;52.490002 ;52.355000 ;-0.1;-0.2;"FDA Expands Emergency Use Of Pfizer/BioNTech's COVID-19 Booster To 16 Years & Older
 "
-278,2021-12-09,14:12:54,52.490002 ,52.355000 ,-0.1,-0.2,"India's Biocon Mulls Merger Of Biosimilar Business With Mylan: Moneycontrol
+278;2021-12-09;14:12:54;52.490002 ;52.355000 ;-0.1;-0.2;"India's Biocon Mulls Merger Of Biosimilar Business With Mylan: Moneycontrol
 "
-279,2021-12-09,11:27:20,52.570000 ,52.310001 ,-0.2,-0.4,"Benzinga's Top Ratings Upgrades, Downgrades For December 9, 2021
+279;2021-12-09;11:27:20;52.570000 ;52.310001 ;-0.2;-0.4;"Benzinga's Top Ratings Upgrades, Downgrades For December 9, 2021
 "
-280,2021-12-08,15:19:49,51.490002 ,51.426998 ,-0.0,-0.1,"Why AMC Entertainment Shares Are Climbing Today
+280;2021-12-08;15:19:49;51.490002 ;51.426998 ;-0.0;-0.1;"Why AMC Entertainment Shares Are Climbing Today
 "
-281,2021-12-08,10:51:11,51.264999 ,51.270000 , 0.0, 0.0,"Technology Stocks Join The Bounce As Much Needed Breadth Is Added
+281;2021-12-08;10:51:11;51.264999 ;51.270000 ; 0.0; 0.0;"Technology Stocks Join The Bounce As Much Needed Breadth Is Added
 "
-282,2021-12-07,14:03:47,51.450699 ,51.215000 ,-0.2,-0.4,"Mix & Match Pfizer, AstraZeneca COVID-19 Vaccine With Moderna Shows Improved Immune Response
+282;2021-12-07;14:03:47;51.450699 ;51.215000 ;-0.2;-0.4;"Mix & Match Pfizer, AstraZeneca COVID-19 Vaccine With Moderna Shows Improved Immune Response
 "
-283,2021-12-07,13:49:37,51.450699 ,51.215000 ,-0.2,-0.4,"Pfizer, Merck COVID-19 Pills US Launch In This Month; Other Countries Will Have to Wait: WSJ
+283;2021-12-07;13:49:37;51.450699 ;51.215000 ;-0.2;-0.4;"Pfizer, Merck COVID-19 Pills US Launch In This Month; Other Countries Will Have to Wait: WSJ
 "
-284,2021-12-07,13:06:58,51.439899 ,51.450699 , 0.0, 0.0,"Pfizer Whale Trades Spotted
+284;2021-12-07;13:06:58;51.439899 ;51.450699 ; 0.0; 0.0;"Pfizer Whale Trades Spotted
 "
-285,2021-12-06,14:51:00,51.713902 ,51.715000 , 0.0, 0.0,"Can Pfizer's Viagra Help In Alzheimer's? Cleveland Clinic Study Shows Potential
+285;2021-12-06;14:51:00;51.713902 ;51.715000 ; 0.0; 0.0;"Can Pfizer's Viagra Help In Alzheimer's? Cleveland Clinic Study Shows Potential
 "
-286,2021-12-03,14:31:11,54.040001 ,54.285000 , 0.2, 0.4,"Valneva's COVID-19 Shot Fails As Booster In Pfizer/BioNTech Vaccinated Population
+286;2021-12-03;14:31:11;54.040001 ;54.285000 ; 0.2; 0.4;"Valneva's COVID-19 Shot Fails As Booster In Pfizer/BioNTech Vaccinated Population
 "
-287,2021-12-02,13:53:51,53.360001 ,53.625000 , 0.2, 0.4,"Europe To Start Deliveries Of Pfizer/BioNTech COVID-19 Shot For Children One Week Ahead Of Plan: Reuters
+287;2021-12-02;13:53:51;53.360001 ;53.625000 ; 0.2; 0.4;"Europe To Start Deliveries Of Pfizer/BioNTech COVID-19 Shot For Children One Week Ahead Of Plan: Reuters
 "
-288,2021-12-02,13:08:38,53.340000 ,53.360001 , 0.0, 0.0,"Is High Pressure Good for Drug Development?
+288;2021-12-02;13:08:38;53.340000 ;53.360001 ; 0.0; 0.0;"Is High Pressure Good for Drug Development?
 "
-289,2021-12-01,14:17:32,54.580002 ,54.994999 , 0.4, 0.7,"10 Health Care Stocks Whale Activity In Today's Session
+289;2021-12-01;14:17:32;54.580002 ;54.994999 ; 0.4; 0.7;"10 Health Care Stocks Whale Activity In Today's Session
 "
-290,2021-12-01,14:14:43,54.580002 ,54.994999 , 0.4, 0.7,"Looking At Pfizer's Recent Whale Trades
+290;2021-12-01;14:14:43;54.580002 ;54.994999 ; 0.4; 0.7;"Looking At Pfizer's Recent Whale Trades
 "
-291,2021-11-29,13:57:05,53.755001 ,53.349998 ,-0.4,-0.7,"3 Pharma Stocks Morgan Stanley Says Will Be Omicron Variant Beneficiaries
+291;2021-11-29;13:57:05;53.755001 ;53.349998 ;-0.4;-0.7;"3 Pharma Stocks Morgan Stanley Says Will Be Omicron Variant Beneficiaries
 "
-292,2021-11-29,12:25:45,54.105499 ,53.875000 ,-0.2,-0.4,"Pfizer CEO Confident In Existing Antiviral, Can Deliver New Vaccine In Less Than 100 Days If Needed
+292;2021-11-29;12:25:45;54.105499 ;53.875000 ;-0.2;-0.4;"Pfizer CEO Confident In Existing Antiviral, Can Deliver New Vaccine In Less Than 100 Days If Needed
 "
-293,2021-11-29,12:16:04,54.105499 ,53.875000 ,-0.2,-0.4,"What 5 Analyst Ratings Have To Say About Pfizer
+293;2021-11-29;12:16:04;54.105499 ;53.875000 ;-0.2;-0.4;"What 5 Analyst Ratings Have To Say About Pfizer
 "
-294,2021-11-29,11:49:36,54.105499 ,53.875000 ,-0.2,-0.4,"Gracell Bio Shares Tumble as Investors Blow Hot, Cold Over Its Cutting-Edge Cancer Treatment
+294;2021-11-29;11:49:36;54.105499 ;53.875000 ;-0.2;-0.4;"Gracell Bio Shares Tumble as Investors Blow Hot, Cold Over Its Cutting-Edge Cancer Treatment
 "
-295,2021-11-26,11:20:51,54.720001 ,53.790001 ,-0.9,-1.6,"What We Know About The New COVID-19 Variant Spreading In South Africa
+295;2021-11-26;11:20:51;54.720001 ;53.790001 ;-0.9;-1.6;"What We Know About The New COVID-19 Variant Spreading In South Africa
 "
-296,2021-11-26,11:13:26,54.720001 ,53.790001 ,-0.9,-1.6,"Mid-Morning Market Update: Markets Open Lower; Europe's Regulator Backs Pfizer's COVID-19 Vaccine For Kids Aged 5-11 Years
+296;2021-11-26;11:13:26;54.720001 ;53.790001 ;-0.9;-1.6;"Mid-Morning Market Update: Markets Open Lower; Europe's Regulator Backs Pfizer's COVID-19 Vaccine For Kids Aged 5-11 Years
 "
-297,2021-11-24,14:23:35,51.014999 ,50.849998 ,-0.1,-0.3,"Pfizer Sues Former Employee For Stealing Confidential Info On Its Megablockbuster COVID-19 Vaccine
+297;2021-11-24;14:23:35;51.014999 ;50.849998 ;-0.1;-0.3;"Pfizer Sues Former Employee For Stealing Confidential Info On Its Megablockbuster COVID-19 Vaccine
 "
-298,2021-11-24,14:18:35,51.014999 ,50.849998 ,-0.1,-0.3,"Johnson & Johnson's COVID-19 Shot Wins Its First Full Approval In Canada
+298;2021-11-24;14:18:35;51.014999 ;50.849998 ;-0.1;-0.3;"Johnson & Johnson's COVID-19 Shot Wins Its First Full Approval In Canada
 "
-299,2021-11-24,13:02:53,51.039001 ,51.014999 ,-0.0,-0.0,"Pfizer Whale Trades Spotted
+299;2021-11-24;13:02:53;51.039001 ;51.014999 ;-0.0;-0.0;"Pfizer Whale Trades Spotted
 "
-300,2021-11-24,10:57:39,51.080101 ,51.136002 , 0.0, 0.1,"Pfizer Posts Vupanorsen Data From Mid-Stage Cardiovascular Disease Trial
+300;2021-11-24;10:57:39;51.080101 ;51.136002 ; 0.0; 0.1;"Pfizer Posts Vupanorsen Data From Mid-Stage Cardiovascular Disease Trial
 "
-301,2021-11-23,15:16:32,50.939999 ,51.160000 , 0.2, 0.4,"Pfizer's COVID-19 Franchise Could Push Revenue Past $100B In 2022: Analyst
+301;2021-11-23;15:16:32;50.939999 ;51.160000 ; 0.2; 0.4;"Pfizer's COVID-19 Franchise Could Push Revenue Past $100B In 2022: Analyst
 "
-302,2021-11-22,14:43:37,51.275002 ,51.389999 , 0.1, 0.2,"Detecting Early Cancer Screening Stocks At An Early Stage Is Critical
+302;2021-11-22;14:43:37;51.275002 ;51.389999 ; 0.1; 0.2;"Detecting Early Cancer Screening Stocks At An Early Stage Is Critical
 "
-303,2021-11-22,13:40:58,51.309898 ,51.275002 ,-0.0,-0.0,"EU Says Decision On J&J COVID-19 Booster Shot Expected 'Within Weeks'
+303;2021-11-22;13:40:58;51.309898 ;51.275002 ;-0.0;-0.0;"EU Says Decision On J&J COVID-19 Booster Shot Expected 'Within Weeks'
 "
-304,2021-11-22,10:44:41,51.165001 ,51.080002 ,-0.0,-0.1,"Pfizer-BioNTech's COVID-19 Vaccine Shows 100% Effectiveness In Long Term Analysis In Adolescents
+304;2021-11-22;10:44:41;51.165001 ;51.080002 ;-0.0;-0.1;"Pfizer-BioNTech's COVID-19 Vaccine Shows 100% Effectiveness In Long Term Analysis In Adolescents
 "
-305,2021-11-19,12:00:25,51.639999 ,51.634998 ,-0.0,-0.0,"COVID-19 Booster Shots From Moderna, Pfizer/BioNTech Score FDA Nod All Adults
+305;2021-11-19;12:00:25;51.639999 ;51.634998 ;-0.0;-0.0;"COVID-19 Booster Shots From Moderna, Pfizer/BioNTech Score FDA Nod All Adults
 "
-306,2021-11-19,11:08:55,51.814999 ,51.639999 ,-0.1,-0.3,"Benzinga's Top Ratings Upgrades, Downgrades For November 19, 2021
+306;2021-11-19;11:08:55;51.814999 ;51.639999 ;-0.1;-0.3;"Benzinga's Top Ratings Upgrades, Downgrades For November 19, 2021
 "
-307,2021-11-18,13:37:55,51.325001 ,51.134998 ,-0.1,-0.3,"Looking At Pfizer's Recent Whale Trades
+307;2021-11-18;13:37:55;51.325001 ;51.134998 ;-0.1;-0.3;"Looking At Pfizer's Recent Whale Trades
 "
-308,2021-11-18,10:43:16,51.025002 ,50.794998 ,-0.2,-0.4,"CureVac's COVID-19 Vax Shows Comparable Antibody Levels To Pfizer/BioNTech's Shot In Animal Study
+308;2021-11-18;10:43:16;51.025002 ;50.794998 ;-0.2;-0.4;"CureVac's COVID-19 Vax Shows Comparable Antibody Levels To Pfizer/BioNTech's Shot In Animal Study
 "
-309,2021-11-18,10:30:05,51.025002 ,50.794998 ,-0.2,-0.4,"Cardiff Oncology Stock Rises After $15M Equity Investment From Pfizer
+309;2021-11-18;10:30:05;51.025002 ;50.794998 ;-0.2;-0.4;"Cardiff Oncology Stock Rises After $15M Equity Investment From Pfizer
 "
-310,2021-11-17,10:51:50,50.404999 ,50.540001 , 0.1, 0.2,"Pfizer Files For FDA Emergency Use Nod For Its COVID-19 Antiviral Pill
+310;2021-11-17;10:51:50;50.404999 ;50.540001 ; 0.1; 0.2;"Pfizer Files For FDA Emergency Use Nod For Its COVID-19 Antiviral Pill
 "
-311,2021-11-17,10:48:44,50.404999 ,50.540001 , 0.1, 0.2,"FDA Plans Quick Review of Pfizer/BioNTech COVID-19 Booster For All Adults: NYT
+311;2021-11-17;10:48:44;50.404999 ;50.540001 ; 0.1; 0.2;"FDA Plans Quick Review of Pfizer/BioNTech COVID-19 Booster For All Adults: NYT
 "
-312,2021-11-16,13:55:43,49.485500 ,49.880001 , 0.3, 0.7,"Pfizer Whale Trades For November 16
+312;2021-11-16;13:55:43;49.485500 ;49.880001 ; 0.3; 0.7;"Pfizer Whale Trades For November 16
 "
-313,2021-11-15,11:32:52,49.834999 ,50.025002 , 0.1, 0.3,"Pfizer Insider Sold Over $7.5M In Company Stock
+313;2021-11-15;11:32:52;49.834999 ;50.025002 ; 0.1; 0.3;"Pfizer Insider Sold Over $7.5M In Company Stock
 "
-314,2021-11-11,15:27:38,50.340000 ,50.145000 ,-0.1,-0.3,"EU Lists Spinal Cord Inflammation Probable Side Effect Of JNJ's COVID-19 Shot: Reuters
+314;2021-11-11;15:27:38;50.340000 ;50.145000 ;-0.1;-0.3;"EU Lists Spinal Cord Inflammation Probable Side Effect Of JNJ's COVID-19 Shot: Reuters
 "
-315,2021-11-11,15:08:54,50.340000 ,50.145000 ,-0.1,-0.3,"Moderna Says COVID-19 Vax Associated With Fewer Cases Than Pfizer's, But Higher Inflammatory Heart Conditions
+315;2021-11-11;15:08:54;50.340000 ;50.145000 ;-0.1;-0.3;"Moderna Says COVID-19 Vax Associated With Fewer Cases Than Pfizer's, But Higher Inflammatory Heart Conditions
 "
-316,2021-11-10,11:58:32,49.029999 ,49.005001 ,-0.0,-0.0,"Producers Look to Pass on Rising Costs to Consumers
+316;2021-11-10;11:58:32;49.029999 ;49.005001 ;-0.0;-0.0;"Producers Look to Pass on Rising Costs to Consumers
 "
-317,2021-11-09,11:49:16,47.477402 ,47.209999 ,-0.2,-0.5,"Pfizer Gains Outside US Rights To Biohaven's Migraine Treatment For $500M
+317;2021-11-09;11:49:16;47.477402 ;47.209999 ;-0.2;-0.5;"Pfizer Gains Outside US Rights To Biohaven's Migraine Treatment For $500M
 "
-318,2021-11-08,15:28:50,48.560001 ,48.355000 ,-0.2,-0.4,"Pfizer's COVID-19 Pill, S&P 500 Rally, 'Sympathy Play Mania' On PreMarket Prep Plus
+318;2021-11-08;15:28:50;48.560001 ;48.355000 ;-0.2;-0.4;"Pfizer's COVID-19 Pill, S&P 500 Rally, 'Sympathy Play Mania' On PreMarket Prep Plus
 "
-319,2021-11-08,13:50:53,48.314999 ,48.560001 , 0.2, 0.5,"Merck Ahead Of Pfizer In Talks With Europe For COVID-19 Pills: Reuters
+319;2021-11-08;13:50:53;48.314999 ;48.560001 ; 0.2; 0.5;"Merck Ahead Of Pfizer In Talks With Europe For COVID-19 Pills: Reuters
 "
-320,2021-11-08,13:10:35,48.389999 ,48.314999 ,-0.0,-0.1,"Caterpillar, Fluor, and ChargePoint Among Companies That Could Benefit from Infrastructure Bill
+320;2021-11-08;13:10:35;48.389999 ;48.314999 ;-0.0;-0.1;"Caterpillar, Fluor, and ChargePoint Among Companies That Could Benefit from Infrastructure Bill
 "
-321,2021-11-08,12:35:59,48.389999 ,48.314999 ,-0.0,-0.1,"10 Health Care Stocks Whale Activity In Today's Session
+321;2021-11-08;12:35:59;48.389999 ;48.314999 ;-0.0;-0.1;"10 Health Care Stocks Whale Activity In Today's Session
 "
-322,2021-11-05,15:09:50,47.455002 ,48.415001 , 0.9, 2.0,"This Video Communications App Passed Netflix, Coinbase And Twitter In Apple's App Store
+322;2021-11-05;15:09:50;47.455002 ;48.415001 ; 0.9; 2.0;"This Video Communications App Passed Netflix, Coinbase And Twitter In Apple's App Store
 "
-323,2021-11-05,12:24:12,47.544998 ,47.277599 ,-0.2,-0.5,"64 Stocks Moving In Friday's Mid-Day Session
+323;2021-11-05;12:24:12;47.544998 ;47.277599 ;-0.2;-0.5;"64 Stocks Moving In Friday's Mid-Day Session
 "
-324,2021-11-03,11:21:54,45.419998 ,45.244999 ,-0.1,-0.3,"Stock Indices Struggling to Build on Tuesday's Record Highs
+324;2021-11-03;11:21:54;45.419998 ;45.244999 ;-0.1;-0.3;"Stock Indices Struggling to Build on Tuesday's Record Highs
 "
-325,2021-11-02,15:22:31,45.830002 ,45.384998 ,-0.4,-0.9,"PreMarket Prep Stock Of The Day: Pfizer
+325;2021-11-02;15:22:31;45.830002 ;45.384998 ;-0.4;-0.9;"PreMarket Prep Stock Of The Day: Pfizer
 "
-326,2021-11-02,14:51:23,45.830002 ,45.384998 ,-0.4,-0.9,"10 Health Care Stocks Whale Activity In Today's Session
+326;2021-11-02;14:51:23;45.830002 ;45.384998 ;-0.4;-0.9;"10 Health Care Stocks Whale Activity In Today's Session
 "
-327,2021-10-28,10:38:47,43.209999 ,43.264999 , 0.0, 0.1,"Is Pfizer Conceding Race in Hospitalized Covid Because of Todos Medical's Triple MOA Antiviral?
+327;2021-10-28;10:38:47;43.209999 ;43.264999 ; 0.0; 0.1;"Is Pfizer Conceding Race in Hospitalized Covid Because of Todos Medical's Triple MOA Antiviral?
 "
-328,2021-11-02,14:32:00,45.830002 ,45.384998 ,-0.4,-0.9,"Mid-Afternoon Market Update: Dow Rises Around 150 Points; Semler Scientific Shares Slide
+328;2021-11-02;14:32:00;45.830002 ;45.384998 ;-0.4;-0.9;"Mid-Afternoon Market Update: Dow Rises Around 150 Points; Semler Scientific Shares Slide
 "
-329,2021-11-02,12:08:55,45.645000 ,45.955002 , 0.3, 0.6,"Mid-Day Market Update: Avis Budget Surges After Q3 Results; Chegg Shares Plunge
+329;2021-11-02;12:08:55;45.645000 ;45.955002 ; 0.3; 0.6;"Mid-Day Market Update: Avis Budget Surges After Q3 Results; Chegg Shares Plunge
 "
-330,2021-11-02,10:30:56,44.619999 ,45.645000 , 1.0, 2.2,"Why BioNTech Shares Are Trading Higher Today
+330;2021-11-02;10:30:56;44.619999 ;45.645000 ; 1.0; 2.2;"Why BioNTech Shares Are Trading Higher Today
 "
-331,2021-11-01,14:40:32,43.544998 ,43.639999 , 0.0, 0.2,"10 Health Care Stocks Whale Activity In Today's Session
+331;2021-11-01;14:40:32;43.544998 ;43.639999 ; 0.0; 0.2;"10 Health Care Stocks Whale Activity In Today's Session
 "
-332,2021-11-01,12:24:21,43.705002 ,43.630001 ,-0.0,-0.1,"Check Out What Whales Are Doing With PFE
+332;2021-11-01;12:24:21;43.705002 ;43.630001 ;-0.0;-0.1;"Check Out What Whales Are Doing With PFE
 "
-333,2021-11-01,11:37:32,43.705002 ,43.630001 ,-0.0,-0.1,"Pasithea and Evotec Team Up вЂ” Attempt to Make Headway on Brain Disorder2021-11-01 11:01:37 43.500000  43.705002   0.2  0.4 Goldman Sachs Says 2022 Could Be the Year of Stock Buybacks
+333;2021-11-01;11:37:32;43.705002 ;43.630001 ;-0.0;-0.1;"Pasithea and Evotec Team Up вЂ” Attempt to Make Headway on Brain Disorder2021-11-01 11:01:37 43.500000  43.705002   0.2  0.4 Goldman Sachs Says 2022 Could Be the Year of Stock Buybacks
 "
-334,2021-10-29,14:11:43,43.509998 ,43.506199 ,-0.0,-0.0,"FDA May Clear First COVID-19 Vaccine For Younger Kids, Probably Today: NYT
+334;2021-10-29;14:11:43;43.509998 ;43.506199 ;-0.0;-0.0;"FDA May Clear First COVID-19 Vaccine For Younger Kids, Probably Today: NYT
 "
-335,2021-10-26,12:38:13,43.490002 ,43.529999 , 0.0, 0.0,"Looking At Pfizer's Recent Whale Trades
+335;2021-10-26;12:38:13;43.490002 ;43.529999 ; 0.0; 0.0;"Looking At Pfizer's Recent Whale Trades
 "
-336,2021-08-18,13:30:05,50.880001 ,50.299000 ,-0.5,-1.1,"Pfizer Inc.: 52-Week High Recently Eclipsed (PFE)
+336;2021-08-18;13:30:05;50.880001 ;50.299000 ;-0.5;-1.1;"Pfizer Inc.: 52-Week High Recently Eclipsed (PFE)
 "
-337,2021-07-21,11:49:11,40.779999 ,40.779999 , 0.0, 0.0,"Alzheimer's Approval, COVID-19 Vaccines Put Spotlight On Biotech Sector, But What's Next?
+337;2021-07-21;11:49:11;40.779999 ;40.779999 ; 0.0; 0.0;"Alzheimer's Approval, COVID-19 Vaccines Put Spotlight On Biotech Sector, But What's Next?
 "
-338,2020-12-18,13:20:50,37.660000 ,37.622101 ,-0.0,-0.1,"Data Show Which OTC Companies Traders Are Flocking To
+338;2020-12-18;13:20:50;37.660000 ;37.622101 ;-0.0;-0.1;"Data Show Which OTC Companies Traders Are Flocking To
 "
-339,2021-01-19,14:26:52,36.724998 ,36.738998 , 0.0, 0.0,"Piclidenoson From Can-Fite Biopharma Shows New, Promising Developments For Psoriasis Treatment
+339;2021-01-19;14:26:52;36.724998 ;36.738998 ; 0.0; 0.0;"Piclidenoson From Can-Fite Biopharma Shows New, Promising Developments For Psoriasis Treatment
 "
-340,2021-02-04,11:16:13,34.860001 ,34.945000 , 0.0, 0.2,"Citius Pharmaceuticals Says It Is Addressing Several Unmet Needs In The Medical Field
+340;2021-02-04;11:16:13;34.860001 ;34.945000 ; 0.0; 0.2;"Citius Pharmaceuticals Says It Is Addressing Several Unmet Needs In The Medical Field
 "
-341,2021-07-14,12:18:08,39.869999 ,39.904999 , 0.0, 0.0,"Want to Buy Pfizer (PFE) Stock? See This First.
+341;2021-07-14;12:18:08;39.869999 ;39.904999 ; 0.0; 0.0;"Want to Buy Pfizer (PFE) Stock? See This First.
 "
-342,2021-06-22,12:49:30,39.686298 ,39.669998 ,-0.0,-0.0,"NanoViricides Review: What you Need to Know About the Company
+342;2021-06-22;12:49:30;39.686298 ;39.669998 ;-0.0;-0.0;"NanoViricides Review: What you Need to Know About the Company
 "
-343,2021-07-15,10:53:10,40.040001 ,39.935001 ,-0.1,-0.2,"More Than Vaccines: Tonix Programs Address the Spectrum of Covid-19 Problems from Prevention, to Infection to Post-Viral Syndrome
+343;2021-07-15;10:53:10;40.040001 ;39.935001 ;-0.1;-0.2;"More Than Vaccines: Tonix Programs Address the Spectrum of Covid-19 Problems from Prevention, to Infection to Post-Viral Syndrome
 "
-344,2021-10-21,13:14:24,42.567600 ,42.540001 ,-0.0,-0.0,"Pfizer-BioNTech's COVID-19 Booster Study Shows Robust Efficacy
+344;2021-10-21;13:14:24;42.567600 ;42.540001 ;-0.0;-0.0;"Pfizer-BioNTech's COVID-19 Booster Study Shows Robust Efficacy
 "
-345,2021-10-21,11:27:49,42.575001 ,42.540001 ,-0.0,-0.0,"Why BioNTech Shares Are Rising
+345;2021-10-21;11:27:49;42.575001 ;42.540001 ;-0.0;-0.0;"Why BioNTech Shares Are Rising
 "
-346,2021-10-19,14:26:45,42.150002 ,42.064999 ,-0.0,-0.2,"Which Vaccine Stock Will Benefit Most From FDA's ""Mix And Match"" Approval?
+346;2021-10-19;14:26:45;42.150002 ;42.064999 ;-0.0;-0.2;"Which Vaccine Stock Will Benefit Most From FDA's ""Mix And Match"" Approval?
 "
-347,2021-10-20,13:02:35,43.049999 ,42.930000 ,-0.1,-0.2,"10 Health Care Stocks With Whale Alerts In Today's Session
+347;2021-10-20;13:02:35;43.049999 ;42.930000 ;-0.1;-0.2;"10 Health Care Stocks With Whale Alerts In Today's Session
 "
-348,2021-10-20,12:59:53,43.049999 ,42.930000 ,-0.1,-0.2,"Check Out What Whales Are Doing With PFE
+348;2021-10-20;12:59:53;43.049999 ;42.930000 ;-0.1;-0.2;"Check Out What Whales Are Doing With PFE
 "
-349,2021-10-18,12:27:38,41.650002 ,41.470402 ,-0.1,-0.4,"Why Moderna Shares Are Rebounding From Friday's Losses
+349;2021-10-18;12:27:38;41.650002 ;41.470402 ;-0.1;-0.4;"Why Moderna Shares Are Rebounding From Friday's Losses
 "
-350,2021-09-13,12:50:52,44.650002 ,44.395000 ,-0.2,-0.5,"G Medical Innovations: The Next Generation of Healthcare for Caregivers and Patients
+350;2021-09-13;12:50:52;44.650002 ;44.395000 ;-0.2;-0.5;"G Medical Innovations: The Next Generation of Healthcare for Caregivers and Patients
 "
-351,2021-10-15,14:35:09,41.450001 ,41.455002 , 0.0, 0.0,"Is Pfizer's Stock Overvalued Or Undervalued?
+351;2021-10-15;14:35:09;41.450001 ;41.455002 ; 0.0; 0.0;"Is Pfizer's Stock Overvalued Or Undervalued?
 "
-352,2021-10-15,14:32:21,41.450001 ,41.455002 , 0.0, 0.0,"Is The Pullback In Moderna's Stock A Buying Opportunity?
+352;2021-10-15;14:32:21;41.450001 ;41.455002 ; 0.0; 0.0;"Is The Pullback In Moderna's Stock A Buying Opportunity?
 "
-353,2021-10-15,14:07:36,41.490002 ,41.450001 ,-0.0,-0.0,"9 Health Care Stocks Whale Activity In Today's Session
+353;2021-10-15;14:07:36;41.490002 ;41.450001 ;-0.0;-0.0;"9 Health Care Stocks Whale Activity In Today's Session
 "
-354,2021-10-13,14:50:12,41.474998 ,41.455002 ,-0.0,-0.0,"The Short And Long-Term Outlook For Moderna's Stock
+354;2021-10-13;14:50:12;41.474998 ;41.455002 ;-0.0;-0.0;"The Short And Long-Term Outlook For Moderna's Stock
 "
-355,2021-10-13,12:00:33,41.119999 ,41.330002 , 0.2, 0.5,"Pfizer Whale Trades Spotted
+355;2021-10-13;12:00:33;41.119999 ;41.330002 ; 0.2; 0.5;"Pfizer Whale Trades Spotted
 "
-356,2021-10-12,12:32:44,41.799999 ,41.848099 , 0.0, 0.1,"Where Pfizer Stands With Analysts
+356;2021-10-12;12:32:44;41.799999 ;41.848099 ; 0.0; 0.1;"Where Pfizer Stands With Analysts
 "
-357,2021-10-11,14:21:09,42.134998 ,42.060001 ,-0.0,-0.1,"Psyched: Seattle Decriminalizes Psychedelics, Psilocybin Increases Emotions From Music, Novamind's Palliative Care Program
+357;2021-10-11;14:21:09;42.134998 ;42.060001 ;-0.0;-0.1;"Psyched: Seattle Decriminalizes Psychedelics, Psilocybin Increases Emotions From Music, Novamind's Palliative Care Program
 "
-358,2021-10-11,11:07:09,42.506100 ,42.450001 ,-0.0,-0.1,"Cannabis Movers & Shakers: Clairvoyant Therapeutics, Eaze, Leafly, Chalice Brands
+358;2021-10-11;11:07:09;42.506100 ;42.450001 ;-0.0;-0.1;"Cannabis Movers & Shakers: Clairvoyant Therapeutics, Eaze, Leafly, Chalice Brands
 "
-359,2021-10-08,15:07:27,42.595001 ,42.540001 ,-0.0,-0.1,"Corona Doom 2.0: Vaccine Passports. Parallels Between The Government's Reaction To 9/11 And COVID-19.
+359;2021-10-08;15:07:27;42.595001 ;42.540001 ;-0.0;-0.1;"Corona Doom 2.0: Vaccine Passports. Parallels Between The Government's Reaction To 9/11 And COVID-19.
 "
-360,2021-10-07,10:56:22,42.825001 ,42.709999 ,-0.1,-0.2,"Pfizer, BioNTech Seek Approval For COVID-19 Vaccine In Kids Aged 5-11: Reuters
+360;2021-10-07;10:56:22;42.825001 ;42.709999 ;-0.1;-0.2;"Pfizer, BioNTech Seek Approval For COVID-19 Vaccine In Kids Aged 5-11: Reuters
 "
-361,2021-10-07,10:51:46,42.825001 ,42.709999 ,-0.1,-0.2,"After Sweden, Denmark Now Finland Stops Use of Moderna COVID-19 Jab In Young People: Report
+361;2021-10-07;10:51:46;42.825001 ;42.709999 ;-0.1;-0.2;"After Sweden, Denmark Now Finland Stops Use of Moderna COVID-19 Jab In Young People: Report
 "
-362,2021-10-06,14:27:09,41.895000 ,41.939899 , 0.0, 0.1,"Sweden, Denmark Pause Use Of Moderna COVID-19 Shot In Younger Individuals: What You Need To Know
+362;2021-10-06;14:27:09;41.895000 ;41.939899 ; 0.0; 0.1;"Sweden, Denmark Pause Use Of Moderna COVID-19 Shot In Younger Individuals: What You Need To Know
 "
-363,2021-10-06,13:52:41,41.895000 ,41.939899 , 0.0, 0.1,"Why Moderna Shares Are Trading Lower Today
+363;2021-10-06;13:52:41;41.895000 ;41.939899 ; 0.0; 0.1;"Why Moderna Shares Are Trading Lower Today
 "
-364,2021-10-06,11:58:57,41.825001 ,41.750000 ,-0.0,-0.1,"Merck's Oral COVID-19 Treatment Could Be Game-Changer: BofA Analyst
+364;2021-10-06;11:58:57;41.825001 ;41.750000 ;-0.0;-0.1;"Merck's Oral COVID-19 Treatment Could Be Game-Changer: BofA Analyst
 "
-365,2021-05-04,14:05:09,39.990002 ,39.900002 ,-0.0,-0.2,"Stock Wars: AstraZeneca Vs. Pfizer
+365;2021-05-04;14:05:09;39.990002 ;39.900002 ;-0.0;-0.2;"Stock Wars: AstraZeneca Vs. Pfizer
 "
-366,2021-10-05,14:41:13,42.549999 ,42.419998 ,-0.1,-0.3,"UPS Unit Marken Expands Network to Support Clinical Trial Logistics Demand
+366;2021-10-05;14:41:13;42.549999 ;42.419998 ;-0.1;-0.3;"UPS Unit Marken Expands Network to Support Clinical Trial Logistics Demand
 "
-367,2021-10-01,11:14:44,42.020000 ,42.389999 , 0.3, 0.8,"Why Moderna, Novavax And Other COVID-19 Vaccine Stocks Are Plummeting
+367;2021-10-01;11:14:44;42.020000 ;42.389999 ; 0.3; 0.8;"Why Moderna, Novavax And Other COVID-19 Vaccine Stocks Are Plummeting
 "
-368,2021-09-29,14:28:01,43.320000 ,43.525002 , 0.2, 0.4,"Why AstraZeneca And Pfizer Shares Are Moving Today
+368;2021-09-29;14:28:01;43.320000 ;43.525002 ; 0.2; 0.4;"Why AstraZeneca And Pfizer Shares Are Moving Today
 "
-369,2021-09-29,11:58:35,43.299999 ,43.294998 ,-0.0,-0.0,"Is Moderna's COVID-19 Booster Shot Moving Closer To Authorization?
+369;2021-09-29;11:58:35;43.299999 ;43.294998 ;-0.0;-0.0;"Is Moderna's COVID-19 Booster Shot Moving Closer To Authorization?
 "
-370,2021-09-27,14:17:50,43.709999 ,43.740002 , 0.0, 0.0,"Why Cruise Line Stocks Are Riding A Wave Higher Today
+370;2021-09-27;14:17:50;43.709999 ;43.740002 ; 0.0; 0.0;"Why Cruise Line Stocks Are Riding A Wave Higher Today
 "
-371,2021-09-23,10:35:38,44.485001 ,44.446098 ,-0.0,-0.0,"EMA To Decide On Pfizer/BioNTech COVID-19 Booster Next Month: Reuters
+371;2021-09-23;10:35:38;44.485001 ;44.446098 ;-0.0;-0.0;"EMA To Decide On Pfizer/BioNTech COVID-19 Booster Next Month: Reuters
 "
-372,2021-09-22,12:39:28,44.299999 ,44.294998 ,-0.0,-0.0,"Endo Launches Generic Version Of Pfizer's Smoking Cessation Pill
+372;2021-09-22;12:39:28;44.299999 ;44.294998 ;-0.0;-0.0;"Endo Launches Generic Version Of Pfizer's Smoking Cessation Pill
 "
-373,2021-09-22,10:35:02,44.189999 ,44.060001 ,-0.1,-0.2,"Green Hygienics Holdings To Raise $100M Via Green Bond Offering
+373;2021-09-22;10:35:02;44.189999 ;44.060001 ;-0.1;-0.2;"Green Hygienics Holdings To Raise $100M Via Green Bond Offering
 "
-374,2021-09-21,13:53:52,44.009998 ,43.875000 ,-0.1,-0.3,"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
+374;2021-09-21;13:53:52;44.009998 ;43.875000 ;-0.1;-0.3;"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-375,2021-09-21,11:02:17,44.264999 ,44.070000 ,-0.1,-0.4,"Nektar, Merck Germany, Pfizer Join Forces For Mid-Stage Bladder Cancer Study
+375;2021-09-21;11:02:17;44.264999 ;44.070000 ;-0.1;-0.4;"Nektar, Merck Germany, Pfizer Join Forces For Mid-Stage Bladder Cancer Study
 "
-376,2021-09-20,14:29:49,43.945000 ,43.959999 , 0.0, 0.0,"Why Did Deutsche Bank Downgrade This Big Pharma Stock?
+376;2021-09-20;14:29:49;43.945000 ;43.959999 ; 0.0; 0.0;"Why Did Deutsche Bank Downgrade This Big Pharma Stock?
 "
-377,2021-09-20,12:03:05,44.279999 ,44.099998 ,-0.1,-0.4,"Pfizer, BioNTech Analysts On FDA Panel's COVID-19 Booster Dose Decision
+377;2021-09-20;12:03:05;44.279999 ;44.099998 ;-0.1;-0.4;"Pfizer, BioNTech Analysts On FDA Panel's COVID-19 Booster Dose Decision
 "
-378,2021-09-17,13:42:32,43.939999 ,43.869999 ,-0.0,-0.1,"British Study To Test Mixed COVID-19 Vaccine Regime In Kids: Reuters
+378;2021-09-17;13:42:32;43.939999 ;43.869999 ;-0.0;-0.1;"British Study To Test Mixed COVID-19 Vaccine Regime In Kids: Reuters
 "
-379,2021-09-16,15:06:20,44.290001 ,44.570099 , 0.2, 0.6,"Moderna Analysts Debate Need For Biopharma's COVID-19 Booster Shot
+379;2021-09-16;15:06:20;44.290001 ;44.570099 ; 0.2; 0.6;"Moderna Analysts Debate Need For Biopharma's COVID-19 Booster Shot
 "
-380,2021-09-16,14:01:12,44.250000 ,44.290001 , 0.0, 0.0,"Bristol Myers Touts 5-Year Kidney Cancer Data For Opdivo-Yervoy Combo Therapy
+380;2021-09-16;14:01:12;44.250000 ;44.290001 ; 0.0; 0.0;"Bristol Myers Touts 5-Year Kidney Cancer Data For Opdivo-Yervoy Combo Therapy
 "
-381,2021-09-16,13:25:39,44.185001 ,44.250000 , 0.0, 0.1,"8 Health Care Stocks With Unusual Options Alerts In Today's Session
+381;2021-09-16;13:25:39;44.185001 ;44.250000 ; 0.0; 0.1;"8 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-382,2021-09-15,15:16:45,44.740002 ,44.875000 , 0.1, 0.3,"Pfizer Builds Case For COVID-19 Booster As Protection Wanes Over Time
+382;2021-09-15;15:16:45;44.740002 ;44.875000 ; 0.1; 0.3;"Pfizer Builds Case For COVID-19 Booster As Protection Wanes Over Time
 "
-383,2021-09-14,10:38:21,44.814999 ,44.935001 , 0.1, 0.2,"Playing Yo-Yo: Market Swings Up And Down Amid Lack Of Major Data, Earnings
+383;2021-09-14;10:38:21;44.814999 ;44.935001 ; 0.1; 0.2;"Playing Yo-Yo: Market Swings Up And Down Amid Lack Of Major Data, Earnings
 "
-384,2021-09-13,11:27:52,44.680000 ,44.549999 ,-0.1,-0.2,"Why Moderna, BioNTech, Novavax And Pfizer Are Trading Lower
+384;2021-09-13;11:27:52;44.680000 ;44.549999 ;-0.1;-0.2;"Why Moderna, BioNTech, Novavax And Pfizer Are Trading Lower
 "
-385,2021-09-10,13:58:48,45.735001 ,45.705002 ,-0.0,-0.0,"FDA Says Strong Safety Data A Must For COVID-19 Vaccine Approval For Kids
+385;2021-09-10;13:58:48;45.735001 ;45.705002 ;-0.0;-0.0;"FDA Says Strong Safety Data A Must For COVID-19 Vaccine Approval For Kids
 "
-386,2021-09-10,13:53:18,45.735001 ,45.705002 ,-0.0,-0.0,"UK Preps Up For 'Mix & Match' COVID-19 Booster Program: FT
+386;2021-09-10;13:53:18;45.735001 ;45.705002 ;-0.0;-0.0;"UK Preps Up For 'Mix & Match' COVID-19 Booster Program: FT
 "
-387,2021-09-10,13:39:20,45.735001 ,45.705002 ,-0.0,-0.0,"8 Health Care Stocks With Unusual Options Alerts In Today's Session
+387;2021-09-10;13:39:20;45.735001 ;45.705002 ;-0.0;-0.0;"8 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-388,2021-09-10,10:49:28,45.785000 ,45.625000 ,-0.1,-0.3,"BioNTech Prepares To Launch COVID-19 Shot For 5 to11 Year Old: Reuters
+388;2021-09-10;10:49:28;45.785000 ;45.625000 ;-0.1;-0.3;"BioNTech Prepares To Launch COVID-19 Shot For 5 to11 Year Old: Reuters
 "
-389,2021-09-09,14:46:32,45.910000 ,45.959999 , 0.0, 0.1,"ICU Medical Pulls Amino Acid IV Products After Foreign Substances Found In Batch
+389;2021-09-09;14:46:32;45.910000 ;45.959999 ; 0.0; 0.1;"ICU Medical Pulls Amino Acid IV Products After Foreign Substances Found In Batch
 "
-390,2021-09-09,14:41:34,45.910000 ,45.959999 , 0.0, 0.1,"EMA Gives Nod To Additional Sites For Pfizer - BioNTech COVID-19 Vaccine
+390;2021-09-09;14:41:34;45.910000 ;45.959999 ; 0.0; 0.1;"EMA Gives Nod To Additional Sites For Pfizer - BioNTech COVID-19 Vaccine
 "
-391,2021-09-03,13:55:15,46.774799 ,46.884998 , 0.1, 0.2,"COVID-19 Vaccine Booster Shots Will Have To Wait, FDA Tells White House: WSJ
+391;2021-09-03;13:55:15;46.774799 ;46.884998 ; 0.1; 0.2;"COVID-19 Vaccine Booster Shots Will Have To Wait, FDA Tells White House: WSJ
 "
-392,2021-09-02,13:40:16,46.375000 ,46.413101 , 0.0, 0.0,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+392;2021-09-02;13:40:16;46.375000 ;46.413101 ; 0.0; 0.0;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-393,2021-09-02,11:42:50,46.365002 ,46.355000 ,-0.0,-0.0,"FDA Schedules Adcomm For Pfizer/BioNTech's COVID-19 Booster Shot
+393;2021-09-02;11:42:50;46.365002 ;46.355000 ;-0.0;-0.0;"FDA Schedules Adcomm For Pfizer/BioNTech's COVID-19 Booster Shot
 "
-394,2021-09-02,10:59:46,46.257500 ,46.365002 , 0.1, 0.2,"Pfizer Starts Late-Stage Trial For RSV Vaccine Candidate In Older Patients
+394;2021-09-02;10:59:46;46.257500 ;46.365002 ; 0.1; 0.2;"Pfizer Starts Late-Stage Trial For RSV Vaccine Candidate In Older Patients
 "
-395,2021-09-01,12:36:21,45.639999 ,45.950100 , 0.3, 0.6,"Pfizer Commences Dosing In Pivotal Oral COVID-19 Drug Trial
+395;2021-09-01;12:36:21;45.639999 ;45.950100 ; 0.3; 0.6;"Pfizer Commences Dosing In Pivotal Oral COVID-19 Drug Trial
 "
-396,2021-08-30,15:02:50,46.685001 ,46.720100 , 0.0, 0.0,"September Outlook: The ""Uncertainty Principle"" Takes Effect Amid Questions Over Covid, Fed
+396;2021-08-30;15:02:50;46.685001 ;46.720100 ; 0.0; 0.0;"September Outlook: The ""Uncertainty Principle"" Takes Effect Amid Questions Over Covid, Fed
 "
-397,2021-08-30,10:59:28,46.829899 ,47.099998 , 0.2, 0.5,"Pfizer's Abrocitinib Beats Dupixent Late-stage Eczema Trial
+397;2021-08-30;10:59:28;46.829899 ;47.099998 ; 0.2; 0.5;"Pfizer's Abrocitinib Beats Dupixent Late-stage Eczema Trial
 "
-398,2021-08-27,13:29:19,46.900002 ,46.930000 , 0.0, 0.0,"What's The Risk Of Blood Clots After Getting A COVID-19 Vaccination? This Study Shows Encouraging Data
+398;2021-08-27;13:29:19;46.900002 ;46.930000 ; 0.0; 0.0;"What's The Risk Of Blood Clots After Getting A COVID-19 Vaccination? This Study Shows Encouraging Data
 "
-399,2021-08-27,15:14:05,46.895000 ,46.645000 ,-0.2,-0.5,"China Holds Up BioNTech's COVID-19 Jab Approval: WSJ
+399;2021-08-27;15:14:05;46.895000 ;46.645000 ;-0.2;-0.5;"China Holds Up BioNTech's COVID-19 Jab Approval: WSJ
 "
-400,2021-08-27,13:24:52,46.900002 ,46.930000 , 0.0, 0.0,"Cannabis Movers & Shakers: Acreage, Green Scientific Labs, OMMA, PharmaCielo, Ketamine One, BC Craft Supply
+400;2021-08-27;13:24:52;46.900002 ;46.930000 ; 0.0; 0.0;"Cannabis Movers & Shakers: Acreage, Green Scientific Labs, OMMA, PharmaCielo, Ketamine One, BC Craft Supply
 "
-401,2021-08-26,15:19:58,47.445000 ,47.509998 , 0.0, 0.1,"Delta Air Lines Avoids Delta Variant Wording, Charges Unvaccinated Employees More For Health Care
+401;2021-08-26;15:19:58;47.445000 ;47.509998 ; 0.0; 0.1;"Delta Air Lines Avoids Delta Variant Wording, Charges Unvaccinated Employees More For Health Care
 "
-402,2021-08-26,11:34:24,47.396000 ,47.660000 , 0.2, 0.5,"See Why Ascendis Pharma Stock Is Shining On Thursday
+402;2021-08-26;11:34:24;47.396000 ;47.660000 ; 0.2; 0.5;"See Why Ascendis Pharma Stock Is Shining On Thursday
 "
-403,2021-08-25,13:35:27,47.465000 ,47.535801 , 0.0, 0.1,"Pfizer, BioNTech Now Seeking Full Approval For Third COVID-19 Vaccine Dose
+403;2021-08-25;13:35:27;47.465000 ;47.535801 ; 0.0; 0.1;"Pfizer, BioNTech Now Seeking Full Approval For Third COVID-19 Vaccine Dose
 "
-404,2021-08-25,12:10:24,47.330002 ,47.535400 , 0.2, 0.4,"Moderna Sets R&D Day For Sept. 9: Can Event Kickstart Sagging Stock?
+404;2021-08-25;12:10:24;47.330002 ;47.535400 ; 0.2; 0.4;"Moderna Sets R&D Day For Sept. 9: Can Event Kickstart Sagging Stock?
 "
-405,2021-08-23,14:44:45,50.075001 ,49.959900 ,-0.1,-0.2,"Mid-Afternoon Market Update: Dow Gains 270 Points; Vivos Therapeutics Shares Spike Higher
+405;2021-08-23;14:44:45;50.075001 ;49.959900 ;-0.1;-0.2;"Mid-Afternoon Market Update: Dow Gains 270 Points; Vivos Therapeutics Shares Spike Higher
 "
-406,2021-08-23,13:23:27,50.130001 ,49.927700 ,-0.2,-0.4,"Jim Cramer Thinks More Acquisitions From Pfizer Are Coming, Reveals What Similar Type Of Stocks To Watch
+406;2021-08-23;13:23:27;50.130001 ;49.927700 ;-0.2;-0.4;"Jim Cramer Thinks More Acquisitions From Pfizer Are Coming, Reveals What Similar Type Of Stocks To Watch
 "
-407,2021-08-23,13:11:55,50.130001 ,49.927700 ,-0.2,-0.4,"9 Health Care Stocks With Unusual Options Alerts In Today's Session
+407;2021-08-23;13:11:55;50.130001 ;49.927700 ;-0.2;-0.4;"9 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-408,2021-08-23,12:14:48,50.000000 ,50.130001 , 0.1, 0.2,"Mid-Day Market Update: Crude Oil Surges 5%; Staffing 360 Solutions Shares Plunge
+408;2021-08-23;12:14:48;50.000000 ;50.130001 ; 0.1; 0.2;"Mid-Day Market Update: Crude Oil Surges 5%; Staffing 360 Solutions Shares Plunge
 "
-409,2021-08-23,12:01:22,50.000000 ,50.130001 , 0.1, 0.2,"35 Stocks Moving In Monday's Mid-Day Session
+409;2021-08-23;12:01:22;50.000000 ;50.130001 ; 0.1; 0.2;"35 Stocks Moving In Monday's Mid-Day Session
 "
-410,2021-08-23,11:50:25,50.000000 ,50.130001 , 0.1, 0.2,"What's Next For Pfizer Stock After FDA Approval Of COVID-19 Vaccine?
+410;2021-08-23;11:50:25;50.000000 ;50.130001 ; 0.1; 0.2;"What's Next For Pfizer Stock After FDA Approval Of COVID-19 Vaccine?
 "
-411,2021-08-23,11:26:10,50.709999 ,50.000000 ,-0.7,-1.4,"Moderna Stock Rallies In Sympathy Move: What You Need To Know
+411;2021-08-23;11:26:10;50.709999 ;50.000000 ;-0.7;-1.4;"Moderna Stock Rallies In Sympathy Move: What You Need To Know
 "
-412,2021-08-20,15:07:29,48.965000 ,48.904999 ,-0.0,-0.1,"Where Pfizer Stands With Analysts
+412;2021-08-20;15:07:29;48.965000 ;48.904999 ;-0.0;-0.1;"Where Pfizer Stands With Analysts
 "
-413,2021-08-20,10:37:18,49.365002 ,49.060001 ,-0.3,-0.6,"Pfizer's Unusual Options Spotted
+413;2021-08-20;10:37:18;49.365002 ;49.060001 ;-0.3;-0.6;"Pfizer's Unusual Options Spotted
 "
-414,2021-08-18,11:51:52,51.673401 ,51.005001 ,-0.6,-1.2,"Pfizer Stock Moves Higher Again...What's Next?
+414;2021-08-18;11:51:52;51.673401 ;51.005001 ;-0.6;-1.2;"Pfizer Stock Moves Higher Again...What's Next?
 "
-415,2021-08-18,10:50:27,51.380001 ,51.673401 , 0.2, 0.5,"Stocks That Hit 52-Week Highs On Wednesday
+415;2021-08-18;10:50:27;51.380001 ;51.673401 ; 0.2; 0.5;"Stocks That Hit 52-Week Highs On Wednesday
 "
-416,2021-08-17,11:10:37,50.092999 ,49.639999 ,-0.4,-0.9,"If You Invested $1,000 In Johnson & Johnson Stock One Year Ago, Here's How Much You'd Have Now
+416;2021-08-17;11:10:37;50.092999 ;49.639999 ;-0.4;-0.9;"If You Invested $1,000 In Johnson & Johnson Stock One Year Ago, Here's How Much You'd Have Now
 "
-417,2021-08-17,13:50:47,49.564999 ,49.680000 , 0.1, 0.2,"Wall Street Journal Creates A Pitch In Favor Of Royalty Pharma
+417;2021-08-17;13:50:47;49.564999 ;49.680000 ; 0.1; 0.2;"Wall Street Journal Creates A Pitch In Favor Of Royalty Pharma
 "
-418,2021-08-17,12:29:49,49.639999 ,49.230000 ,-0.4,-0.8,"Pfizer Pulls Out Additional Lots Of It Anti-Smoking Pill
+418;2021-08-17;12:29:49;49.639999 ;49.230000 ;-0.4;-0.8;"Pfizer Pulls Out Additional Lots Of It Anti-Smoking Pill
 "
-419,2021-08-12,15:15:59,47.265999 ,47.200001 ,-0.0,-0.1,"Facebook Blocks Russia Based Ad Agency Behind COVID-19 Vaccine Smear Campaign
+419;2021-08-12;15:15:59;47.265999 ;47.200001 ;-0.0;-0.1;"Facebook Blocks Russia Based Ad Agency Behind COVID-19 Vaccine Smear Campaign
 "
-420,2021-08-11,13:44:01,46.410000 ,46.369999 ,-0.0,-0.0,"Why Moderna Stock Is Continuing Its Losses Today
+420;2021-08-11;13:44:01;46.410000 ;46.369999 ;-0.0;-0.0;"Why Moderna Stock Is Continuing Its Losses Today
 "
-421,2021-08-11,12:20:10,46.575001 ,46.389999 ,-0.1,-0.3,"8 Best Growth Stocks For The Second Half Of 2021
+421;2021-08-11;12:20:10;46.575001 ;46.389999 ;-0.1;-0.3;"8 Best Growth Stocks For The Second Half Of 2021
 "
-422,2021-08-10,15:24:03,48.240002 ,48.285000 , 0.0, 0.0,"What's Next After Pfizer Stock Powers Higher Tuesday?
+422;2021-08-10;15:24:03;48.240002 ;48.285000 ; 0.0; 0.0;"What's Next After Pfizer Stock Powers Higher Tuesday?
 "
-423,2021-08-10,14:12:56,47.904999 ,48.240002 , 0.3, 0.6,"Will Kidney Transplant Recipients Need Third COVID-19 Vaccine Dose? NIH Starts Pilot Study
+423;2021-08-10;14:12:56;47.904999 ;48.240002 ; 0.3; 0.6;"Will Kidney Transplant Recipients Need Third COVID-19 Vaccine Dose? NIH Starts Pilot Study
 "
-424,2021-08-10,13:34:06,47.904999 ,48.240002 , 0.3, 0.6,"Moderna Outlines Plans For mRNA Vaccine Manufacturing Plant In Canada
+424;2021-08-10;13:34:06;47.904999 ;48.240002 ; 0.3; 0.6;"Moderna Outlines Plans For mRNA Vaccine Manufacturing Plant In Canada
 "
-425,2021-08-10,12:59:50,48.264999 ,47.904999 ,-0.3,-0.7,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+425;2021-08-10;12:59:50;48.264999 ;47.904999 ;-0.3;-0.7;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-426,2021-08-09,11:45:26,45.634998 ,45.505001 ,-0.1,-0.2,"Analyzing Pfizer's Unusual Options Activity
+426;2021-08-09;11:45:26;45.634998 ;45.505001 ;-0.1;-0.2;"Analyzing Pfizer's Unusual Options Activity
 "
-427,2021-08-06,12:14:16,44.639999 ,44.794998 , 0.1, 0.3,"Understanding Pfizer's Unusual Options Activity
+427;2021-08-06;12:14:16;44.639999 ;44.794998 ; 0.1; 0.3;"Understanding Pfizer's Unusual Options Activity
 "
-428,2021-08-05,14:38:41,44.919998 ,44.955002 , 0.0, 0.0,"PreMarket Prep Stock Of The Day: Uber
+428;2021-08-05;14:38:41;44.919998 ;44.955002 ; 0.0; 0.0;"PreMarket Prep Stock Of The Day: Uber
 "
-429,2021-08-05,12:35:52,44.924999 ,44.965000 , 0.0, 0.0,"CVS Health Stops Administration Of JNJ COVID-19 Shot In Several Locations: CNBC
+429;2021-08-05;12:35:52;44.924999 ;44.965000 ; 0.0; 0.0;"CVS Health Stops Administration Of JNJ COVID-19 Shot In Several Locations: CNBC
 "
-430,2021-08-05,12:31:07,44.924999 ,44.965000 , 0.0, 0.0,"Moderna COVID-19 Shot Is 93% Effective After Six Months Of Second Dose
+430;2021-08-05;12:31:07;44.924999 ;44.965000 ; 0.0; 0.0;"Moderna COVID-19 Shot Is 93% Effective After Six Months Of Second Dose
 "
-431,2021-08-05,12:26:54,44.820000 ,44.924999 , 0.1, 0.2,"UK Competition And Markets Authority Accuses Pfizer Of Illegal Pricing Of Its Epilepsy Drug
+431;2021-08-05;12:26:54;44.820000 ;44.924999 ; 0.1; 0.2;"UK Competition And Markets Authority Accuses Pfizer Of Illegal Pricing Of Its Epilepsy Drug
 "
-432,2021-08-04,15:12:37,45.650002 ,45.360001 ,-0.2,-0.6,"Moderna Vs. BioNTech: How Do These High-Flying COVID-19 Vaccine Stocks Compare?
+432;2021-08-04;15:12:37;45.650002 ;45.360001 ;-0.2;-0.6;"Moderna Vs. BioNTech: How Do These High-Flying COVID-19 Vaccine Stocks Compare?
 "
-433,2021-08-04,13:46:17,45.617199 ,45.650002 , 0.0, 0.0,"WHO Asks To Hold Off COVID-19 Vaccine Booster Shots Citing Inequality: Report
+433;2021-08-04;13:46:17;45.617199 ;45.650002 ; 0.0; 0.0;"WHO Asks To Hold Off COVID-19 Vaccine Booster Shots Citing Inequality: Report
 "
-434,2021-08-04,13:21:03,45.635899 ,45.617199 ,-0.0,-0.0,"2 Hot Stocks Go Parabolic: Are Shares About To Be Slapped Down?
+434;2021-08-04;13:21:03;45.635899 ;45.617199 ;-0.0;-0.0;"2 Hot Stocks Go Parabolic: Are Shares About To Be Slapped Down?
 "
-435,2021-08-03,11:16:42,44.549500 ,44.710098 , 0.1, 0.3,"Unusual Options Activity Insight: Pfizer
+435;2021-08-03;11:16:42;44.549500 ;44.710098 ; 0.1; 0.3;"Unusual Options Activity Insight: Pfizer
 "
-436,2021-08-02,14:53:31,43.895500 ,43.965000 , 0.0, 0.1,"Unusual Options Activity Insight: Pfizer
+436;2021-08-02;14:53:31;43.895500 ;43.965000 ; 0.0; 0.1;"Unusual Options Activity Insight: Pfizer
 "
-437,2021-08-02,13:21:17,43.935001 ,44.112701 , 0.1, 0.4,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+437;2021-08-02;13:21:17;43.935001 ;44.112701 ; 0.1; 0.4;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-438,2021-08-02,12:45:03,43.935001 ,44.112701 , 0.1, 0.4,"Combining AstraZeneca, mRNA COVID-19 Vaccines Show Efficacy In Danish Study: Reuters
+438;2021-08-02;12:45:03;43.935001 ;44.112701 ; 0.1; 0.4;"Combining AstraZeneca, mRNA COVID-19 Vaccines Show Efficacy In Danish Study: Reuters
 "
-439,2021-08-02,12:33:57,43.935001 ,44.112701 , 0.1, 0.4,"Cannabis Movers & Shakers: BioHarvest Sciences, Green Hygienics, Realm of Caring, Media Central Corp, Al Harrington's Viola
+439;2021-08-02;12:33:57;43.935001 ;44.112701 ; 0.1; 0.4;"Cannabis Movers & Shakers: BioHarvest Sciences, Green Hygienics, Realm of Caring, Media Central Corp, Al Harrington's Viola
 "
-440,2021-07-30,12:46:58,42.799999 ,42.880001 , 0.0, 0.1,"Unusual Options Activity Insight: Pfizer
+440;2021-07-30;12:46:58;42.799999 ;42.880001 ; 0.0; 0.1;"Unusual Options Activity Insight: Pfizer
 "
-441,2021-07-29,14:37:36,42.724998 ,42.810001 , 0.0, 0.1,"Understanding Pfizer's Unusual Options Activity
+441;2021-07-29;14:37:36;42.724998 ;42.810001 ; 0.0; 0.1;"Understanding Pfizer's Unusual Options Activity
 "
-442,2021-07-29,13:47:33,42.790001 ,42.724998 ,-0.0,-0.1,"Cashing COVID-19 Vaccine - AstraZeneca Or Pfizer
+442;2021-07-29;13:47:33;42.790001 ;42.724998 ;-0.0;-0.1;"Cashing COVID-19 Vaccine - AstraZeneca Or Pfizer
 "
-443,2021-07-28,14:21:57,43.532700 ,43.466599 ,-0.0,-0.1,"Third Dose Of Pfizer-BioNTech's COVID-19 Vaccine Boosts Protection Against Delta Variant, New Data Reveals
+443;2021-07-28;14:21:57;43.532700 ;43.466599 ;-0.0;-0.1;"Third Dose Of Pfizer-BioNTech's COVID-19 Vaccine Boosts Protection Against Delta Variant, New Data Reveals
 "
-444,2021-07-28,12:55:07,43.549801 ,43.532700 ,-0.0,-0.0,"WHO Is Currently Not In Favor Of COVID Booster Shots Citing Lack Of Data: CNBC
+444;2021-07-28;12:55:07;43.549801 ;43.532700 ;-0.0;-0.0;"WHO Is Currently Not In Favor Of COVID Booster Shots Citing Lack Of Data: CNBC
 "
-445,2021-07-28,12:43:08,43.549801 ,43.532700 ,-0.0,-0.0,"Unusual Options Activity Insight: Pfizer
+445;2021-07-28;12:43:08;43.549801 ;43.532700 ;-0.0;-0.0;"Unusual Options Activity Insight: Pfizer
 "
-446,2021-07-28,10:53:35,42.875000 ,43.115002 , 0.2, 0.5,"Why Pfizer And BioNTech Shares Are Moving Higher Today
+446;2021-07-28;10:53:35;42.875000 ;43.115002 ; 0.2; 0.5;"Why Pfizer And BioNTech Shares Are Moving Higher Today
 "
-447,2021-07-28,10:38:58,42.875000 ,43.115002 , 0.2, 0.5,"Stocks That Hit 52-Week Highs On Wednesday
+447;2021-07-28;10:38:58;42.875000 ;43.115002 ; 0.2; 0.5;"Stocks That Hit 52-Week Highs On Wednesday
 "
-448,2021-07-27,14:29:03,42.105000 ,42.070000 ,-0.0,-0.0,"Pharma Heavyweights, Including Pfizer And JNJ Trying To Push Global Tax Deal Amid COVID-19 Role: WSJ
+448;2021-07-27;14:29:03;42.105000 ;42.070000 ;-0.0;-0.0;"Pharma Heavyweights, Including Pfizer And JNJ Trying To Push Global Tax Deal Amid COVID-19 Role: WSJ
 "
-449,2021-07-26,14:43:29,41.904999 ,41.875000 ,-0.0,-0.0,"Understanding Pfizer's Unusual Options Activity
+449;2021-07-26;14:43:29;41.904999 ;41.875000 ;-0.0;-0.0;"Understanding Pfizer's Unusual Options Activity
 "
-450,2021-07-26,13:53:41,41.814999 ,41.904999 , 0.0, 0.2,"FDA Asks Pfizer/BioNTech, Moderna To Expand COVID-19 Vaccine Trials In Children: NYT
+450;2021-07-26;13:53:41;41.814999 ;41.904999 ; 0.0; 0.2;"FDA Asks Pfizer/BioNTech, Moderna To Expand COVID-19 Vaccine Trials In Children: NYT
 "
-451,2021-07-26,12:47:08,41.860001 ,41.814999 ,-0.0,-0.1,"South Korean Study Also Shows Mixed Regime Of COVID-19 Jabs Boosts Antibody Levels: Reuters
+451;2021-07-26;12:47:08;41.860001 ;41.814999 ;-0.0;-0.1;"South Korean Study Also Shows Mixed Regime Of COVID-19 Jabs Boosts Antibody Levels: Reuters
 "
-452,2021-07-23,13:24:28,41.697498 ,41.757500 , 0.0, 0.1,"Analyzing Pfizer's Unusual Options Activity
+452;2021-07-23;13:24:28;41.697498 ;41.757500 ; 0.0; 0.1;"Analyzing Pfizer's Unusual Options Activity
 "
-453,2021-07-23,12:47:42,41.697498 ,41.757500 , 0.0, 0.1,"Pfizer/BioNTech COVID-19 Effective In Protecting Against Hospitalization, But Not In Preventing Infection, Israel Study Shows
+453;2021-07-23;12:47:42;41.697498 ;41.757500 ; 0.0; 0.1;"Pfizer/BioNTech COVID-19 Effective In Protecting Against Hospitalization, But Not In Preventing Infection, Israel Study Shows
 "
-454,2021-07-22,11:48:57,41.279999 ,41.230000 ,-0.0,-0.1,"Unusual Options Activity Insight: Pfizer
+454;2021-07-22;11:48:57;41.279999 ;41.230000 ;-0.0;-0.1;"Unusual Options Activity Insight: Pfizer
 "
-455,2021-07-21,13:58:12,40.744999 ,40.885799 , 0.1, 0.3,"Johnson & Johnson's COVID-19 Shot Is Less Effective Against Delta Variant: Study
+455;2021-07-21;13:58:12;40.744999 ;40.885799 ; 0.1; 0.3;"Johnson & Johnson's COVID-19 Shot Is Less Effective Against Delta Variant: Study
 "
-456,2021-07-21,13:37:56,40.744999 ,40.885799 , 0.1, 0.3,"Understanding Pfizer's Unusual Options Activity
+456;2021-07-21;13:37:56;40.744999 ;40.885799 ; 0.1; 0.3;"Understanding Pfizer's Unusual Options Activity
 "
-457,2021-07-20,14:16:17,41.270000 ,41.075001 ,-0.1,-0.4,"Unusual Options Activity Insight: Pfizer
+457;2021-07-20;14:16:17;41.270000 ;41.075001 ;-0.1;-0.4;"Unusual Options Activity Insight: Pfizer
 "
-458,2021-07-19,14:42:54,39.895000 ,39.889999 ,-0.0,-0.0,"Analyzing Pfizer's Unusual Options Activity
+458;2021-07-19;14:42:54;39.895000 ;39.889999 ;-0.0;-0.0;"Analyzing Pfizer's Unusual Options Activity
 "
-459,2021-07-16,13:59:40,40.165001 ,40.230000 , 0.0, 0.1,"Pfizer - BioNTech COVID-19 Vaccine Granted Priority Review By FDA
+459;2021-07-16;13:59:40;40.165001 ;40.230000 ; 0.0; 0.1;"Pfizer - BioNTech COVID-19 Vaccine Granted Priority Review By FDA
 "
-460,2021-07-15,13:16:23,39.974998 ,39.950001 ,-0.0,-0.0,"Understanding Pfizer's Unusual Options Activity
+460;2021-07-15;13:16:23;39.974998 ;39.950001 ;-0.0;-0.0;"Understanding Pfizer's Unusual Options Activity
 "
-461,2021-07-14,14:14:35,39.947498 ,39.970001 , 0.0, 0.0,"EU Regulator Weighing Mix-And-Match, Boosters For COVID-19 Shots
+461;2021-07-14;14:14:35;39.947498 ;39.970001 ; 0.0; 0.0;"EU Regulator Weighing Mix-And-Match, Boosters For COVID-19 Shots
 "
-462,2021-07-14,13:47:22,39.947498 ,39.970001 , 0.0, 0.0,"Understanding Pfizer's Unusual Options Activity
+462;2021-07-14;13:47:22;39.947498 ;39.970001 ; 0.0; 0.0;"Understanding Pfizer's Unusual Options Activity
 "
-463,2021-07-14,12:32:13,39.904999 ,39.947498 , 0.0, 0.1,"European Union Delays Tax On Biggest Tech Companies
+463;2021-07-14;12:32:13;39.904999 ;39.947498 ; 0.0; 0.1;"European Union Delays Tax On Biggest Tech Companies
 "
-464,2021-07-13,14:18:03,39.689999 ,39.724998 , 0.0, 0.0,"Amid Rising Infection Cases, Israel To Offer Third Pfizer-BioNTech COVID-19 Shot: CNBC
+464;2021-07-13;14:18:03;39.689999 ;39.724998 ; 0.0; 0.0;"Amid Rising Infection Cases, Israel To Offer Third Pfizer-BioNTech COVID-19 Shot: CNBC
 "
-465,2021-07-12,13:14:58,40.005001 ,39.919998 ,-0.0,-0.2,"Analyzing Pfizer's Unusual Options Activity
+465;2021-07-12;13:14:58;40.005001 ;39.919998 ;-0.0;-0.2;"Analyzing Pfizer's Unusual Options Activity
 "
-466,2021-07-12,12:57:33,40.005001 ,39.919998 ,-0.0,-0.2,"Moderna Outlines Pregnancy Outcome Study Details For Its COVID-19 Shot
+466;2021-07-12;12:57:33;40.005001 ;39.919998 ;-0.0;-0.2;"Moderna Outlines Pregnancy Outcome Study Details For Its COVID-19 Shot
 "
-467,2021-07-09,14:34:58,39.645000 ,39.668999 , 0.0, 0.0,"EMA Says Heart Inflammation Likely Linked To mRNA-Based COVID-19 Vaccines
+467;2021-07-09;14:34:58;39.645000 ;39.668999 ; 0.0; 0.0;"EMA Says Heart Inflammation Likely Linked To mRNA-Based COVID-19 Vaccines
 "
-468,2021-07-09,14:21:08,39.639999 ,39.645000 , 0.0, 0.0,"Abbott Lays Off Around 400 Employees As COVID-19 Test Demand Evaporates
+468;2021-07-09;14:21:08;39.639999 ;39.645000 ; 0.0; 0.0;"Abbott Lays Off Around 400 Employees As COVID-19 Test Demand Evaporates
 "
-469,2021-07-09,13:19:34,39.709999 ,39.639999 ,-0.0,-0.1,"Analyzing Pfizer's Unusual Options Activity
+469;2021-07-09;13:19:34;39.709999 ;39.639999 ;-0.0;-0.1;"Analyzing Pfizer's Unusual Options Activity
 "
-470,2021-07-09,12:31:16,39.709999 ,39.639999 ,-0.0,-0.1,"Pfizer, BioNTech Working On COVID-19 Booster Shot Targeting Delta Variant
+470;2021-07-09;12:31:16;39.709999 ;39.639999 ;-0.0;-0.1;"Pfizer, BioNTech Working On COVID-19 Booster Shot Targeting Delta Variant
 "
-471,2021-07-07,13:45:35,39.209999 ,39.215000 , 0.0, 0.0,"COVID-19 Vaccine-Induced Blood Clots Probably Linked To Amino Acids, Study Shows: WSJ
+471;2021-07-07;13:45:35;39.209999 ;39.215000 ; 0.0; 0.0;"COVID-19 Vaccine-Induced Blood Clots Probably Linked To Amino Acids, Study Shows: WSJ
 "
-472,2021-07-07,13:19:16,39.150002 ,39.209999 , 0.0, 0.1,"Analyzing Pfizer's Unusual Options Activity
+472;2021-07-07;13:19:16;39.150002 ;39.209999 ; 0.0; 0.1;"Analyzing Pfizer's Unusual Options Activity
 "
-473,2021-07-07,12:27:24,39.084999 ,39.150002 , 0.0, 0.1,"Certain European Countries Order 40M Additional J&J COVID-19 Jabs: Reuters
+473;2021-07-07;12:27:24;39.084999 ;39.150002 ; 0.0; 0.1;"Certain European Countries Order 40M Additional J&J COVID-19 Jabs: Reuters
 "
-474,2021-07-07,10:58:32,39.029999 ,39.084999 , 0.0, 0.1,"Jim Cramer Says People Need To Know About Biohaven
+474;2021-07-07;10:58:32;39.029999 ;39.084999 ; 0.0; 0.1;"Jim Cramer Says People Need To Know About Biohaven
 "
-475,2021-07-06,14:48:09,39.138500 ,39.320000 , 0.1, 0.4,"Analyzing Pfizer's Unusual Options Activity
+475;2021-07-06;14:48:09;39.138500 ;39.320000 ; 0.1; 0.4;"Analyzing Pfizer's Unusual Options Activity
 "
-476,2021-07-06,14:24:04,39.110001 ,39.138500 , 0.0, 0.0,"South Korea Negotiating With mRNA COVID-19 Vaccine Makers To Produce Up To 1B Doses: Reuters
+476;2021-07-06;14:24:04;39.110001 ;39.138500 ; 0.0; 0.0;"South Korea Negotiating With mRNA COVID-19 Vaccine Makers To Produce Up To 1B Doses: Reuters
 "
-477,2021-07-02,14:26:03,39.750000 ,39.724998 ,-0.0,-0.0,"10 Worst Performing S&P 500 Stocks Of 2021
+477;2021-07-02;14:26:03;39.750000 ;39.724998 ;-0.0;-0.0;"10 Worst Performing S&P 500 Stocks Of 2021
 "
-478,2021-07-01,12:37:35,39.509998 ,39.584999 , 0.0, 0.1,"Zipline's Drone Delivery Of Pharmaceuticals Earns $2.75B Valuation
+478;2021-07-01;12:37:35;39.509998 ;39.584999 ; 0.0; 0.1;"Zipline's Drone Delivery Of Pharmaceuticals Earns $2.75B Valuation
 "
-479,2021-07-01,12:33:19,39.509998 ,39.584999 , 0.0, 0.1,"Understanding Pfizer's Unusual Options Activity
+479;2021-07-01;12:33:19;39.509998 ;39.584999 ; 0.0; 0.1;"Understanding Pfizer's Unusual Options Activity
 "
-480,2021-06-29,11:02:42,39.080002 ,39.055000 ,-0.0,-0.0,"Moderna COVID-19 Vaccine Authorized For Emergency Use In India: What You Need to Know
+480;2021-06-29;11:02:42;39.080002 ;39.055000 ;-0.0;-0.0;"Moderna COVID-19 Vaccine Authorized For Emergency Use In India: What You Need to Know
 "
-481,2021-06-29,10:49:05,39.080002 ,39.055000 ,-0.0,-0.0,"Moderna's COVID-19 Vaccine Produced Neutralizing Titers Against All Variants Tested
+481;2021-06-29;10:49:05;39.080002 ;39.055000 ;-0.0;-0.0;"Moderna's COVID-19 Vaccine Produced Neutralizing Titers Against All Variants Tested
 "
-482,2021-06-28,14:20:23,39.009998 ,39.056198 , 0.0, 0.1,"India Made AstraZeneca's COVID-19 Vaccine Not Eligible For EU Travel, Seeks Resolution: Reuters
+482;2021-06-28;14:20:23;39.009998 ;39.056198 ; 0.0; 0.1;"India Made AstraZeneca's COVID-19 Vaccine Not Eligible For EU Travel, Seeks Resolution: Reuters
 "
-483,2021-06-28,13:10:48,39.040100 ,39.009998 ,-0.0,-0.0,"FDA Revises Pfizer, Moderna COVID-19 Vaccine Sheets With Rare Heart Inflammation Warning
+483;2021-06-28;13:10:48;39.040100 ;39.009998 ;-0.0;-0.0;"FDA Revises Pfizer, Moderna COVID-19 Vaccine Sheets With Rare Heart Inflammation Warning
 "
-484,2021-06-28,13:07:52,39.040100 ,39.009998 ,-0.0,-0.0,"UK Study Of COVID-19 Shots Mix-Match Shows Immune Response, Can Add Flexibility To Vaccination Programs: CNBC
+484;2021-06-28;13:07:52;39.040100 ;39.009998 ;-0.0;-0.0;"UK Study Of COVID-19 Shots Mix-Match Shows Immune Response, Can Add Flexibility To Vaccination Programs: CNBC
 "
-485,2021-06-25,13:33:23,39.203999 ,39.095001 ,-0.1,-0.2,"FDA To Miss Action Dates For AbbVie's Upadacitinib Application For Psoriatic Arthritis, Ankylosing Spondylitis
+485;2021-06-25;13:33:23;39.203999 ;39.095001 ;-0.1;-0.2;"FDA To Miss Action Dates For AbbVie's Upadacitinib Application For Psoriatic Arthritis, Ankylosing Spondylitis
 "
-486,2021-06-24,10:43:24,39.279999 ,39.143700 ,-0.1,-0.3,"Analyzing Pfizer's Unusual Options Activity
+486;2021-06-24;10:43:24;39.279999 ;39.143700 ;-0.1;-0.3;"Analyzing Pfizer's Unusual Options Activity
 "
-487,2021-06-23,15:28:43,39.023499 ,39.115002 , 0.0, 0.2,"EXCLUSIVE: eFFECTOR, Locust Walk Acquisition CEOs On SPAC Deal, Drug Pipeline
+487;2021-06-23;15:28:43;39.023499 ;39.115002 ; 0.0; 0.2;"EXCLUSIVE: eFFECTOR, Locust Walk Acquisition CEOs On SPAC Deal, Drug Pipeline
 "
-488,2021-06-23,13:49:53,39.150398 ,39.023499 ,-0.1,-0.3,"Moderna, Pfizer Stocks Fall After CDC Panel Flags Heart Inflammation Risk In Young Adults Receiving COVID-19 Vaccine
+488;2021-06-23;13:49:53;39.150398 ;39.023499 ;-0.1;-0.3;"Moderna, Pfizer Stocks Fall After CDC Panel Flags Heart Inflammation Risk In Young Adults Receiving COVID-19 Vaccine
 "
-489,2021-06-22,13:25:16,39.686298 ,39.669998 ,-0.0,-0.0,"Should Investors Be Worried About The Delta Strain Of COVID-19?
+489;2021-06-22;13:25:16;39.686298 ;39.669998 ;-0.0;-0.0;"Should Investors Be Worried About The Delta Strain Of COVID-19?
 "
-490,2021-06-21,13:12:35,39.369999 ,39.389999 , 0.0, 0.0,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+490;2021-06-21;13:12:35;39.369999 ;39.389999 ; 0.0; 0.0;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-491,2021-06-17,14:20:46,39.375000 ,39.345001 ,-0.0,-0.0,"Mayo Clinic, nference AI Analysis Find No Real-World Link Between COVID-19 Shots And Clots
+491;2021-06-17;14:20:46;39.375000 ;39.345001 ;-0.0;-0.0;"Mayo Clinic, nference AI Analysis Find No Real-World Link Between COVID-19 Shots And Clots
 "
-492,2021-06-17,14:12:43,39.375000 ,39.345001 ,-0.0,-0.0,"Biden Administration Devotes Over $3.2B For Development Of Oral Antiviral Therapies For COVID-19: CNBC
+492;2021-06-17;14:12:43;39.375000 ;39.345001 ;-0.0;-0.0;"Biden Administration Devotes Over $3.2B For Development Of Oral Antiviral Therapies For COVID-19: CNBC
 "
-493,2021-06-14,14:45:02,39.465000 ,39.505901 , 0.0, 0.1,"Novavax Vs. Pfizer Vs. Moderna: How COVID-19 Vaccines Stack Up
+493;2021-06-14;14:45:02;39.465000 ;39.505901 ; 0.0; 0.1;"Novavax Vs. Pfizer Vs. Moderna: How COVID-19 Vaccines Stack Up
 "
-494,2021-06-11,14:57:56,40.125000 ,40.115002 ,-0.0,-0.0,"Moderna Says No Link Between COVID-19 Jab And Heart Inflammation
+494;2021-06-11;14:57:56;40.125000 ;40.115002 ;-0.0;-0.0;"Moderna Says No Link Between COVID-19 Jab And Heart Inflammation
 "
-495,2021-06-11,13:09:51,40.029999 ,40.084999 , 0.0, 0.1,"8 Health Care Stocks Showing Unusual Options Activity In Today's Session
+495;2021-06-11;13:09:51;40.029999 ;40.084999 ; 0.0; 0.1;"8 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-496,2021-06-09,15:25:45,39.785000 ,39.764999 ,-0.0,-0.0,"'Halftime Report' Traders Advise Viewers On Roblox And Johnson & Johnson
+496;2021-06-09;15:25:45;39.785000 ;39.764999 ;-0.0;-0.0;"'Halftime Report' Traders Advise Viewers On Roblox And Johnson & Johnson
 "
-497,2021-06-08,14:23:53,38.778999 ,38.820000 , 0.0, 0.1,"Pfizer/BioNTech Initiates COVID-19 Vaccine Trial In Children Below 12 Years: Reuters
+497;2021-06-08;14:23:53;38.778999 ;38.820000 ; 0.0; 0.1;"Pfizer/BioNTech Initiates COVID-19 Vaccine Trial In Children Below 12 Years: Reuters
 "
-498,2021-06-08,12:51:45,38.735001 ,38.778999 , 0.0, 0.1,"5 Biogen Analysts On FDA Approval Of Alzheimer's Drug Aduhelm, Broad Label, Pricing
+498;2021-06-08;12:51:45;38.735001 ;38.778999 ; 0.0; 0.1;"5 Biogen Analysts On FDA Approval Of Alzheimer's Drug Aduhelm, Broad Label, Pricing
 "
-499,2021-06-07,13:24:12,39.389999 ,39.380001 ,-0.0,-0.0,"Safety Concerns, Lower Demand Interrupts Use of Johnson & Johnson COVID-19 Shot: Reuters
+499;2021-06-07;13:24:12;39.389999 ;39.380001 ;-0.0;-0.0;"Safety Concerns, Lower Demand Interrupts Use of Johnson & Johnson COVID-19 Shot: Reuters
 "
-500,2021-06-02,14:28:39,38.764999 ,38.755001 ,-0.0,-0.0,"Myocarditis Cases Probably Linked to Pfizer COVID-19 Vaccine, Says Israel Health Ministry: Reuters
+500;2021-06-02;14:28:39;38.764999 ;38.755001 ;-0.0;-0.0;"Myocarditis Cases Probably Linked to Pfizer COVID-19 Vaccine, Says Israel Health Ministry: Reuters
 "
-501,2021-06-02,14:20:04,38.764999 ,38.755001 ,-0.0,-0.0,"US NIH Initiates Trial to Assess Mix-Match of COVID-19 Vaccine Booster Shots: CNBC
+501;2021-06-02;14:20:04;38.764999 ;38.755001 ;-0.0;-0.0;"US NIH Initiates Trial to Assess Mix-Match of COVID-19 Vaccine Booster Shots: CNBC
 "
-502,2021-06-01,14:42:44,38.669998 ,38.599998 ,-0.0,-0.1,"SPACs Attack Recap: 6 SPAC Deals, SPAC Rumors And Headline News From Last Week
+502;2021-06-01;14:42:44;38.669998 ;38.599998 ;-0.0;-0.1;"SPACs Attack Recap: 6 SPAC Deals, SPAC Rumors And Headline News From Last Week
 "
-503,2021-05-28,12:40:11,38.820000 ,38.840000 , 0.0, 0.0,"European Drug Regulator Supports Use Of Pfizer-BioNTech COVID-19 Vaccine In Adolescents: Reuters
+503;2021-05-28;12:40:11;38.820000 ;38.840000 ; 0.0; 0.0;"European Drug Regulator Supports Use Of Pfizer-BioNTech COVID-19 Vaccine In Adolescents: Reuters
 "
-504,2021-05-27,13:55:03,38.744999 ,38.720001 ,-0.0,-0.0,"India To Skip Local Trials for 'Well Established' COVID-19 Vaccines; Pfizer Shots May Arrive By July: Reuters
+504;2021-05-27;13:55:03;38.744999 ;38.720001 ;-0.0;-0.0;"India To Skip Local Trials for 'Well Established' COVID-19 Vaccines; Pfizer Shots May Arrive By July: Reuters
 "
-505,2021-05-27,12:36:31,38.814999 ,38.744999 ,-0.0,-0.1,"Artificial Intelligence Doctor App Ada Health Closes $90M Funding Led By Bayer, Samsung
+505;2021-05-27;12:36:31;38.814999 ;38.744999 ;-0.0;-0.1;"Artificial Intelligence Doctor App Ada Health Closes $90M Funding Led By Bayer, Samsung
 "
-506,2021-05-26,12:21:23,38.904999 ,38.946800 , 0.0, 0.1,"FDA May Not Review New COVID-19 Vaccine Emergency Use Requests
+506;2021-05-26;12:21:23;38.904999 ;38.946800 ; 0.0; 0.1;"FDA May Not Review New COVID-19 Vaccine Emergency Use Requests
 "
-507,2021-05-25,14:23:00,39.439999 ,39.299999 ,-0.1,-0.3,"Moderna Sees Single-Dose COVID-19 Vaccine Launch In India In 2022
+507;2021-05-25;14:23:00;39.439999 ;39.299999 ;-0.1;-0.3;"Moderna Sees Single-Dose COVID-19 Vaccine Launch In India In 2022
 "
-508,2021-05-24,13:17:52,39.840000 ,39.855000 , 0.0, 0.0,"Pfizer/BioNTech or AstraZeneca COVID-19 Vaccine Effective Against Variant Found in India: CNBC
+508;2021-05-24;13:17:52;39.840000 ;39.855000 ; 0.0; 0.0;"Pfizer/BioNTech or AstraZeneca COVID-19 Vaccine Effective Against Variant Found in India: CNBC
 "
-509,2021-05-21,12:53:53,40.099998 ,40.060001 ,-0.0,-0.0,"Pfizer Hits Deadlock With India Over Vaccine Indemnity Issue: Reuters
+509;2021-05-21;12:53:53;40.099998 ;40.060001 ;-0.0;-0.0;"Pfizer Hits Deadlock With India Over Vaccine Indemnity Issue: Reuters
 "
-510,2021-05-20,14:01:26,40.134998 ,40.125000 ,-0.0,-0.0,"Sanofi's Amcenestrant Combo Therapy Shows ORR of 34% In Breast Cancer Patients
+510;2021-05-20;14:01:26;40.134998 ;40.125000 ;-0.0;-0.0;"Sanofi's Amcenestrant Combo Therapy Shows ORR of 34% In Breast Cancer Patients
 "
-511,2021-05-20,11:20:14,40.049999 ,40.154999 , 0.1, 0.2,"Immutep Stock Gains on Encouraging Data from Early-Stage Solid Cancer Studies
+511;2021-05-20;11:20:14;40.049999 ;40.154999 ; 0.1; 0.2;"Immutep Stock Gains on Encouraging Data from Early-Stage Solid Cancer Studies
 "
-512,2021-05-19,13:12:09,39.709999 ,39.700001 ,-0.0,-0.0,"FDA Official Backs COVID-19 Booster Shots In Vaccinated People Within A Year: CNBC
+512;2021-05-19;13:12:09;39.709999 ;39.700001 ;-0.0;-0.0;"FDA Official Backs COVID-19 Booster Shots In Vaccinated People Within A Year: CNBC
 "
-513,2021-05-19,11:47:44,39.680000 ,39.709999 , 0.0, 0.0,"Unusual Options Activity Insight: Pfizer
+513;2021-05-19;11:47:44;39.680000 ;39.709999 ; 0.0; 0.0;"Unusual Options Activity Insight: Pfizer
 "
-514,2021-05-19,10:56:37,39.599998 ,39.680000 , 0.0, 0.2,"Pfizer To Start Making COVID-19 Vaccine Component In Ireland By 2021 End
+514;2021-05-19;10:56:37;39.599998 ;39.680000 ; 0.0; 0.2;"Pfizer To Start Making COVID-19 Vaccine Component In Ireland By 2021 End
 "
-515,2021-05-14,12:36:52,40.151001 ,40.105000 ,-0.0,-0.1,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+515;2021-05-14;12:36:52;40.151001 ;40.105000 ;-0.0;-0.1;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-516,2021-05-13,12:18:47,40.145000 ,40.205002 , 0.0, 0.1,"UK Study Answers Question If Two Doses Of COVID-19 Vaccines Can Be Mix-Matched?
+516;2021-05-13;12:18:47;40.145000 ;40.205002 ; 0.0; 0.1;"UK Study Answers Question If Two Doses Of COVID-19 Vaccines Can Be Mix-Matched?
 "
-517,2021-05-12,13:30:52,39.640099 ,39.732899 , 0.0, 0.2,"CDC Advisory Panel To Vote On Pfizer-BioNTech's COVID-19 Vaccine Use In Adolescents Today: CNBC
+517;2021-05-12;13:30:52;39.640099 ;39.732899 ; 0.0; 0.2;"CDC Advisory Panel To Vote On Pfizer-BioNTech's COVID-19 Vaccine Use In Adolescents Today: CNBC
 "
-518,2021-05-11,12:36:37,39.500000 ,39.384998 ,-0.1,-0.2,"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
+518;2021-05-11;12:36:37;39.500000 ;39.384998 ;-0.1;-0.2;"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-519,2021-05-11,11:36:22,39.720001 ,39.500000 ,-0.2,-0.5,"Cannabis Industry Salary Report: Increased Demand For Top Talent As Salaries Continue To Surge
+519;2021-05-11;11:36:22;39.720001 ;39.500000 ;-0.2;-0.5;"Cannabis Industry Salary Report: Increased Demand For Top Talent As Salaries Continue To Surge
 "
-520,2021-05-10,14:48:22,40.075001 ,39.970001 ,-0.1,-0.2,"UK's NICE Provisionally Rejects Coverage Of Pfizer-Merck KGaA's Bavencio As First-Line Therapy For Bladder Cancer
+520;2021-05-10;14:48:22;40.075001 ;39.970001 ;-0.1;-0.2;"UK's NICE Provisionally Rejects Coverage Of Pfizer-Merck KGaA's Bavencio As First-Line Therapy For Bladder Cancer
 "
-521,2021-05-10,14:41:56,40.075001 ,39.970001 ,-0.1,-0.2,"FDA To Hold AdCom Meeting For Expanding Use COVID-19 Vaccine In Children
+521;2021-05-10;14:41:56;40.075001 ;39.970001 ;-0.1;-0.2;"FDA To Hold AdCom Meeting For Expanding Use COVID-19 Vaccine In Children
 "
-522,2021-05-05,14:52:24,40.660000 ,39.880001 ,-0.7,-1.9,"Mid-Afternoon Market Update: Dow Surges 180 Points; Big 5 Sporting Goods Shares Spike Higher
+522;2021-05-05;14:52:24;40.660000 ;39.880001 ;-0.7;-1.9;"Mid-Afternoon Market Update: Dow Surges 180 Points; Big 5 Sporting Goods Shares Spike Higher
 "
-523,2021-05-05,14:16:57,40.875000 ,40.660000 ,-0.2,-0.5,"Pfizer's Hospira To Call Back Hospital Anesthetics Due To Mislabeling
+523;2021-05-05;14:16:57;40.875000 ;40.660000 ;-0.2;-0.5;"Pfizer's Hospira To Call Back Hospital Anesthetics Due To Mislabeling
 "
-524,2021-05-05,12:16:50,40.830002 ,40.888100 , 0.0, 0.1,"Mid-Day Market Update: Crude Oil Rises 1%; Esperion Therapeutics Shares Drop Following Q1 Results
+524;2021-05-05;12:16:50;40.830002 ;40.888100 ; 0.0; 0.1;"Mid-Day Market Update: Crude Oil Rises 1%; Esperion Therapeutics Shares Drop Following Q1 Results
 "
-525,2021-05-05,10:34:36,40.919998 ,40.830002 ,-0.0,-0.2,"This COVID-19 Vaccine Stock Quietly Soared 75% In April: Is There More Upside Ahead?
+525;2021-05-05;10:34:36;40.919998 ;40.830002 ;-0.0;-0.2;"This COVID-19 Vaccine Stock Quietly Soared 75% In April: Is There More Upside Ahead?
 "
-526,2021-05-04,15:00:18,39.900002 ,39.845001 ,-0.0,-0.1,"Mid-Afternoon Market Update: Nasdaq Tumbles 300 Points; Neuronetics Shares Spike Higher
+526;2021-05-04;15:00:18;39.900002 ;39.845001 ;-0.0;-0.1;"Mid-Afternoon Market Update: Nasdaq Tumbles 300 Points; Neuronetics Shares Spike Higher
 "
-527,2021-05-04,12:52:50,39.759998 ,39.990002 , 0.2, 0.5,"Pfizer's BCMA/CD3 Bispecific Candidate Study Derailed Amid Safety Woes
+527;2021-05-04;12:52:50;39.759998 ;39.990002 ; 0.2; 0.5;"Pfizer's BCMA/CD3 Bispecific Candidate Study Derailed Amid Safety Woes
 "
-528,2021-05-04,12:34:41,39.759998 ,39.990002 , 0.2, 0.5,"PreMarket Prep Stock Of The Day: Pfizer
+528;2021-05-04;12:34:41;39.759998 ;39.990002 ; 0.2; 0.5;"PreMarket Prep Stock Of The Day: Pfizer
 "
-529,2021-05-04,12:19:51,39.970001 ,39.759998 ,-0.2,-0.5,"Mid-Day Market Update: Maxar Technologies Falls After Q1 Results; BioLineRx Shares Climb
+529;2021-05-04;12:19:51;39.970001 ;39.759998 ;-0.2;-0.5;"Mid-Day Market Update: Maxar Technologies Falls After Q1 Results; BioLineRx Shares Climb
 "
-530,2021-05-04,12:04:18,39.970001 ,39.759998 ,-0.2,-0.5,"Analyzing Pfizer's Unusual Options Activity
+530;2021-05-04;12:04:18;39.970001 ;39.759998 ;-0.2;-0.5;"Analyzing Pfizer's Unusual Options Activity
 "
-531,2021-05-04,11:20:40,40.123199 ,39.970001 ,-0.1,-0.3,"Why This Pfizer Analyst Is Sidelined After Beat-And-Raise Q1
+531;2021-05-04;11:20:40;40.123199 ;39.970001 ;-0.1;-0.3;"Why This Pfizer Analyst Is Sidelined After Beat-And-Raise Q1
 "
-532,2021-05-03,14:52:40,39.674999 ,39.764999 , 0.0, 0.2,"Europe To Get Novavax COVID-19 Vaccines But Not Before End Of 2021: Reuters
+532;2021-05-03;14:52:40;39.674999 ;39.764999 ; 0.0; 0.2;"Europe To Get Novavax COVID-19 Vaccines But Not Before End Of 2021: Reuters
 "
-533,2021-05-03,13:30:55,39.599998 ,39.674999 , 0.0, 0.1,"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
+533;2021-05-03;13:30:55;39.599998 ;39.674999 ; 0.0; 0.1;"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-534,2021-04-30,13:46:25,38.560001 ,38.555000 ,-0.0,-0.0,"Two Doses Pfizer-BioNTech COVID-19 Vaccine Necessary To Generate Immune Response Against Variants, UK Study Show: Reuters
+534;2021-04-30;13:46:25;38.560001 ;38.555000 ;-0.0;-0.0;"Two Doses Pfizer-BioNTech COVID-19 Vaccine Necessary To Generate Immune Response Against Variants, UK Study Show: Reuters
 "
-535,2021-04-30,12:33:32,38.596699 ,38.560001 ,-0.0,-0.0,"BioNTech - Pfizer COVID-19 Shot Expected To Be Effective Against Double Mutants, Says BNTX CEO: CNBC
+535;2021-04-30;12:33:32;38.596699 ;38.560001 ;-0.0;-0.0;"BioNTech - Pfizer COVID-19 Shot Expected To Be Effective Against Double Mutants, Says BNTX CEO: CNBC
 "
-536,2021-04-30,11:53:43,38.535000 ,38.596699 , 0.0, 0.1,"Novavax Secures Additional $147M From Warp Speed Program For COVID-19 Vaccine
+536;2021-04-30;11:53:43;38.535000 ;38.596699 ; 0.0; 0.1;"Novavax Secures Additional $147M From Warp Speed Program For COVID-19 Vaccine
 "
-537,2021-04-30,11:14:15,38.555000 ,38.535000 ,-0.0,-0.0,"Emergent BioSolutions Hopeful To Restart Vaccine Production, Plans To Submit Response To FDA Within Days
+537;2021-04-30;11:14:15;38.555000 ;38.535000 ;-0.0;-0.0;"Emergent BioSolutions Hopeful To Restart Vaccine Production, Plans To Submit Response To FDA Within Days
 "
-538,2021-04-29,14:50:36,38.435001 ,38.514999 , 0.0, 0.2,"Pfizer-BioNTech Bullish On COVID-19 Vaccine Trial Results In Infants By September: Reuters
+538;2021-04-29;14:50:36;38.435001 ;38.514999 ; 0.0; 0.2;"Pfizer-BioNTech Bullish On COVID-19 Vaccine Trial Results In Infants By September: Reuters
 "
-539,2021-04-28,14:23:39,38.878201 ,38.825001 ,-0.0,-0.1,"Time100 Most Influential Companies: What 61 Publicly Traded Companies Are On The Inaugural List?
+539;2021-04-28;14:23:39;38.878201 ;38.825001 ;-0.0;-0.1;"Time100 Most Influential Companies: What 61 Publicly Traded Companies Are On The Inaugural List?
 "
-540,2021-04-28,13:25:07,38.810001 ,38.878201 , 0.0, 0.1,"Pfizer Acquires Amplyx Pharmaceuticals: What You Need To Know
+540;2021-04-28;13:25:07;38.810001 ;38.878201 ; 0.0; 0.1;"Pfizer Acquires Amplyx Pharmaceuticals: What You Need To Know
 "
-541,2021-04-27,14:24:09,38.439999 ,38.435001 ,-0.0,-0.0,"COVID-19 Oral Antiviral Drug From Pfizer Could Be Available By 2021, Says CEO: CNBC
+541;2021-04-27;14:24:09;38.439999 ;38.435001 ;-0.0;-0.0;"COVID-19 Oral Antiviral Drug From Pfizer Could Be Available By 2021, Says CEO: CNBC
 "
-542,2021-04-26,14:40:42,38.645000 ,38.645000 , 0.0, 0.0,"US To Send COVID-19 Vaccine Raw Materials 'Urgently Required' To Help India Tackle Surge In Infections
+542;2021-04-26;14:40:42;38.645000 ;38.645000 ; 0.0; 0.0;"US To Send COVID-19 Vaccine Raw Materials 'Urgently Required' To Help India Tackle Surge In Infections
 "
-543,2021-04-26,10:34:34,38.581699 ,38.619999 , 0.0, 0.0,"Big Earnings Week Ahead To Close April In Style
+543;2021-04-26;10:34:34;38.581699 ;38.619999 ; 0.0; 0.0;"Big Earnings Week Ahead To Close April In Style
 "
-544,2021-04-21,14:05:30,39.639999 ,39.494999 ,-0.1,-0.3,"If You Invested $1,000 In BioNTech Stock One Year Ago, Here's How Much You'd Have Now
+544;2021-04-21;14:05:30;39.639999 ;39.494999 ;-0.1;-0.3;"If You Invested $1,000 In BioNTech Stock One Year Ago, Here's How Much You'd Have Now
 "
-545,2021-04-21,14:00:39,39.639999 ,39.494999 ,-0.1,-0.3,"Corporate America Helped Pour $61M Into Biden Inaugural Committee: Here Are The Companies That Donated
+545;2021-04-21;14:00:39;39.639999 ;39.494999 ;-0.1;-0.3;"Corporate America Helped Pour $61M Into Biden Inaugural Committee: Here Are The Companies That Donated
 "
-546,2021-04-21,11:14:56,39.410000 ,39.450001 , 0.0, 0.1,"BioNВ­Tech CFO Sees Scope For Additional ProВ­ducВ­tion Sites To Meet DeВ­mand For COVID-19 Shots: Reut2021-04-19 14:35:08 38.794998  38.849998   0.0  0.1 7 Health Care Stocks Showing Unusual Options Activity In Today's Session
+546;2021-04-21;11:14:56;39.410000 ;39.450001 ; 0.0; 0.1;"BioNВ­Tech CFO Sees Scope For Additional ProВ­ducВ­tion Sites To Meet DeВ­mand For COVID-19 Shots: Reut2021-04-19 14:35:08 38.794998  38.849998   0.0  0.1 7 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-547,2021-04-16,13:04:40,38.575001 ,38.513401 ,-0.0,-0.1,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+547;2021-04-16;13:04:40;38.575001 ;38.513401 ;-0.0;-0.1;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-548,2021-04-13,15:08:27,37.090000 ,37.174999 , 0.0, 0.2,"FDA, CDC Officials Discuss Johnson & Johnson Vaccine: A 'Pause Recommendation', Resolution Timeline And Advisory
+548;2021-04-13;15:08:27;37.090000 ;37.174999 ; 0.0; 0.2;"FDA, CDC Officials Discuss Johnson & Johnson Vaccine: A 'Pause Recommendation', Resolution Timeline And Advisory
 "
-549,2021-04-13,10:46:53,37.160000 ,37.099998 ,-0.0,-0.1,"Why Novavax Stock Is Popping, Despite Vaccine Rollout Issues: Report
+549;2021-04-13;10:46:53;37.160000 ;37.099998 ;-0.0;-0.1;"Why Novavax Stock Is Popping, Despite Vaccine Rollout Issues: Report
 "
-550,2021-04-12,14:43:35,36.865002 ,36.945000 , 0.0, 0.2,"South African Variant Able To Elude Pfizer/BioNTech' Vaccine Protection, Israeli Study Shows: Reports
+550;2021-04-12;14:43:35;36.865002 ;36.945000 ; 0.0; 0.2;"South African Variant Able To Elude Pfizer/BioNTech' Vaccine Protection, Israeli Study Shows: Reports
 "
-551,2021-04-09,14:13:30,36.330002 ,36.459999 , 0.1, 0.3,"European Union Looks To Buy 1.8B Pfizer-BioNTech COVID-19 Vaccine Doses From 2022: Reuters
+551;2021-04-09;14:13:30;36.330002 ;36.459999 ; 0.1; 0.3;"European Union Looks To Buy 1.8B Pfizer-BioNTech COVID-19 Vaccine Doses From 2022: Reuters
 "
-552,2021-04-09,12:25:30,36.504200 ,36.389999 ,-0.1,-0.3,"Ginkgo Bioworks, Which Prints DNA And Creates Genetically Modified Food, Exploring SPAC Deal: Report
+552;2021-04-09;12:25:30;36.504200 ;36.389999 ;-0.1;-0.3;"Ginkgo Bioworks, Which Prints DNA And Creates Genetically Modified Food, Exploring SPAC Deal: Report
 "
-553,2021-04-08,12:14:42,36.040001 ,36.025002 ,-0.0,-0.0,"Government, Officials Defend AstraZeneca's COVID-19 Shot: CNBC
+553;2021-04-08;12:14:42;36.040001 ;36.025002 ;-0.0;-0.0;"Government, Officials Defend AstraZeneca's COVID-19 Shot: CNBC
 "
-554,2021-04-07,12:28:37,35.994999 ,35.910000 ,-0.0,-0.2,"NIH Starts Study On Allergic Reactions Risk To Pfizer/BioNTech, Moderna COVID-19 Vaccines
+554;2021-04-07;12:28:37;35.994999 ;35.910000 ;-0.0;-0.2;"NIH Starts Study On Allergic Reactions Risk To Pfizer/BioNTech, Moderna COVID-19 Vaccines
 "
-555,2021-04-07,11:16:16,36.000000 ,35.994999 ,-0.0,-0.0,"Europe's Drug Watchdog Concludes Possible Link Between AstraZeneca COVID-19 Vaccine And Blood Clots
+555;2021-04-07;11:16:16;36.000000 ;35.994999 ;-0.0;-0.0;"Europe's Drug Watchdog Concludes Possible Link Between AstraZeneca COVID-19 Vaccine And Blood Clots
 "
-556,2021-04-07,10:49:16,36.000000 ,35.994999 ,-0.0,-0.0,"Fed Minutes Later Today Loom Large As Investors Seek Insight Into FOMC's Next Steps
+556;2021-04-07;10:49:16;36.000000 ;35.994999 ;-0.0;-0.0;"Fed Minutes Later Today Loom Large As Investors Seek Insight Into FOMC's Next Steps
 "
-557,2021-04-05,13:54:31,36.285000 ,36.235001 ,-0.0,-0.1,"Pfizer In Talks With Israel For New COVID-19 Vaccine Supply Deal: Reuters
+557;2021-04-05;13:54:31;36.285000 ;36.235001 ;-0.0;-0.1;"Pfizer In Talks With Israel For New COVID-19 Vaccine Supply Deal: Reuters
 "
-558,2021-04-05,12:51:21,36.430000 ,36.285000 ,-0.1,-0.3,"Johnson & Johnson Becomes Third Company To Expand COVID-19 Vaccine Study To Adolescents
+558;2021-04-05;12:51:21;36.430000 ;36.285000 ;-0.1;-0.3;"Johnson & Johnson Becomes Third Company To Expand COVID-19 Vaccine Study To Adolescents
 "
-559,2021-04-01,14:02:31,36.325001 ,36.264999 ,-0.0,-0.1,"UK Data Shows Substantial Immune Response With Pfizer COVID-19 Shot In Elderly
+559;2021-04-01;14:02:31;36.325001 ;36.264999 ;-0.0;-0.1;"UK Data Shows Substantial Immune Response With Pfizer COVID-19 Shot In Elderly
 "
-560,2021-03-31,13:58:23,36.356499 ,36.375000 , 0.0, 0.0,"EMA May Issue Updated Recommendation If AstraZeneca Jab-Clot Link Is Established: Report
+560;2021-03-31;13:58:23;36.356499 ;36.375000 ; 0.0; 0.0;"EMA May Issue Updated Recommendation If AstraZeneca Jab-Clot Link Is Established: Report
 "
-561,2021-03-31,10:30:00,36.180000 ,36.189999 , 0.0, 0.0,"What's Moving The Market Wednesday?
+561;2021-03-31;10:30:00;36.180000 ;36.189999 ; 0.0; 0.0;"What's Moving The Market Wednesday?
 "
-562,2021-03-29,12:51:18,36.580002 ,36.679901 , 0.0, 0.2,"Thinking About Buying Stock In Moderna, Palantir, Wells Fargo Or Bank of America?
+562;2021-03-29;12:51:18;36.580002 ;36.679901 ; 0.0; 0.2;"Thinking About Buying Stock In Moderna, Palantir, Wells Fargo Or Bank of America?
 "
-563,2021-03-29,11:49:05,36.573898 ,36.580002 , 0.0, 0.0,"CDC New Study Shows Pfizer, Moderna COVID-19 Shots 90% Effective Against Infection In Real-World Setting
+563;2021-03-29;11:49:05;36.573898 ;36.580002 ; 0.0; 0.0;"CDC New Study Shows Pfizer, Moderna COVID-19 Shots 90% Effective Against Infection In Real-World Setting
 "
-564,2021-03-23,13:11:55,35.505001 ,35.625000 , 0.1, 0.3,"A Spotlight On Israel's Rollout Of Pfizer's COVID-19 Vaccine, Why Some Have Privacy Concerns
+564;2021-03-23;13:11:55;35.505001 ;35.625000 ; 0.1; 0.3;"A Spotlight On Israel's Rollout Of Pfizer's COVID-19 Vaccine, Why Some Have Privacy Concerns
 "
-565,2021-03-23,13:05:42,35.505001 ,35.625000 , 0.1, 0.3,"Pfizer Starts Early-Stage Study Of Oral Antiviral COVID-19 Drug
+565;2021-03-23;13:05:42;35.505001 ;35.625000 ; 0.1; 0.3;"Pfizer Starts Early-Stage Study Of Oral Antiviral COVID-19 Drug
 "
-566,2021-03-23,12:39:32,35.505001 ,35.625000 , 0.1, 0.3,"P/E Ratio Insights for Pfizer
+566;2021-03-23;12:39:32;35.505001 ;35.625000 ; 0.1; 0.3;"P/E Ratio Insights for Pfizer
 "
-567,2021-03-23,12:38:12,35.505001 ,35.625000 , 0.1, 0.3,"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
+567;2021-03-23;12:38:12;35.505001 ;35.625000 ; 0.1; 0.3;"9 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-568,2021-03-23,11:51:19,35.525002 ,35.505001 ,-0.0,-0.0,"Pfizer Plans To Develop New mRNA-Based Vaccines By Itself, Says CEO: WSJ
+568;2021-03-23;11:51:19;35.525002 ;35.505001 ;-0.0;-0.0;"Pfizer Plans To Develop New mRNA-Based Vaccines By Itself, Says CEO: WSJ
 "
-569,2021-03-22,13:09:35,35.959999 ,35.889999 ,-0.0,-0.1,"Pfizer/Eli Lilly's Tanezumab Safety Profile Fails To Impress FDA Even After 15 Years Of Development Across 41 Trials
+569;2021-03-22;13:09:35;35.959999 ;35.889999 ;-0.0;-0.1;"Pfizer/Eli Lilly's Tanezumab Safety Profile Fails To Impress FDA Even After 15 Years Of Development Across 41 Trials
 "
-570,2021-03-22,12:47:19,35.959999 ,35.889999 ,-0.0,-0.1,"10 Health Care Stocks With Unusual Options Alerts In Today's Session
+570;2021-03-22;12:47:19;35.959999 ;35.889999 ;-0.0;-0.1;"10 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-571,2021-03-18,11:57:07,35.840000 ,35.910000 , 0.0, 0.1,"AstraZeneca Set To Get Letter From EU As First Step Of Legal Action For Delayed Deliveries: Reuters
+571;2021-03-18;11:57:07;35.840000 ;35.910000 ; 0.0; 0.1;"AstraZeneca Set To Get Letter From EU As First Step Of Legal Action For Delayed Deliveries: Reuters
 "
-572,2021-03-18,11:15:42,35.912300 ,35.840000 ,-0.0,-0.2,"Novavax Stock Down 32% From Recent Highs: Is The COVID-19 Play A Buy Ahead of Key Readouts?
+572;2021-03-18;11:15:42;35.912300 ;35.840000 ;-0.0;-0.2;"Novavax Stock Down 32% From Recent Highs: Is The COVID-19 Play A Buy Ahead of Key Readouts?
 "
-573,2021-03-17,12:40:13,35.770000 ,35.709999 ,-0.0,-0.1,"Pfizer/BioNTech COVID-19 Vaccination Could Protect Pregnant Women, Newborns, Study In Israel Suggests: Reuters
+573;2021-03-17;12:40:13;35.770000 ;35.709999 ;-0.0;-0.1;"Pfizer/BioNTech COVID-19 Vaccination Could Protect Pregnant Women, Newborns, Study In Israel Suggests: Reuters
 "
-574,2021-03-17,12:34:09,35.770000 ,35.709999 ,-0.0,-0.1,"WHO Continues Backing AstraZeneca Vaccine - Reports
+574;2021-03-17;12:34:09;35.770000 ;35.709999 ;-0.0;-0.1;"WHO Continues Backing AstraZeneca Vaccine - Reports
 "
-575,2021-03-16,13:31:27,35.705002 ,35.709999 , 0.0, 0.0,"EMA Investigating Coagulation Cases After Several European Countries Pause AZN Shot; Findings Expected This Thursday: Reuters
+575;2021-03-16;13:31:27;35.705002 ;35.709999 ; 0.0; 0.0;"EMA Investigating Coagulation Cases After Several European Countries Pause AZN Shot; Findings Expected This Thursday: Reuters
 "
-576,2021-03-15,14:11:49,35.259998 ,35.365002 , 0.1, 0.2,"Germany, France Join List Of Countries Suspending AZN's COVID-19 Vaccine; WHO Urges Not To Halt Vaccinations
+576;2021-03-15;14:11:49;35.259998 ;35.365002 ; 0.1; 0.2;"Germany, France Join List Of Countries Suspending AZN's COVID-19 Vaccine; WHO Urges Not To Halt Vaccinations
 "
-577,2021-03-11,13:51:50,34.910000 ,34.814999 ,-0.0,-0.2,"Pfizer To Contemplate Additional Production Sites After Pandemic-Related Pressure Is Over: Reuters
+577;2021-03-11;13:51:50;34.910000 ;34.814999 ;-0.0;-0.2;"Pfizer To Contemplate Additional Production Sites After Pandemic-Related Pressure Is Over: Reuters
 "
-578,2021-03-11,11:45:11,34.880001 ,34.869999 ,-0.0,-0.0,"Pfizer/BioNTech's COVID-19 Vaccine Can Prevent Asymptomatic Infection, Study Shows
+578;2021-03-11;11:45:11;34.880001 ;34.869999 ;-0.0;-0.0;"Pfizer/BioNTech's COVID-19 Vaccine Can Prevent Asymptomatic Infection, Study Shows
 "
-579,2021-03-11,11:31:39,34.880001 ,34.869999 ,-0.0,-0.0,"Pfizer CEO Has 'Message Of Hope' On Coronavirus Pandemic Anniversary
+579;2021-03-11;11:31:39;34.880001 ;34.869999 ;-0.0;-0.0;"Pfizer CEO Has 'Message Of Hope' On Coronavirus Pandemic Anniversary
 "
-580,2021-03-10,14:35:41,35.080002 ,35.020000 ,-0.0,-0.1,"600 Adolescents Inoculated With Pfizer/BioNtech COVID-19 Shot In Israel Witness No Serious Side-Effects: Guardian
+580;2021-03-10;14:35:41;35.080002 ;35.020000 ;-0.0;-0.1;"600 Adolescents Inoculated With Pfizer/BioNtech COVID-19 Shot In Israel Witness No Serious Side-Effects: Guardian
 "
-581,2021-03-10,14:32:22,35.080002 ,35.020000 ,-0.0,-0.1,"Pfizer/BioNTech To Supply Additional 4M COVID-19 Shots To Europe: Reuters
+581;2021-03-10;14:32:22;35.080002 ;35.020000 ;-0.0;-0.1;"Pfizer/BioNTech To Supply Additional 4M COVID-19 Shots To Europe: Reuters
 "
-582,2021-03-10,13:13:29,34.779999 ,35.009998 , 0.2, 0.6,"Johnson And Johnson's Vaccine Could Be A Game Changer
+582;2021-03-10;13:13:29;34.779999 ;35.009998 ; 0.2; 0.6;"Johnson And Johnson's Vaccine Could Be A Game Changer
 "
-583,2021-03-10,11:35:19,34.785000 ,34.779999 ,-0.0,-0.0,"Pfizer To Make COVID-19 Jab In India On Faster Clearance Assurance, Export Freedom: Reuters
+583;2021-03-10;11:35:19;34.785000 ;34.779999 ;-0.0;-0.0;"Pfizer To Make COVID-19 Jab In India On Faster Clearance Assurance, Export Freedom: Reuters
 "
-584,2021-03-09,12:46:18,34.685001 ,34.619999 ,-0.0,-0.1,"Why Is Graybug Vision Stock Plunging Today?
+584;2021-03-09;12:46:18;34.685001 ;34.619999 ;-0.0;-0.1;"Why Is Graybug Vision Stock Plunging Today?
 "
-585,2021-03-09,10:51:21,34.645000 ,34.669998 , 0.0, 0.0,"Nasdaq 100 Touched Correction Territory As Week Began, Hurt By Apple Dip
+585;2021-03-09;10:51:21;34.645000 ;34.669998 ; 0.0; 0.0;"Nasdaq 100 Touched Correction Territory As Week Began, Hurt By Apple Dip
 "
-586,2021-03-09,10:41:52,34.645000 ,34.669998 , 0.0, 0.0,"J&J Facing Supply Issues, Shaky To Meet EU Q2 Vaccine Deliveries: Reuters
+586;2021-03-09;10:41:52;34.645000 ;34.669998 ; 0.0; 0.0;"J&J Facing Supply Issues, Shaky To Meet EU Q2 Vaccine Deliveries: Reuters
 "
-587,2021-03-05,13:58:46,34.199001 ,34.334999 , 0.1, 0.3,"PreMarket Prep Stock Of The Day: Norwegian Cruise Line
+587;2021-03-05;13:58:46;34.199001 ;34.334999 ; 0.1; 0.3;"PreMarket Prep Stock Of The Day: Norwegian Cruise Line
 "
-588,2021-03-05,13:48:07,34.199001 ,34.334999 , 0.1, 0.3,"AstraZeneca's COVID-19 Vaccine Potentially Triggers Response Against Brazil Variant: Reuters
+588;2021-03-05;13:48:07;34.199001 ;34.334999 ; 0.1; 0.3;"AstraZeneca's COVID-19 Vaccine Potentially Triggers Response Against Brazil Variant: Reuters
 "
-589,2021-03-03,12:49:21,34.020000 ,34.215000 , 0.1, 0.5,"Cramer Advises Viewers On Palo Alto, Pfizer, Zillow And More
+589;2021-03-03;12:49:21;34.020000 ;34.215000 ; 0.1; 0.5;"Cramer Advises Viewers On Palo Alto, Pfizer, Zillow And More
 "
-590,2021-03-03,11:47:51,33.869999 ,34.020000 , 0.1, 0.4,"Analyzing Pfizer's Unusual Options Activity
+590;2021-03-03;11:47:51;33.869999 ;34.020000 ; 0.1; 0.4;"Analyzing Pfizer's Unusual Options Activity
 "
-591,2021-03-02,13:48:16,33.730000 ,33.645000 ,-0.0,-0.2,"9 Health Care Stocks With Unusual Options Alerts In Today's Session
+591;2021-03-02;13:48:16;33.730000 ;33.645000 ;-0.0;-0.2;"9 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-592,2021-03-02,13:25:06,33.687500 ,33.730000 , 0.0, 0.1,"European Officials Seek To Garner Support For AstraZeneca COVID-19 Shot: CNBC
+592;2021-03-02;13:25:06;33.687500 ;33.730000 ; 0.0; 0.1;"European Officials Seek To Garner Support For AstraZeneca COVID-19 Shot: CNBC
 "
-593,2021-03-01,13:37:17,33.755001 ,33.802898 , 0.0, 0.1,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+593;2021-03-01;13:37:17;33.755001 ;33.802898 ; 0.0; 0.1;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-594,2021-03-01,10:58:36,33.725300 ,33.869999 , 0.1, 0.4,"Cannabis Countdown: Top 10 Marijuana And Psychedelic Stock News Stories Of The Week
+594;2021-03-01;10:58:36;33.725300 ;33.869999 ; 0.1; 0.4;"Cannabis Countdown: Top 10 Marijuana And Psychedelic Stock News Stories Of The Week
 "
-595,2021-02-26,11:30:58,33.560001 ,33.570000 , 0.0, 0.0,"Moderna Misses Expectations But Remains Optimistic For Future Vaccine Rollout
+595;2021-02-26;11:30:58;33.560001 ;33.570000 ; 0.0; 0.0;"Moderna Misses Expectations But Remains Optimistic For Future Vaccine Rollout
 "
-596,2021-02-26,11:04:25,33.380001 ,33.560001 , 0.1, 0.5,"Medically Necessary: Delaying Second Doses Would Reshape The Vaccine Supply Chain
+596;2021-02-26;11:04:25;33.380001 ;33.560001 ; 0.1; 0.5;"Medically Necessary: Delaying Second Doses Would Reshape The Vaccine Supply Chain
 "
-597,2021-02-23,13:36:32,33.790001 ,33.765499 ,-0.0,-0.0,"8 Health Care Stocks With Unusual Options Alerts In Today's Session
+597;2021-02-23;13:36:32;33.790001 ;33.765499 ;-0.0;-0.0;"8 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-598,2021-02-22,11:13:06,34.115002 ,34.235001 , 0.1, 0.3,"Why Viatris Shares Are Plunging Monday
+598;2021-02-22;11:13:06;34.115002 ;34.235001 ; 0.1; 0.3;"Why Viatris Shares Are Plunging Monday
 "
-599,2021-02-19,12:45:42,34.514999 ,34.465000 ,-0.0,-0.1,"Encouraging Deere Outlook Adds To Economic Optimism Amid Vaccine, Stimulus Hopes
+599;2021-02-19;12:45:42;34.514999 ;34.465000 ;-0.0;-0.1;"Encouraging Deere Outlook Adds To Economic Optimism Amid Vaccine, Stimulus Hopes
 "
-600,2021-02-18,13:39:25,34.650002 ,34.674999 , 0.0, 0.0,"MindMed To Buy AI Medicine Company HealthMode For CA$42M
+600;2021-02-18;13:39:25;34.650002 ;34.674999 ; 0.0; 0.0;"MindMed To Buy AI Medicine Company HealthMode For CA$42M
 "
-601,2021-02-16,14:19:24,34.744999 ,34.672401 ,-0.0,-0.2,"Merck/Eisai's Keytruda-Lenvima Combo Tops Standard Of Care In Late-Stage Kidney Cancer Study
+601;2021-02-16;14:19:24;34.744999 ;34.672401 ;-0.0;-0.2;"Merck/Eisai's Keytruda-Lenvima Combo Tops Standard Of Care In Late-Stage Kidney Cancer Study
 "
-602,2021-02-12,12:27:43,34.855099 ,34.805000 ,-0.0,-0.1,"COVID-19 Vaccine Updates: US Strikes 100M-Dose Supply Deals With Moderna, Pfizer, EU Starts Rolling Review Of CureVac Vaccine
+602;2021-02-12;12:27:43;34.855099 ;34.805000 ;-0.0;-0.1;"COVID-19 Vaccine Updates: US Strikes 100M-Dose Supply Deals With Moderna, Pfizer, EU Starts Rolling Review Of CureVac Vaccine
 "
-603,2021-02-09,10:52:21,34.880001 ,34.820000 ,-0.0,-0.1,"Twitter, Cisco Line Up To Report After Today's Close, Followed By Uber, GM Tomorrow
+603;2021-02-09;10:52:21;34.880001 ;34.820000 ;-0.0;-0.1;"Twitter, Cisco Line Up To Report After Today's Close, Followed By Uber, GM Tomorrow
 "
-604,2021-02-09,10:37:34,34.880001 ,34.820000 ,-0.0,-0.1,"Analyzing Pfizer's Unusual Options Activity
+604;2021-02-09;10:37:34;34.880001 ;34.820000 ;-0.0;-0.1;"Analyzing Pfizer's Unusual Options Activity
 "
-605,2021-02-04,11:03:28,34.860001 ,34.945000 , 0.0, 0.2,"Benzinga's Top Ratings Upgrades, Downgrades For February 4, 2021
+605;2021-02-04;11:03:28;34.860001 ;34.945000 ; 0.0; 0.2;"Benzinga's Top Ratings Upgrades, Downgrades For February 4, 2021
 "
-606,2021-02-03,15:06:36,34.939999 ,34.895000 ,-0.0,-0.1,"Pfizer Is Ready, Even For Covid-19 Variants
+606;2021-02-03;15:06:36;34.939999 ;34.895000 ;-0.0;-0.1;"Pfizer Is Ready, Even For Covid-19 Variants
 "
-607,2021-02-03,14:15:24,34.840000 ,34.939999 , 0.0, 0.2,"European Medical Agency Starts Rolling Review Of Novavax's COVID-19 Vaccine Candidate
+607;2021-02-03;14:15:24;34.840000 ;34.939999 ; 0.0; 0.2;"European Medical Agency Starts Rolling Review Of Novavax's COVID-19 Vaccine Candidate
 "
-608,2021-02-03,12:32:50,34.825001 ,34.840000 , 0.0, 0.0,"Switzerland Declines To Approve AstraZeneca COVID-19 Vaccine - Financial Times
+608;2021-02-03;12:32:50;34.825001 ;34.840000 ; 0.0; 0.0;"Switzerland Declines To Approve AstraZeneca COVID-19 Vaccine - Financial Times
 "
-609,2021-02-03,11:26:11,34.980000 ,34.860001 ,-0.1,-0.3,"P/E Ratio Insights for Pfizer
+609;2021-02-03;11:26:11;34.980000 ;34.860001 ;-0.1;-0.3;"P/E Ratio Insights for Pfizer
 "
-610,2021-02-03,11:03:15,34.980000 ,34.860001 ,-0.1,-0.3,"Amazon, Alphabet Earnings Pack A Wallop, Helping Drive Early Market Strength
+610;2021-02-03;11:03:15;34.980000 ;34.860001 ;-0.1;-0.3;"Amazon, Alphabet Earnings Pack A Wallop, Helping Drive Early Market Strength
 "
-611,2021-02-02,13:31:00,34.974998 ,34.998600 , 0.0, 0.0,"Mid-Day Market Update: Crude Oil Rises 3%; Immunovant Shares Plummet
+611;2021-02-02;13:31:00;34.974998 ;34.998600 ; 0.0; 0.0;"Mid-Day Market Update: Crude Oil Rises 3%; Immunovant Shares Plummet
 "
-612,2021-02-02,12:16:19,34.875000 ,34.715000 ,-0.1,-0.4,"Pfizer Expects COVID-19 Vaccine To Bring $15B In Revenue This Year
+612;2021-02-02;12:16:19;34.875000 ;34.715000 ;-0.1;-0.4;"Pfizer Expects COVID-19 Vaccine To Bring $15B In Revenue This Year
 "
-613,2021-02-02,12:11:05,34.875000 ,34.715000 ,-0.1,-0.4,"Mid-Morning Market Update: Markets Open Higher; Pfizer Reports Mixed Q4 Results
+613;2021-02-02;12:11:05;34.875000 ;34.715000 ;-0.1;-0.4;"Mid-Morning Market Update: Markets Open Higher; Pfizer Reports Mixed Q4 Results
 "
-614,2021-02-02,10:45:44,34.555000 ,34.875000 , 0.3, 0.9,"FAANGs' Final Fling: Amazon, Alphabet Wrap Up Earnings Season For ""Mega-Caps"" Later Today
+614;2021-02-02;10:45:44;34.555000 ;34.875000 ; 0.3; 0.9;"FAANGs' Final Fling: Amazon, Alphabet Wrap Up Earnings Season For ""Mega-Caps"" Later Today
 "
-615,2021-02-01,13:29:28,35.990002 ,35.910000 ,-0.0,-0.2,"Moderna Analyst: Unrealistic COVID-19 Vaccine Expectations Create Unfavorable Setup
+615;2021-02-01;13:29:28;35.990002 ;35.910000 ;-0.0;-0.2;"Moderna Analyst: Unrealistic COVID-19 Vaccine Expectations Create Unfavorable Setup
 "
-616,2021-02-01,12:37:43,35.990002 ,35.910000 ,-0.0,-0.2,"A Preview Of The Busy Earnings Week Ahead
+616;2021-02-01;12:37:43;35.990002 ;35.910000 ;-0.0;-0.2;"A Preview Of The Busy Earnings Week Ahead
 "
-617,2021-02-01,11:06:38,35.830002 ,35.799999 ,-0.0,-0.0,"Pfizer Earnings Preview
+617;2021-02-01;11:06:38;35.830002 ;35.799999 ;-0.0;-0.0;"Pfizer Earnings Preview
 "
-618,2021-01-29,10:44:28,36.474998 ,36.105000 ,-0.3,-1.0,"Understanding Pfizer's Unusual Options Activity
+618;2021-01-29;10:44:28;36.474998 ;36.105000 ;-0.3;-1.0;"Understanding Pfizer's Unusual Options Activity
 "
-619,2021-01-25,11:22:04,36.830002 ,36.869999 , 0.0, 0.1,"Moderna: mRNA Coronavirus Vaccine Works Against Multiple Strains
+619;2021-01-25;11:22:04;36.830002 ;36.869999 ; 0.0; 0.1;"Moderna: mRNA Coronavirus Vaccine Works Against Multiple Strains
 "
-620,2021-01-20,11:46:20,36.595001 ,36.535000 ,-0.0,-0.1,"Pfizer-BioNTech Vaccine Found Effective Against New Coronavirus Strain In Lab Study
+620;2021-01-20;11:46:20;36.595001 ;36.535000 ;-0.0;-0.1;"Pfizer-BioNTech Vaccine Found Effective Against New Coronavirus Strain In Lab Study
 "
-621,2021-01-19,10:53:25,36.735001 ,36.830002 , 0.0, 0.2,"Bank Of America And Goldman Sachs Results In Focus Along With Yellen Hearing
+621;2021-01-19;10:53:25;36.735001 ;36.830002 ; 0.0; 0.2;"Bank Of America And Goldman Sachs Results In Focus Along With Yellen Hearing
 "
-622,2021-01-11,13:41:19,37.764999 ,37.588001 ,-0.1,-0.4,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+622;2021-01-11;13:41:19;37.764999 ;37.588001 ;-0.1;-0.4;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-623,2021-01-08,11:23:56,37.125000 ,37.068001 ,-0.0,-0.1,"Analyzing Pfizer's Unusual Options Activity
+623;2021-01-08;11:23:56;37.125000 ;37.068001 ;-0.0;-0.1;"Analyzing Pfizer's Unusual Options Activity
 "
-624,2021-01-08,11:01:36,37.125000 ,37.068001 ,-0.0,-0.1,"P/E Ratio Insights for Pfizer
+624;2021-01-08;11:01:36;37.125000 ;37.068001 ;-0.0;-0.1;"P/E Ratio Insights for Pfizer
 "
-625,2021-01-07,13:17:54,36.910000 ,36.860001 ,-0.0,-0.1,"CureVac Shares Rip Higher On Coronavirus Vaccine Deal With Bayer
+625;2021-01-07;13:17:54;36.910000 ;36.860001 ;-0.0;-0.1;"CureVac Shares Rip Higher On Coronavirus Vaccine Deal With Bayer
 "
-626,2021-01-07,12:32:44,36.910000 ,36.860001 ,-0.0,-0.1,"Moderna Has Big Plans For 2021
+626;2021-01-07;12:32:44;36.910000 ;36.860001 ;-0.0;-0.1;"Moderna Has Big Plans For 2021
 "
-627,2021-01-06,12:07:03,37.342602 ,37.174999 ,-0.1,-0.4,"2021 Could Be Novavax's Year
+627;2021-01-06;12:07:03;37.342602 ;37.174999 ;-0.1;-0.4;"2021 Could Be Novavax's Year
 "
-628,2021-01-05,12:37:09,37.173500 ,37.195000 , 0.0, 0.0,"EU In Talks To Buy Up To 300M More Coronavirus Vaccine Doses From Pfizer-BioNTech
+628;2021-01-05;12:37:09;37.173500 ;37.195000 ; 0.0; 0.0;"EU In Talks To Buy Up To 300M More Coronavirus Vaccine Doses From Pfizer-BioNTech
 "
-629,2021-01-05,10:54:53,36.779999 ,36.897999 , 0.1, 0.3,"""Reopening"" Shares In Focus After Coca-Cola, Boeing Hit By Virus Fears On Monday
+629;2021-01-05;10:54:53;36.779999 ;36.897999 ; 0.1; 0.3;"""Reopening"" Shares In Focus After Coca-Cola, Boeing Hit By Virus Fears On Monday
 "
-630,2021-01-04,13:43:07,36.436699 ,36.455002 , 0.0, 0.0,"Investor Movement Index Summary: December 2020
+630;2021-01-04;13:43:07;36.436699 ;36.455002 ; 0.0; 0.0;"Investor Movement Index Summary: December 2020
 "
-631,2020-12-31,11:53:01,36.393299 ,36.325401 ,-0.0,-0.1,"After Tumultuous Year, The Final Trading Day Of 2020 Might Be A Welcome Quiet One
+631;2020-12-31;11:53:01;36.393299 ;36.325401 ;-0.0;-0.1;"After Tumultuous Year, The Final Trading Day Of 2020 Might Be A Welcome Quiet One
 "
-632,2020-12-30,13:37:51,37.040001 ,36.939999 ,-0.1,-0.2,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+632;2020-12-30;13:37:51;37.040001 ;36.939999 ;-0.1;-0.2;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-633,2020-12-30,10:57:23,37.009998 ,37.075001 , 0.0, 0.1,"FAANGs In Focus After Mega-Caps Had A Tough Tuesday Aside From Gains For Amazon
+633;2020-12-30;10:57:23;37.009998 ;37.075001 ; 0.0; 0.1;"FAANGs In Focus After Mega-Caps Had A Tough Tuesday Aside From Gains For Amazon
 "
-634,2020-12-29,11:47:22,37.040001 ,37.097401 , 0.0, 0.1,"Why Shares Of Coronavirus Vaccine Developer Arcturus Are Sinking
+634;2020-12-29;11:47:22;37.040001 ;37.097401 ; 0.0; 0.1;"Why Shares Of Coronavirus Vaccine Developer Arcturus Are Sinking
 "
-635,2020-12-28,14:20:05,36.750000 ,36.735001 ,-0.0,-0.0,"Emirates Delivers First COVID-19 Vaccines To UAE
+635;2020-12-28;14:20:05;36.750000 ;36.735001 ;-0.0;-0.0;"Emirates Delivers First COVID-19 Vaccines To UAE
 "
-636,2020-12-28,13:36:37,36.750000 ,36.735001 ,-0.0,-0.0,"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
+636;2020-12-28;13:36:37;36.750000 ;36.735001 ;-0.0;-0.0;"10 Health Care Stocks Showing Unusual Options Activity In Today's Session
 "
-637,2020-12-28,11:50:15,36.785000 ,36.776001 ,-0.0,-0.0,"Deal With Pfizer Sends Myovant Shares Higher: What Investors Need To Know
+637;2020-12-28;11:50:15;36.785000 ;36.776001 ;-0.0;-0.0;"Deal With Pfizer Sends Myovant Shares Higher: What Investors Need To Know
 "
-638,2020-12-28,11:26:26,37.029999 ,36.785000 ,-0.2,-0.6,"ROCE Insights For Pfizer
+638;2020-12-28;11:26:26;37.029999 ;36.785000 ;-0.2;-0.6;"ROCE Insights For Pfizer
 "
-639,2020-12-28,11:24:59,37.029999 ,36.785000 ,-0.2,-0.6,"Novavax Investors Pull Back As Biopharma Launches Phase 3 Coronavirus Vaccine Study
+639;2020-12-28;11:24:59;37.029999 ;36.785000 ;-0.2;-0.6;"Novavax Investors Pull Back As Biopharma Launches Phase 3 Coronavirus Vaccine Study
 "
-640,2020-12-24,12:04:50,37.404999 ,37.365002 ,-0.0,-0.1,"Inovio Shares Rise On Positive Data For Coronavirus Vaccine Candidate That's Stable At Room Temps
+640;2020-12-24;12:04:50;37.404999 ;37.365002 ;-0.0;-0.1;"Inovio Shares Rise On Positive Data For Coronavirus Vaccine Candidate That's Stable At Room Temps
 "
-641,2020-12-23,14:53:08,37.485001 ,37.505001 , 0.0, 0.0,"COVID News Flow: Pfizer-BioNTech's US Vaccine Supply Deal, Merck Strikes $356M Contract, Sorrento Files For EUA Of Rapid Test
+641;2020-12-23;14:53:08;37.485001 ;37.505001 ; 0.0; 0.0;"COVID News Flow: Pfizer-BioNTech's US Vaccine Supply Deal, Merck Strikes $356M Contract, Sorrento Files For EUA Of Rapid Test
 "
-642,2020-12-23,11:23:42,37.505001 ,37.430000 ,-0.0,-0.1,"ROCE Insights For Pfizer
+642;2020-12-23;11:23:42;37.505001 ;37.430000 ;-0.0;-0.1;"ROCE Insights For Pfizer
 "
-643,2020-12-22,12:19:27,36.891998 ,36.756302 ,-0.1,-0.3,"Moderna, Pfizer Testing Coronavirus Vaccine Against New Strain
+643;2020-12-22;12:19:27;36.891998 ;36.756302 ;-0.1;-0.3;"Moderna, Pfizer Testing Coronavirus Vaccine Against New Strain
 "
-644,2020-12-22,11:40:55,36.891998 ,36.756302 ,-0.1,-0.3,"Tesla Shares Pull Back In First Day As Part Of The S&P 500
+644;2020-12-22;11:40:55;36.891998 ;36.756302 ;-0.1;-0.3;"Tesla Shares Pull Back In First Day As Part Of The S&P 500
 "
-645,2020-12-21,13:39:38,37.174999 ,37.235001 , 0.0, 0.1,"10 Health Care Stocks With Unusual Options Alerts In Today's Session
+645;2020-12-21;13:39:38;37.174999 ;37.235001 ; 0.0; 0.1;"10 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-646,2020-12-21,12:20:16,37.115002 ,37.082500 ,-0.0,-0.0,"Airline, Cruise Stocks Sink As New COVID Strain Emerges In UK
+646;2020-12-21;12:20:16;37.115002 ;37.082500 ;-0.0;-0.0;"Airline, Cruise Stocks Sink As New COVID Strain Emerges In UK
 "
-647,2020-12-21,12:10:56,37.115002 ,37.082500 ,-0.0,-0.0,"EMA Committee Recommends Conditional Approval Of Pfizer-BioNTech Vaccine In Europe
+647;2020-12-21;12:10:56;37.115002 ;37.082500 ;-0.0;-0.0;"EMA Committee Recommends Conditional Approval Of Pfizer-BioNTech Vaccine In Europe
 "
-648,2020-12-21,11:28:21,37.009998 ,37.115002 , 0.1, 0.2,"After Beating Expectations, Nike Shares Offer Counterpoint To Virus-Related Stock Selling
+648;2020-12-21;11:28:21;37.009998 ;37.115002 ; 0.1; 0.2;"After Beating Expectations, Nike Shares Offer Counterpoint To Virus-Related Stock Selling
 "
-649,2020-12-18,10:30:08,37.737900 ,37.650002 ,-0.0,-0.2,"Moderna Analysts Discuss Adcom Verdict, Distribution And Commercialization Of Coronavirus Vaccine
+649;2020-12-18;10:30:08;37.737900 ;37.650002 ;-0.0;-0.2;"Moderna Analysts Discuss Adcom Verdict, Distribution And Commercialization Of Coronavirus Vaccine
 "
-650,2020-12-17,13:37:41,37.974998 ,38.035000 , 0.0, 0.1,"10 Health Care Stocks With Unusual Options Alerts In Today's Session
+650;2020-12-17;13:37:41;37.974998 ;38.035000 ; 0.0; 0.1;"10 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-651,2020-12-16,12:25:03,38.270000 ,38.105000 ,-0.1,-0.4,"Benzinga's Top Upgrades, Downgrades For December 16, 2020
+651;2020-12-16;12:25:03;38.270000 ;38.105000 ;-0.1;-0.4;"Benzinga's Top Upgrades, Downgrades For December 16, 2020
 "
-652,2020-12-16,11:16:00,38.169998 ,38.270000 , 0.1, 0.2,"No Dry Ice Shortage, FedEx And UPS Say
+652;2020-12-16;11:16:00;38.169998 ;38.270000 ; 0.1; 0.2;"No Dry Ice Shortage, FedEx And UPS Say
 "
-653,2020-12-16,10:59:02,38.169998 ,38.270000 , 0.1, 0.2,"10 Healthcare Stocks That Thrived In 2020
+653;2020-12-16;10:59:02;38.169998 ;38.270000 ; 0.1; 0.2;"10 Healthcare Stocks That Thrived In 2020
 "
-654,2020-12-15,12:28:42,38.497101 ,38.380001 ,-0.1,-0.3,"FDA Briefing Document On Moderna's Coronavirus Vaccine Positive On Efficacy, Safety
+654;2020-12-15;12:28:42;38.497101 ;38.380001 ;-0.1;-0.3;"FDA Briefing Document On Moderna's Coronavirus Vaccine Positive On Efficacy, Safety
 "
-655,2020-12-15,12:08:28,38.497101 ,38.380001 ,-0.1,-0.3,"More Than 3,000 Sites To Receive Moderna COVID Vaccine
+655;2020-12-15;12:08:28;38.497101 ;38.380001 ;-0.1;-0.3;"More Than 3,000 Sites To Receive Moderna COVID Vaccine
 "
-656,2020-12-15,11:07:27,38.410000 ,38.497101 , 0.0, 0.2,"Why You Should Approach The Stock Market's Rally With Caution
+656;2020-12-15;11:07:27;38.410000 ;38.497101 ; 0.0; 0.2;"Why You Should Approach The Stock Market's Rally With Caution
 "
-657,2020-12-14,13:21:52,39.835899 ,39.661400 ,-0.1,-0.4,"Stock Market Recap For the Week Of 12/7/2020: IPOs, Vaccines & Facebook Lawsuit
+657;2020-12-14;13:21:52;39.835899 ;39.661400 ;-0.1;-0.4;"Stock Market Recap For the Week Of 12/7/2020: IPOs, Vaccines & Facebook Lawsuit
 "
-658,2020-12-14,13:08:04,39.835899 ,39.661400 ,-0.1,-0.4,"Mid-Day Market Update: Nasdaq Rises 1.1%; Aerpio Pharmaceuticals Shares Plummet
+658;2020-12-14;13:08:04;39.835899 ;39.661400 ;-0.1;-0.4;"Mid-Day Market Update: Nasdaq Rises 1.1%; Aerpio Pharmaceuticals Shares Plummet
 "
-659,2020-12-14,12:07:57,40.049999 ,39.835899 ,-0.2,-0.5,"Contingency Planning Guides Pfizer Vaccine Distribution Flow
+659;2020-12-14;12:07:57;40.049999 ;39.835899 ;-0.2;-0.5;"Contingency Planning Guides Pfizer Vaccine Distribution Flow
 "
-660,2020-12-14,11:14:45,40.244999 ,40.049999 ,-0.1,-0.4,"Mid-Morning Market Update: Markets Open Higher; FDA Authorizes Pfizer-BioNTech Covid-19 Vaccine
+660;2020-12-14;11:14:45;40.244999 ;40.049999 ;-0.1;-0.4;"Mid-Morning Market Update: Markets Open Higher; FDA Authorizes Pfizer-BioNTech Covid-19 Vaccine
 "
-661,2020-12-14,11:04:05,40.244999 ,40.049999 ,-0.1,-0.4,"With Pfizer-BioNTech Vaccine Rollout Underway, Investors Also Encouraged By Stimulus News
+661;2020-12-14;11:04:05;40.244999 ;40.049999 ;-0.1;-0.4;"With Pfizer-BioNTech Vaccine Rollout Underway, Investors Also Encouraged By Stimulus News
 "
-662,2020-12-11,12:58:16,40.950001 ,41.099998 , 0.1, 0.3,"Despite Positive Vaccine Outlook, Value Stocks May Still Find Themselves In Trouble Long-Term
+662;2020-12-11;12:58:16;40.950001 ;41.099998 ; 0.1; 0.3;"Despite Positive Vaccine Outlook, Value Stocks May Still Find Themselves In Trouble Long-Term
 "
-663,2020-12-11,11:09:19,41.197399 ,41.185001 ,-0.0,-0.0,"Disney In Focus After Entertainment Company Says Streaming Service Has Nearly 87 Million Subscribers
+663;2020-12-11;11:09:19;41.197399 ;41.185001 ;-0.0;-0.0;"Disney In Focus After Entertainment Company Says Streaming Service Has Nearly 87 Million Subscribers
 "
-664,2020-12-10,14:47:29,41.845001 ,41.955002 , 0.1, 0.2,"10 Health Care Stocks With Unusual Options Alerts In Today's Session
+664;2020-12-10;14:47:29;41.845001 ;41.955002 ; 0.1; 0.2;"10 Health Care Stocks With Unusual Options Alerts In Today's Session
 "
-665,2020-12-10,11:36:18,41.930000 ,41.735001 ,-0.1,-0.4,"Rehearsal Exposes Gaps In COVID Vaccine Delivery
+665;2020-12-10;11:36:18;41.930000 ;41.735001 ;-0.1;-0.4;"Rehearsal Exposes Gaps In COVID Vaccine Delivery
 "
-666,2020-12-10,11:24:03,41.939999 ,41.930000 ,-0.0,-0.0,"Investors Seem More Focused On Vaccine, Stimulus Than Facebook's Regulatory Woes
+666;2020-12-10;11:24:03;41.939999 ;41.930000 ;-0.0;-0.0;"Investors Seem More Focused On Vaccine, Stimulus Than Facebook's Regulatory Woes
 "
-667,2020-12-09,11:29:30,41.520000 ,41.779999 , 0.2, 0.6,"Allergy Warning Issued For Pfizer-BioNTech COVID-19 Vaccine In UK
+667;2020-12-09;11:29:30;41.520000 ;41.779999 ; 0.2; 0.6;"Allergy Warning Issued For Pfizer-BioNTech COVID-19 Vaccine In UK
 "
-668,2020-12-09,11:10:24,41.520000 ,41.779999 , 0.2, 0.6,"Stocks That Hit 52-Week Highs On Wednesday
+668;2020-12-09;11:10:24;41.520000 ;41.779999 ; 0.2; 0.6;"Stocks That Hit 52-Week Highs On Wednesday
 "
